@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Barq Racing · AI Assistant</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{height:100%;overflow:hidden;background:#000;}
+  canvas{display:block;width:100vw;height:100vh;touch-action:none;}
+  body{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;}
+  #cap{position:fixed;left:0;right:0;bottom:6vh;text-align:center;color:#67C9FA;
+       font-family:-apple-system,'Segoe UI',sans-serif;font-size:1.15rem;
+       text-shadow:0 0 12px rgba(103,201,250,.6);pointer-events:none;
+       padding:0 8vw;line-height:1.5;}
+  #start{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;
+       background:rgba(0,0,0,.85);color:#67C9FA;font-family:inherit;font-size:1.3rem;
+       border:0;cursor:pointer;font-family:-apple-system,'Segoe UI',sans-serif;}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="cap"></div>
+<button id="start">tap to start listening</button>
+
+<script id="vert" type="x-shader/x-vertex">
+attribute vec2 p;
+void main(){ gl_Position = vec4(p,0.0,1.0); }
+</script>
+<script id="frag" type="x-shader/x-fragment">
+precision highp float;
+uniform vec2 u_res;
+uniform float u_time;
+uniform float u_energy;
+vec4 permute(vec4 x){return mod(((x*34.0)+1.0)*x,289.0);}
+vec4 taylorInvSqrt(vec4 r){return 1.79284291400159-0.85373472095314*r;}
+float snoise(vec3 v){
+  const vec2 C=vec2(1.0/6.0,1.0/3.0); const vec4 D=vec4(0.0,0.5,1.0,2.0);
+  vec3 i=floor(v+dot(v,C.yyy)); vec3 x0=v-i+dot(i,C.xxx);
+  vec3 g=step(x0.yzx,x0.xyz); vec3 l=1.0-g;
+  vec3 i1=min(g.xyz,l.zxy); vec3 i2=max(g.xyz,l.zxy);
+  vec3 x1=x0-i1+C.xxx; vec3 x2=x0-i2+2.0*C.xxx; vec3 x3=x0-1.0+3.0*C.xxx;
+  i=mod(i,289.0);
+  vec4 pp=permute(permute(permute(
+      i.z+vec4(0.0,i1.z,i2.z,1.0))
+    + i.y+vec4(0.0,i1.y,i2.y,1.0))
+    + i.x+vec4(0.0,i1.x,i2.x,1.0));
+  float n_=1.0/7.0; vec3 ns=n_*D.wyz-D.xzx;
+  vec4 j=pp-49.0*floor(pp*ns.z*ns.z);
+  vec4 x_=floor(j*ns.z); vec4 y_=floor(j-7.0*x_);
+  vec4 x=x_*ns.x+ns.yyyy; vec4 y=y_*ns.x+ns.yyyy;
+  vec4 h=1.0-abs(x)-abs(y);
+  vec4 b0=vec4(x.xy,y.xy); vec4 b1=vec4(x.zw,y.zw);
+  vec4 s0=floor(b0)*2.0+1.0; vec4 s1=floor(b1)*2.0+1.0;
+  vec4 sh=-step(h,vec4(0.0));
+  vec4 a0=b0.xzyw+s0.xzyw*sh.xxyy; vec4 a1=b1.xzyw+s1.xzyw*sh.zzww;
+  vec3 p0=vec3(a0.xy,h.x); vec3 p1=vec3(a0.zw,h.y);
+  vec3 p2=vec3(a1.xy,h.z); vec3 p3=vec3(a1.zw,h.w);
+  vec4 norm=taylorInvSqrt(vec4(dot(p0,p0),dot(p1,p1),dot(p2,p2),dot(p3,p3)));
+  p0*=norm.x; p1*=norm.y; p2*=norm.z; p3*=norm.w;
+  vec4 m=max(0.6-vec4(dot(x0,x0),dot(x1,x1),dot(x2,x2),dot(x3,x3)),0.0); m=m*m;
+  return 42.0*dot(m*m,vec4(dot(p0,x0),dot(p1,x1),dot(p2,x2),dot(p3,x3)));
+}
+float fbm(vec3 p){ float v=0.0,a=0.5; for(int i=0;i<5;i++){v+=a*snoise(p);p*=2.0;a*=0.5;} return v; }
+void main(){
+  vec2 uv=(gl_FragCoord.xy-0.5*u_res)/min(u_res.x,u_res.y);
+  float t=u_time*0.12;
+  float energy=u_energy;
+  float radius=0.30*(1.0+0.015*sin(u_time*0.9)+0.05*energy);
+  float r=length(uv);
+  vec3 blue=vec3(0.02,0.02,0.94);
+  vec3 sky =vec3(0.40,0.79,0.98);
+  vec3 col=vec3(0.0);
+  float glow=smoothstep(radius+0.30,radius-0.02,r);
+  col+=mix(blue,sky,0.35)*pow(glow,2.2)*(0.35+0.35*energy);
+  if(r<radius){
+    float z=sqrt(max(radius*radius-r*r,0.0));
+    vec3 n=normalize(vec3(uv,z));
+    vec3 q=n*1.7+vec3(0.0,0.0,t);
+    float f=fbm(q+fbm(q*0.5+t)*0.4);
+    f=0.5+0.5*f;
+    vec3 base=mix(blue,sky,smoothstep(0.25,0.95,f+0.15*energy));
+    float core=smoothstep(radius,0.0,r);
+    base+=sky*pow(core,3.0)*(0.45+0.4*energy);
+    float fres=pow(1.0-z/radius,2.6);
+    base+=sky*fres*0.9;
+    float edge=smoothstep(radius,radius-0.03,r);
+    col=mix(col,base,edge);
+  }
+  col=col/(col+vec3(0.6))*1.35;
+  gl_FragColor=vec4(col,1.0);
+}
+</script>
+
+<script>
+/* ---------- orb ---------- */
+const cv=document.getElementById('c');
+const gl=cv.getContext('webgl')||cv.getContext('experimental-webgl');
+function sh(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
+  if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))console.error(gl.getShaderInfoLog(s));return s;}
+const prog=gl.createProgram();
+gl.attachShader(prog,sh(gl.VERTEX_SHADER,document.getElementById('vert').textContent));
+gl.attachShader(prog,sh(gl.FRAGMENT_SHADER,document.getElementById('frag').textContent));
+gl.linkProgram(prog);gl.useProgram(prog);
+const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
+gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,3,-1,-1,3]),gl.STATIC_DRAW);
+const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);
+gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
+const uRes=gl.getUniformLocation(prog,'u_res');
+const uTime=gl.getUniformLocation(prog,'u_time');
+const uEnergy=gl.getUniformLocation(prog,'u_energy');
+function resize(){const dpr=Math.min(window.devicePixelRatio||1,2);
+  cv.width=innerWidth*dpr;cv.height=innerHeight*dpr;gl.viewport(0,0,cv.width,cv.height);}
+addEventListener('resize',resize);resize();
+const E={idle:0.0,listening:0.55,thinking:0.25,speaking:1.0};
+let energy=0,target=0;
+function setState(s){target=E[s]??0;}
+const t0=performance.now();
+(function frame(now){
+  energy+=(target-energy)*0.05;
+  gl.uniform2f(uRes,cv.width,cv.height);
+  gl.uniform1f(uTime,(now-t0)/1000);
+  gl.uniform1f(uEnergy,energy);
+  gl.drawArrays(gl.TRIANGLES,0,3);
+  requestAnimationFrame(frame);
+})(t0);
+
+/* ---------- push-to-talk: hold SPACE (or press and hold the screen) -> record -> release -> POST /voice -> play reply ---------- */
+const cap=document.getElementById('cap');
+const say=t=>{cap.textContent=t;};
+const IDLE_MSG=matchMedia('(pointer:coarse)').matches?'press and hold the screen and talk':'hold SPACE and talk';
+let busy=false;   // true while thinking/speaking — key ignored
+
+async function startLoop(){
+  const stream=await navigator.mediaDevices.getUserMedia({audio:{
+    echoCancellation:true,noiseSuppression:true,autoGainControl:true}});
+  const mime=MediaRecorder.isTypeSupported('audio/webm;codecs=opus')
+    ?'audio/webm;codecs=opus':'audio/mp4';
+
+  const MIN_MS=300;
+  let rec=null,chunks=[],started=0;
+
+  setState('idle');say(IDLE_MSG);
+
+  function begin(){
+    if(busy||rec)return;
+    rec=new MediaRecorder(stream,{mimeType:mime});chunks=[];
+    rec.ondataavailable=ev=>chunks.push(ev.data);
+    rec.start();started=performance.now();
+    setState('listening');say('listening…');
+  }
+
+  function end(){
+    if(!rec)return;
+    const dur=performance.now()-started;
+    rec.onstop=()=>{ if(dur>MIN_MS) send(new Blob(chunks,{type:mime}));
+                     else {setState('idle');say(IDLE_MSG);} };
+    rec.stop();rec=null;
+  }
+
+  addEventListener('keydown',e=>{
+    if(e.code!=='Space')return;
+    e.preventDefault();
+    if(!e.repeat)begin();
+  });
+
+  addEventListener('keyup',e=>{
+    if(e.code!=='Space'||!rec)return;
+    e.preventDefault();
+    end();
+  });
+
+  // phone: press and hold anywhere on the screen
+  addEventListener('pointerdown',e=>{ if(!e.button)begin(); });
+  addEventListener('pointerup',end);
+  addEventListener('pointercancel',end);
+  addEventListener('contextmenu',e=>e.preventDefault());
+
+  async function send(blob){
+    busy=true;setState('thinking');say('…');
+    try{
+      const r=await fetch('/voice',{method:'POST',
+        headers:{'Content-Type':blob.type,'X-PTT':'1'},body:blob});
+      if(r.status===401){location.href='/login';return;}
+      const d=await r.json();
+      if(d.error){say(d.error);}
+      if(!d.woke){ setState('idle');say(IDLE_MSG);busy=false;return; }
+      say(d.reply||'');
+      if(d.audio){
+        const a=new Audio('data:audio/mp3;base64,'+d.audio);
+        setState('speaking');
+        a.onended=()=>{setState('idle');say(IDLE_MSG);busy=false;};
+        a.onerror=()=>{setState('idle');busy=false;};
+        a.play();
+      }else{setState('idle');say(IDLE_MSG);busy=false;}
+    }catch(e){say('connection error');setState('idle');busy=false;}
+  }
+}
+
+document.getElementById('start').addEventListener('click',async e=>{
+  e.target.remove();
+  try{await startLoop();}catch(err){say('mic permission denied');}
+});
+</script>
+</body>
+</html>

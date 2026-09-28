@@ -1,0 +1,636 @@
+ 
+ 
+Using Artificial Intelligence (AI) Responsibly  
+A Global Guide for Competing Teams  
+(2026 Edition) 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Page | 2  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+Contents 
+1 
+USING AI RESPONSIBLY ............................................................................................................... 3 
+1.1 
+The Core Message .................................................................................................................. 3 
+2 
+Introduction ................................................................................................................................ 4 
+2.1 
+Understanding AI in the STEM Racing Context .......................................................................... 4 
+2.2 
+Common AI Tools Used by Teams ............................................................................................ 4 
+3 
+Core Principles for Responsible AI Use ......................................................................................... 5 
+3.1 
+Integrity and Originality ........................................................................................................... 5 
+3.2 
+Transparency ......................................................................................................................... 5 
+3.3 
+Verification and Human Oversight ........................................................................................... 5 
+3.4 
+Accountability ........................................................................................................................ 6 
+4 
+Referencing and Acknowledging AI Use ......................................................................................... 7 
+4.1 
+Why Reference AI? ................................................................................................................. 7 
+4.2 
+How to Reference AI Tools ...................................................................................................... 7 
+4.3 
+Where to Place AI Acknowledgements ..................................................................................... 7 
+4.4 
+Recommended Referencing Resources ................................................................................... 8 
+5 
+Ethical Limits and Examples of Acceptable Use ............................................................................. 9 
+6 
+The Core Principle: Understanding What You Produce ................................................................. 10 
+7 
+Academic Integrity and Judging Compliance ............................................................................... 11 
+7.1 
+Judging Assessment Criteria ................................................................................................. 11 
+7.2 
+Authenticity, Transparency, and Demonstrated Understanding ............................................... 11 
+7.2.1 
+Principle ........................................................................................................................ 11 
+7.2.2 
+Assessment Through Existing Scorecards ........................................................................ 11 
+7.2.3 
+Mandatory Disclosure Requirement ................................................................................ 11 
+7.2.4 
+Integrity Review (Exceptional Circumstances) ................................................................. 12 
+7.2.5 
+Proportionality ............................................................................................................... 12 
+7.3 
+Escalation and Decision Process .......................................................................................... 12 
+8 
+Final Reminder .......................................................................................................................... 13 
+9 
+References ................................................................................................................................ 13 
+10 
+Appendix .................................................................................................................................. 13 
+10.1 
+AI Assistance and Verification Log ......................................................................................... 1 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Page | 3  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+1 USING AI RESPONSIBLY 
+1.1 
+The Core Message  
+Artificial Intelligence is changing the way we design, learn, and compete, and in STEM Racing, it’s 
+part of the future we’re building together. AI can help you think faster, design smarter, and tell your 
+story more powerfully than ever before. But with great technology comes great responsibility. 
+ 
+YOU CAN USE EVERY TOOL — BUT YOU MUST UNDERSTAND EVERY OUTCOME. 
+AI is an incredible partner in creativity, research, and engineering, yet it’s only as powerful as the 
+mind behind it. You are encouraged to explore every technology available to you, but remember: if 
+you can’t explain how something works, you can’t claim it as your own. Understanding is 
+ownership. 
+ 
+BE TRANSPARENT. ALWAYS TELL JUDGES HOW AI WAS USED. 
+AI should enhance your ideas, not replace them. Whenever you use AI in your project, whether for 
+concept sketches, data summaries, or presentation design, include a short note or appendix in 
+your portfolio to show honesty and accountability. 
+ 
+ 
+
+ 
+ 
+ 
+Page | 4  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+2 Introduction 
+Innovation sits at the heart of STEM Racing™. From the first sketch of a car body to the final race 
+down the 20-metre track, teams are encouraged to think creatively, use new technologies, and 
+engineer bold solutions. 
+Artificial Intelligence (AI) tools now offer new ways to design, research, and present ideas. Used 
+responsibly, they can enhance learning and efficiency. Misused, they can undermine originality and 
+the spirit of fair competition. 
+This guide explains how teams may use, reference, and disclose AI tools ethically in all areas of 
+the STEM Racing Challenge. It draws on global academic integrity standards and official STEM 
+Racing Regulations to help every team innovate confidently while protecting their credibility and 
+compliance. 
+2.1 
+Understanding AI in the STEM Racing Context 
+Definitions: 
+• 
+Artificial Intelligence (AI) – a system capable of performing tasks that normally require 
+human intelligence, such as pattern recognition, decision-making, or natural-language 
+processing. 
+• 
+Generative AI – an AI model (for example, GPT-based chatbots or image generators) that 
+creates new text, images, code, or data based on patterns in existing information. 
+• 
+Machine Learning – algorithms that allow systems to learn from data and improve 
+automatically through experience. 
+• 
+Natural Language Processing (NLP) – the technology enabling AI systems to understand 
+and generate human language. 
+2.2 Common AI Tools Used by Teams 
+The following categories illustrate common types of AI-powered tools that teams may use in 
+support of their project work. 
+Category 
+Example Tools 
+Typical Applications in STEM Racing 
+Research & Writing 
+ChatGPT, Elicit, 
+Consensus 
+Summarising scientific papers, generating research 
+questions, outlining reports 
+Design & 
+Engineering 
+Autodesk AI assistants, 
+Ansys Discovery 
+Concept suggestions, aerodynamic analysis 
+support 
+Project 
+Management 
+ClickUp AI, Notion AI, 
+Microsoft Copilot 
+Drafting timelines, risk logs, progress summaries 
+Marketing & 
+Enterprise 
+Canva Magic Studio, 
+DALL·E, Midjourney 
+Generating poster concepts, social-media visuals 
+Language & Editing 
+Grammarly, DeepL Write 
+Improving clarity and grammar in written work 
+ 
+This list is illustrative, not exhaustive. Any AI-powered tool used in the development of a STEM 
+Racing project must be disclosed in accordance with Section 4. 
+Teams must record the specific tool name and version used at the time of use within the AI 
+Assistance and Verification Log (see Appendix). The use of a tool not listed above does not exempt 
+teams from disclosure obligations. 
+TEAMS SHOULD REMEMBER THAT THESE TOOLS SUPPORT HUMAN CREATIVITY - THEY DO 
+NOT REPLACE IT. 
+
+ 
+ 
+ 
+Page | 5  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+3 Core Principles for Responsible AI Use 
+3.1 
+Integrity and Originality 
+All work presented at the STEM Racing World Finals must represent the team’s own ideas, designs, 
+and understanding. AI may assist, but the final creative and technical decisions must belong to the 
+team. This aligns with:  
+• Competition Regulations C2.18 – Plagiarism (work must be original and credited appropriately).  
+• Technical Regulations T2.10 – Originality of Work (all CAD, CAM data, and text must be 
+produced by the team).  
+3.2 Transparency 
+Teams must be open about any use of AI in written or visual work. A simple acknowledgement (see 
+Section 4) ensures honesty and helps judges understand how technology was integrated. 
+3.3 Verification and Human Oversight 
+AI-generated outputs may contain factual errors, embedded bias, fabricated references, or 
+technically plausible but incorrect claims. Teams remain fully responsible for verifying all AI-
+assisted content before submission. Verification requirements differ depending on the project 
+area. 
+For Design & Engineering, technical claims must be supported by credible engineering sources 
+such as peer-reviewed journals, recognised aerospace or physics textbooks, manufacturer 
+datasheets, official software outputs, or validated testing data. Performance claims should be 
+supported by real calculations, simulations, or physical testing where applicable. 
+For Materials and Manufacturing, teams should reference manufacturer datasheets, material 
+property databases, or verified engineering standards. 
+For Project Management, timelines, risk analysis methods, and budgeting frameworks should be 
+cross-checked against recognised methodologies or documented project practices. 
+For Marketing & Enterprise, market statistics, demographic data, and financial projections must 
+be supported by credible business reports, official data sources, or clearly cited research. 
+For Performance Benchmarks, teams should reference official competition records, published 
+STEM Racing data, or verified test results. 
+Teams must not rely solely on AI-generated citations or statistics without independently confirming 
+their authenticity. 
+AI systems may generate inaccurate, fabricated, or unverifiable information, including: 
+• 
+Fabricated academic references 
+• 
+Invented statistics 
+• 
+Incorrect technical explanations 
+• 
+Misattributed quotes or data 
+• 
+Plausible but inaccurate scientific reasoning 
+Such errors remain the responsibility of the team. 
+Verification Checklist 
+For every significant AI-assisted output, teams should complete the following process: 
+
+ 
+ 
+ 
+Page | 6  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+1. Identify the original source referenced (if any). 
+2. Assess the credibility of the source. 
+3. Cross-reference the claim against at least one independent source where appropriate. 
+4. Confirm alignment with competition regulations and technical constraints. 
+5. Record verification steps in the AI Assistance and Verification Log (see Appendix). 
+Failure to conduct appropriate verification may result in a Competition Integrity Breach under 
+Section 7. 
+3.4 Accountability 
+Each team member remains responsible for the content submitted. 
+Judges may ask teams to explain how AI tools were used and verified. Failure to provide clear 
+answers could affect scoring. 
+ 
+ 
+
+ 
+ 
+ 
+Page | 7  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+4 Referencing and Acknowledging AI Use 
+4.1 Why Reference AI? 
+Referencing AI sources follows international academic practice and prevents plagiarism. It 
+demonstrates transparency, allows others to reproduce your process, and upholds the “Spirit of 
+the Competition”. 
+4.2 How to Reference AI Tools 
+When an AI tool contributes text, imagery, or data, include an in-text acknowledgement and a full 
+reference in your portfolio or appendix. 
+Example 1 – Text Assistance (Harvard Style) 
+Text generated using ChatGPT (OpenAI, 2026) in response to the prompt “Explain aerodynamic 
+drag in model racing cars.” Reviewed and edited by Team Velocity. 
+Reference List Entry: 
+OpenAI (2026) ChatGPT [large language model]. Version 5. Available at: 
+https://chat.openai.com (Accessed 10 Jan 2026). 
+ 
+ 
+Example 2 – Image Generation (APA 7th Style) 
+Image produced with DALL·E (OpenAI, 2026) based on the prompt “Team logo concept 
+showing carbon fibre texture and blue aerodynamic flow lines.” Modified in Adobe Illustrator by 
+the team. 
+ 
+ 
+Example 3 – Research Summarisation 
+Information retrieved from Consensus (2026) AI research platform. All cited papers were 
+reviewed manually to confirm accuracy. 
+ 
+ 
+4.3 Where to Place AI Acknowledgements 
+All AI use must be clearly documented and attached to the team’s portfolio submission. 
+AI acknowledgements may appear within the main body of the portfolio (e.g., footnotes or 
+parenthetical references) and in presentation materials (e.g., slide footnotes or verbal 
+disclaimers). However, in addition to any inline acknowledgements, all teams are required to 
+complete and attach the official STEM Racing™ AI Assistance and Verification Log as an appendix 
+to their portfolio (see Appendix: AI Assistance and Verification Log Template). 
+The AI Assistance and Verification Log must document each instance of AI use within the project 
+and include the following mandatory fields: date of use, AI tool and version, project area, prompt or 
+task description, description of how the output was used and modified, verification steps 
+undertaken, and the responsible team member. 
+The completed log must be submitted as part of the portfolio for judging. Failure to include the log 
+where AI tools have been used may be treated as a transparency breach under Section 7. The 
+official template provided by STEM Racing™ must be used without modification, except for the 
+addition of rows where necessary (see Appendix: AI Assistance and Verification Log Template). 
+ 
+ 
+
+ 
+ 
+ 
+Page | 8  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+4.4 Recommended Referencing Resources 
+Most global institutions now require AI disclosure and citation.  
+ 
+Recommended authorities: 
+Resource 
+Description 
+Citation Example 
+APA (2024 AI 
+Citation 
+Guidelines) 
+Covers how to cite ChatGPT 
+or generative AI outputs 
+ChatGPT. (2026, January 15). Response to a 
+question about AI referencing. OpenAI. 
+https://chat.openai.com/ 
+IEEE Ethics in AI 
+Guidelines 
+Standard for ethical use of 
+AI-generated data 
+IEEE SA P7000 Series – Model Transparency 
+and AI Ethics 
+Elsevier AI 
+Author Policy 
+(2024) 
+Defines permissible AI use 
+in research writing 
+https://www.elsevier.com/about/policies/artifi
+cial-intelligence 
+Nature Editorial 
+Standards for AI 
+Cites generative AI as 
+“tools,” not “authors” 
+Include tool version (e.g., “Generated using 
+GPT-5, OpenAI”) 
+ 
+AI Ethics & Research Integrity Resources 
+For teams producing AI-based designs, predictions, or reports: 
+• 
+UNESCO Recommendation on the Ethics of Artificial Intelligence (2021): 
+https://unesdoc.unesco.org 
+• 
+OECD AI Principles (adopted by 46 countries): https://oecd.ai/en/ai-principles 
+• 
+EU AI Act (2025 updates): Ethical compliance and transparency regulations. 
+ 
+ 
+
+ 
+ 
+ 
+Page | 9  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+5 Ethical Limits and Examples of Acceptable Use 
+The use of Artificial Intelligence (AI) tools in STEM Racing projects is encouraged only when it 
+enhances learning, creativity, and efficiency—not when it replaces the team’s own work.  
+ 
+All project elements submitted for judging must be wholly created and understood by the team, as 
+outlined in the official STEM Racing World Finals Regulations. Teams must also uphold the Spirit of 
+the Competition, which values honesty, originality, and fair collaboration. 
+ 
+AI can be a valuable aid for research, idea generation, or improving clarity, but teams must always 
+ensure that final designs, portfolios, presentations, and data reflect their own reasoning and 
+technical decisions. Below is a summary of what constitutes acceptable and unacceptable use 
+across key project areas, for example: 
+Category 
+Acceptable Use 
+Unacceptable Use 
+Text 
+Using AI to brainstorm ideas, refine 
+writing style, or correct grammar, 
+summarising research notes or 
+feedback 
+Submitting AI-generated text as 
+original team work or copying 
+descriptions without review or 
+understanding 
+Images 
+Using AI tools to draft visual ideas 
+(e.g. pit display layouts or branding 
+concepts) with proper attribution 
+Entering AI-generated artwork as 
+original design without credit or 
+explanation 
+Data 
+Using AI to analyse or visualise 
+genuine team-collected results 
+Fabricating or altering test data, 
+simulation outputs, or results 
+Design 
+Using AI to explore or compare 
+design concepts that are then 
+modelled and validated by the 
+team 
+Using or submitting AI-generated CAD 
+models or renderings directly without 
+modification 
+Code & 
+Software 
+Using AI to debug code, explain 
+programming concepts, or 
+generate boilerplate that the team 
+understands and modifies 
+Submitting AI-generated control 
+algorithms or sensor logic without the 
+team being able to explain the code 
+line by line 
+Verbal 
+Presentation 
+Using AI to brainstorm presentation 
+structure, refine talking points, or 
+practise Q&A preparation 
+Reading from AI-generated scripts 
+verbatim or using AI to generate 
+answers to anticipated judge 
+questions without understanding 
+Teams should clearly acknowledge AI assistance in their portfolios or presentations, explaining how 
+it was used and how the team verified or built upon the results. Transparency demonstrates integrity 
+and understanding. 
+ 
+ 
+
+ 
+ 
+ 
+Page | 10  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+6 The Core Principle: Understanding What You Produce 
+Artificial Intelligence can be a powerful assistant; it can suggest ideas, speed up research, or help 
+visualise designs. However, in STEM Racing™ competitions, the real measure of success is 
+understanding. 
+You are welcome to use any AI or digital tool available, provided that: 
+1. You know what the tool is doing. 
+2. You understand why it produces certain results. 
+3. You can explain those results clearly to the judges. 
+When a judge asks, “Why did your AI suggest this shape?” or “How did this image represent your 
+brand values?” The team must answer confidently and accurately. 
+ 
+Relying on AI without comprehension shows a lack of learning, which contradicts the spirit of the 
+competition. 
+IN STEM RACING, TECHNOLOGY IS AN ASSISTANT — NOT A SUBSTITUTE FOR 
+UNDERSTANDING. 
+ 
+ 
+
+ 
+ 
+ 
+Page | 11  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+7 Academic Integrity and Judging Compliance 
+Artificial Intelligence use is compatible with STEM Racing’s educational mission only when 
+students remain the original authors, decision-makers, and accountable owners of their work. AI 
+may support student development, but it must not replace student understanding, authorship, or 
+accountability. 
+7.1 
+Judging Assessment Criteria 
+Across all judging categories, Design & Engineering, Project Management, Enterprise, and 
+Verbal Presentation, judges are instructed to assess three core principles: understanding, 
+transparency, and integrity. 
+With respect to understanding, judges must determine whether team members can clearly 
+explain how AI tools were used in the development of their work, whether they can justify why 
+specific outputs, designs, or wording were selected, and whether they demonstrate genuine 
+technical and conceptual ownership of any AI-assisted outcomes. 
+In assessing transparency, judges must evaluate whether AI usage has been clearly disclosed 
+within the team’s portfolio, appendix, or presentation, and whether the scope and extent of AI 
+involvement have been accurately and honestly described. 
+In relation to integrity, judges must consider whether the submitted work reflects authentic 
+student decision-making, whether technical claims, simulations, data, and designs are verifiable, 
+and whether the team has avoided plagiarism, fabricated references, or unverifiable outputs. 
+Material or deliberate failure to meet these standards may constitute a Competition Integrity 
+Breach. 
+7.2 Authenticity, Transparency, and Demonstrated Understanding 
+7.2.1 
+Principle 
+The STEM Racing World Finals assesses student understanding, application, and ownership of 
+work. The use of AI tools is permitted unless otherwise restricted, provided that all submitted 
+work reflects genuine student understanding and authorship. 
+Judges shall assess teams based on demonstrated understanding using the official scorecards. 
+AI use in itself shall not result in a penalty. 
+7.2.2 
+Assessment Through Existing Scorecards 
+Judges will evaluate all submitted work through the published judging criteria. 
+Where a team is unable to clearly explain, justify, or demonstrate understanding of submitted 
+work, this shall be reflected in the score awarded within the relevant judging category. No 
+additional penalty shall be applied where reduced marks appropriately reflect the level of 
+demonstrated understanding. 
+7.2.3 
+Mandatory Disclosure Requirement 
+Where AI tools have been used in the development of any submitted work, teams must complete 
+and attach the official STEM Racing™ AI Assistance and Verification Log as part of their portfolio 
+submission (see Appendix). 
+The AI Assistance Log is a mandatory submission component. Where AI has been used but no log 
+is submitted, the judging panel shall notify the team and provide a reasonable opportunity to 
+complete the log prior to final scoring. 
+
+ 
+ 
+ 
+Page | 12  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+If a completed log is not provided following notification, scores in the affected judging categories 
+may be capped at a maximum of 80% of available marks to reflect the incomplete nature of the 
+submission. This adjustment applies only to categories where undisclosed AI use is identified. 
+HONEST DISCLOSURE OF AI USE WILL NOT NEGATIVELY AFFECT A TEAM’S SCORE. 
+7.2.4 
+Integrity Review (Exceptional Circumstances) 
+Separate integrity action shall only be considered where there is clear evidence of: 
+• 
+Deliberate misrepresentation of authorship 
+• 
+Fabricated technical data, simulations, or results 
+• 
+Plagiarism (including AI-assisted concealment) 
+• 
+Submission of work without demonstrable student understanding or involvement 
+In such cases, the team may receive a score of zero in the affected category. 
+Any decision under this clause must be reviewed and confirmed by the Chair of Judges. The ICC 
+and supervising teacher will be formally notified. Teams will always be given the opportunity to 
+explain their work before any integrity decision is made. 
+7.2.5 
+Proportionality 
+Judges must distinguish between: 
+• 
+A quality or depth issue (to be reflected in normal scoring under 7.2.2), 
+• 
+A disclosure omission (to be addressed through the notification process under 7.2.3), 
+and 
+• 
+An integrity or authenticity breach (to be reviewed under 7.2.4). 
+Integrity sanctions are expected to be rare and applied only where evidence is clear and material. 
+The purpose of this framework is to encourage responsible use of AI, not to discourage its 
+adoption. 
+7.3  Escalation and Decision Process 
+If judges identify a concern regarding AI use or academic integrity, the issue will be reviewed by the 
+judging panel and referred to the Chair of Judges, where required. 
+Teams will always be given the opportunity to explain their work and demonstrate understanding of 
+how AI was used. 
+After considering the team’s explanation, a decision will be made in accordance with this Article 
+and formally recorded. 
+ 
+ 
+
+ 
+ 
+ 
+Page | 13  - Using Artificial Intelligence (AI) Responsibly in STEM Racing – 2026 ®STEM Racing 
+8 Final Reminder 
+AI tools can expand what’s possible, but only your understanding earns the marks. 
+Use every tool you can, explore every idea, but when you stand before the judges: 
+• 
+Be ready to explain what you did, 
+• 
+Why you did it, 
+• 
+And what you learned. 
+AI CAN ACCELERATE YOUR PROCESS, BUT COMPREHENSION DRIVES YOUR PERFORMANCE. 
+YOU MAY USE ALL THE TOOLS — BUT YOU MUST UNDERSTAND THE OUTCOMES. 
+9 References 
+Cover image - CHAT GPT (2026). Digital illustration showing AI technology and a STEM Racing car 
+concept, created with DALL·E in ChatGPT. DALL·E (v2). Retrieved January 15, 2026. 
+10 Appendix 
+1. AI Assistance and Verification Log (Available to download here) 
+
+ 
+Page 1  
+STEM Racing™ — AI Assistance and Verification Log 
+ 
+10.1 AI Assistance and Verification Log 
+STEM Racing™ — Portfolio Appendix Template 
+Team Name: 
+ 
+Team Number: 
+ 
+Country
+ 
+Judging 
+ 
+Date Prepared: 
+ 
+ 
+Instructions: Complete one row for each instance where an AI tool was used in your project.  
+This log should be included as an appendix in your portfolio submission. All entries must be completed before the final submission to the judges. 
+Entry # 
+Date 
+AI Tool & Version 
+Prompt / Task Description 
+How Output Was Used & Modified 
+Verification Steps Taken 
+Responsible Team 
+Member 
+Example 
+15 Jan 2026 
+ChatGPT (GPT-4o) 
+"Explain how wing angle affects 
+downforce on a model racing car at 
+speeds under 10 m/s" 
+Used AI explanation to inform our wing 
+angle range (5°–15°). Team then ran our 
+own wind tunnel tests and selected 10° 
+based on results. 
+Cross-checked with NASA aero 
+basics page. Validated through 
+team testing. 
+A. Smith (Design Lead) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Teams may add additional rows as needed. 
+ 
+Team Declaration 
+We confirm that all AI tool usage in our project has been documented in this log.  
+We understand that the content generated by AI tools can explain our reasoning to judges and have verified all AI outputs against reliable sources. All final creative and technical 
+decisions are our own. 
+Team Manager 
+Teacher/Mentor Approval 
+Name 
+ 
+Name 
+ 
+Role 
+ 
+Role 
+ 
+Signature 
+ 
+Signature 
+ 
+ 

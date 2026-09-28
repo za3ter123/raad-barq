@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: raad
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: RAAD_SESSION_SECRET
+        generateValue: true
+      - key: RAAD_EMAIL
+        sync: false
+      - key: RAAD_PASSWORD
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: DEEPSEEK_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false

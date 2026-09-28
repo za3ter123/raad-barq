@@ -1,0 +1,1488 @@
+ 
+ 
+ 
+ 
+ 
+PROJECT 
+MANAGEMENT 
+GUIDE 2026 
+ 
+ 
+ 
+ 
+In Association with 
+ 
+ 
+
+ 
+ 
+ 
+2 
+ 
+In association with 
+INTRODUCTION 
+ 
+Aligned to PMBOK® (8th Edition) principles and PMIEF Project Management Skills for Life® (2025) 
+This guide supports STEM Racing teams in applying modern project management practices throughout the 
+season. It is aligned to PMBOK® (8th Edition) principles and integrates the language, tools, and learning 
+approach from PMIEF’s Project Management Skills for Life® (2025). Use it alongside the Project Management 
+Scorecard and build evidence as you plan, deliver, learn, and improve. 
+How this guide helps you 
+We know that teams that leverage strong project management processes and tools perform better overall. 
+Across all sections, you will see PMBOK® (8th Edition) themes woven into the practical steps: focus on value, 
+engage stakeholders, tailor your approach, build quality in, manage risk and opportunities, enable change, and 
+learn continuously. The goal is not to create more paperwork, it’s to make decisions visible and measurable. 
+How to use this guide 
+Use this guide from the start of the season and revisit it as your project evolves: 
+• 
+Tailor: choose the level of detail that fits your team, timeline, and complexity. 
+• 
+Make decisions visible: record why you chose an option (especially when time/cost/quality trade-offs 
+exist). 
+• 
+Quantify where you can: risk scores, KPIs, and planned vs. actual tracking strengthen your evidence. 
+• 
+Review on a cadence: short check-ins + regular status reports help you adapt early, not late. 
+• 
+Keep artifacts current: charter/scope, WBS & schedule, budget, risk register, stakeholder plan, and 
+change log should evolve with the project. 
+PMBOK® (8th Edition) principles 
+• 
+Focus on value (what matters most to sponsors, your team and judges) 
+• 
+Engage stakeholders (communicate in ways that work for different people) 
+• 
+Tailor your approach (right-sized documentation and meetings) 
+• 
+Build quality in (define acceptance criteria and check early/often) 
+• 
+Manage risk and opportunities (prioritise, act, and re-check) 
+• 
+Enable change (use a simple change/issue log so changes don’t derail the plan) 
+• 
+Learn and improve (use lessons learned to show measurable improvement over time) 
+Direct alignment to the Project Management Scorecard 
+Each scorecard category is supported in the matching section of this guide. In higher score bands, assessors 
+are looking for evidence of: measurable planning (WBS, dependencies, critical path), disciplined tracking 
+(planned vs. actual, KPIs, forecasting), structured decisions (cost/benefit rationale), stronger stakeholder 
+engagement, quantitative risk scoring (plus opportunities), and controlled change (documented requests and 
+approvals). 
+ 
+ 
+ 
+
+ 
+ 
+ 
+3 
+ 
+In association with 
+Table of Contents 
+INTRODUCTION ................................................................................................................................................................................................... 2 
+STEM RACING & THE PROJECT MANAGEMENT EDUCATIONAL FOUNDATION ................................................................... 5 
+ABOUT PMIEF .......................................................................................................................................................................................................... 5 
+ABOUT THE PROJECT MANAGEMENT INSTITUTE ................................................................................................................................ 5 
+PRINCIPLES OF PROJECT MANAGEMENT ................................................................................................................................................... 6 
+WHAT IS A PROJECT? .................................................................................................................................................................................... 6 
+KEY ROLES IN PROJECT MANAGEMENT ............................................................................................................................................... 6 
+Project manager .............................................................................................................................................................................................................. 6 
+Project stakeholder ........................................................................................................................................................................................................ 6 
+Project sponsor............................................................................................................................................................................................................... 6 
+Project team members .................................................................................................................................................................................................. 6 
+THE TRIPLE CONSTRAINTS OF PROJECT MANAGEMENT ............................................................................................................ 7 
+THE PROJECT MANAGEMENT PROCESS ..................................................................................................................................................... 8 
+OVERVIEW .......................................................................................................................................................................................................... 8 
+INITIATING PROCESS .......................................................................................................................................................................................... 9 
+DEFINING THE PROJECT .............................................................................................................................................................................. 9 
+IDENTIFY THE STAKEHOLDER ................................................................................................................................................................... 9 
+AUTHORISE THE PROJECT ........................................................................................................................................................................ 10 
+DELIVERABLES ................................................................................................................................................................................................. 10 
+MILESTONES ..................................................................................................................................................................................................... 11 
+PLANNING PROCESS ......................................................................................................................................................................................... 12 
+WRITING A SCOPE STATEMENT ............................................................................................................................................................ 12 
+DEVELOPING THE WBS / PLANNING FOR QUALITY .................................................................................................................... 12 
+SAMPLE: QUALITY ACCEPTANCE CRITERIA ................................................................................................................................................... 13 
+PLANNING WHEN AND HOW TO MONITOR AND CONTROL ............................................................................................ 13 
+BUILDING A PROJECT SCHEDULE - per each deliverable of the WBS and the project ......................................................... 13 
+DETERMINE THE MAJOR CATEGORIES OF WORK: ...................................................................................................................................... 13 
+DEFINE TASKS: ........................................................................................................................................................................................................... 13 
+SAMPLE OF A WORK BREAKDOWN STRUCTURE ........................................................................................................................................ 14 
+DETERMINE THE SEQUENCE ................................................................................................................................................................................ 14 
+ESTIMATE TIME .......................................................................................................................................................................................................... 14 
+BUILD THE SCHEDULE ............................................................................................................................................................................................ 14 
+SAMPLE SCHEDULE .................................................................................................................................................................................................. 15 
+PLANNING FOR AQUIRING RESOURCES ........................................................................................................................................... 16 
+Sample Resource planning.......................................................................................................................................................................................... 16 
+CREATING A BUDGET ................................................................................................................................................................................. 16 
+SAMPLE BUDGET ....................................................................................................................................................................................................... 17 
+PLANNING WHEN, WHAT AND HOW YOU COMMUNICATE ................................................................................................ 17 
+ASSIGNING ROLES AND RESPONSIBILITIES ....................................................................................................................................... 17 
+SAMPLE RESPONSIBILITY ASSIGNMENT MATRIX USING RACI ................................................................................................................. 17 
+Communications .......................................................................................................................................................................................................... 17 
+SAMPLE COMMUNICATION MATRIX ................................................................................................................................................................ 18 
+Planning and monitoring for risk. ................................................................................................................................................................. 18 
+
+ 
+ 
+ 
+4 
+ 
+In association with 
+Qualifying Risks ............................................................................................................................................................................................................ 19 
+Example of Risk Assessment Matrix ........................................................................................................................................................................ 19 
+Risk Assessment Matrix ............................................................................................................................................................................................. 19 
+THE EXECUTING PROCESS ............................................................................................................................................................................. 19 
+THE MONITORING AND CONTROLLING PROCESS .......................................................................................................................... 20 
+VALIDATING AND CONTROLLING THE SCOPE ............................................................................................................................. 20 
+SCOPE CREEP ................................................................................................................................................................................................... 20 
+ADJUST FOR THE UNEXPECTED ............................................................................................................................................................ 20 
+STATUS REPORTS .......................................................................................................................................................................................... 20 
+Sample Status Report .................................................................................................................................................................................................. 21 
+THE CLOSING PROCESS ................................................................................................................................................................................... 22 
+Example Lessons Learned Report ............................................................................................................................................................................ 23 
+Sample Self & Peer Assessment ................................................................................................................................................................................ 24 
+KEY TERMS .............................................................................................................................................................................................................. 25 
+PROJECT MANAGEMENT PORTFOLIO ...................................................................................................................................................... 26 
+FURTHER READING ............................................................................................................................................................................................ 27 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+5 
+ 
+In association with 
+STEM RACING & THE PROJECT MANAGEMENT 
+EDUCATIONAL FOUNDATION 
+In 2020, STEM Racing partnered with the Project Management Institute Educational Foundation to integrate 
+project management into the competition. This guide supports teams in leveraging these skills for their STEM 
+Racing car and entry, with applications across various industries. 
+ 
+Andrew Denford, Founder and Chairman STEM Racing, says of the association with PMIEF: 
+ 
+“We’re delighted to welcome PMIEF as a partner of STEM Racing and look forward to a long and successful 
+relationship. Project management is fundamental in our Challenge, as the students have limited time and 
+resources for taking their STEM Racing entry from concept to reality and I’m sure that PMIEF will be able to 
+assist our students with this process. The scope of the partnership allows us to extend the learning and 
+training to STEM Racing staff and our In-Country Co-ordinators (ICCs) who deliver the programme 
+internationally, and I am sure there will be enormous benefit to both individuals and STEM Racing to have this 
+opportunity.” 
+The PMIEF Executive Directorship said of the relationship: 
+“Our partnership with STEM Racing helps bring project management to life for youth. By embedding real project 
+management practices into this globally recognized challenge, students don’t just learn concepts, they apply them in 
+meaningful, hands on ways. We believe this experiential approach builds confidence, decision making skills, and a strong 
+foundation that students can carry into their education, careers, and communities." 
+ABOUT PMIEF 
+PMI Educational Foundation (PMIEF) is a 501(c)(3) supporting organization of the Project Management Institute 
+(PMI), the world's leading not-for-profit professional membership association. Founded in 1990, PMIEF 
+cultivates long-term relationships with non-profits across the globe to help them integrate project 
+management in their youth programs and to build their own project management capacity. The foundation 
+achieves its mission to “enable youth to realize their potential and transform lives through project 
+management” and its vision for “inspiring youth to achieve their goals, making dreams a reality” by investing in 
+high-quality organizations that exemplify a commitment to preparing young people for 21st century success 
+and an appreciation for both the societal application and value of project management. Visit PMIEF.org for 
+more information. 
+ 
+ABOUT THE PROJECT MANAGEMENT 
+INSTITUTE 
+ 
+The Project Management Institute (PMI) is the world's leading association for those who consider project, 
+program, or portfolio management their profession. Through global advocacy, collaboration, education and 
+research, the PMI work to prepare more than three million professionals around the world for The Project 
+Economy: the coming economy in which work, and individuals, are organized around projects, products, 
+programs, and value streams. Now 50 years in the making, the PMI work in nearly every country around the 
+world to advance careers, improve organizational success and further mature the project management 
+profession through globally recognized standards, certifications, communities, resources, tools, academic 
+research, publications, professional development courses and networking opportunities. As part of the PMI 
+family, ProjectManagement.com creates online global communities that deliver more resources, better tools, 
+larger networks, and broader perspectives.  
+ 
+ 
+
+ 
+ 
+ 
+6 
+ 
+In association with 
+For more information visit: 
+PMI.org 
+projectmanagement.com  
+@PMInstitute 
+https://www.linkedin.com/company/projectmanagementinstitute/ 
+https://www.instagram.com/pmi_org/ 
+PRINCIPLES OF PROJECT MANAGEMENT 
+You probably are already managing projects in everyday life. Each time you plan an event, coordinate people, 
+manage a deadline, or work within a budget, you are delivering value through a temporary effort. 
+Project management is the application of knowledge, skills, tools, and techniques to deliver outcomes and 
+value. In PMBOK® (8th Edition), the emphasis is not only on following steps—it’s on making good decisions, 
+engaging stakeholders, and tailoring how you work to the situation. 
+In STEM Racing, “value” can mean performance on track, meeting regulations, a strong portfolio and 
+presentation, sponsor satisfaction, and team learning. “Tailoring” means choosing the right level of detail—for 
+example, a simple weekly status report may be enough early on, but closer to competition you may need daily 
+tracking and tighter change control. 
+ 
+WHAT IS A PROJECT? 
+Perhaps it is best to say what a project is not…  It is not a daily, weekly, or even monthly routine or activity 
+such as walking the dog or weekly chores. These activities are called ongoing operations.  A project is 
+temporary, it has a beginning and end, and it creates a unique product, service, or result. It can vary in size, be 
+simple or complex and will involve resources such as materials and people. Some examples of a project are 
+hosting and planning a school prom, a birthday party, or your entry into STEM Racing. 
+ 
+KEY ROLES IN PROJECT MANAGEMENT 
+ 
+Project manager 
+This is the person responsible for making sure that each of the project’s goals and objectives are completed. 
+The project manager with leadership, influence, expertise, and communication skills oversees the project from 
+beginning to end, guides and works with the team to complete the scope, and ensures that everyone involved 
+is informed about how the project progressing.  In an STEM Racing team this could be the Team Manager, or 
+you could create a Project Manager role within your team. 
+Project stakeholder 
+This is a person or an organisation who is involved or has an interest, positively or negatively, in the project or 
+the outcome of the project. Project stakeholders may include customers, clients, vendors, team members and 
+contributors to daily activities. All stakeholders need to be kept informed of the project’s progress.  The 
+project stakeholders in STEM Racing could include your school or college, STEM Racing HQ or your in-
+country coordinator. 
+Project sponsor 
+This is a key project stakeholder and is the person that provides financial and other needed resources for the 
+project.  The project sponsors in STEM Racing are your financial and in-kind sponsors or indeed your school 
+or college. 
+Project team members  
+These are the people who work on a project and contribute to its success.  This is your STEM Racing team. 
+ 
+ 
+
+ 
+ 
+ 
+7 
+ 
+In association with 
+THE TRIPLE CONSTRAINTS OF PROJECT MANAGEMENT  
+ 
+Every time you start a project you will be concerned with what must be done (scope), how much it will cost 
+(budget), and how long it will take (time). You do this all the time, using the above examples of hosting and 
+planning the prom or a birthday party. We call the three parameters the triple constraints of project 
+management. 
+ 
+ 
+As a project manager you will want to define these parameters early in the project. Once defined, you will use 
+these parameters as guideposts as you plan and later execute your project. You will also determine which 
+parameter is most important and use the other two as negotiating points if necessary. For example, you might 
+determine the most important parameter is being ready for your regional competition (time) with a car that 
+meets the specifications (scope). If you run behind schedule, you might need more money or resources (cost) 
+to manufacture the car correctly and make it to the competition on time.  
+ 
+You will notice the parameter of quality in the middle of the triple constraints and resources and risks as 
+influencers.  Quality, risks, and resources are used as references to attain your goals. You always need to keep 
+them in mind as you plan and execute. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+8 
+ 
+In association with 
+THE PROJECT MANAGEMENT PROCESS 
+ 
+Any project, no matter the size or complexity, involves using specific skills, tools, and procedures to complete 
+the project’s goals. Project management can be broken down into five processes:  
+ 
+These processes help the project manager and team members define, organise, and keep track of all the work 
+that needs to be completed for a project to be successful. 
+ 
+OVERVIEW 
+ 
+The Initiating Process is the beginning of the project. During this process, project stakeholders are identified, 
+and a project manager is selected. Project goals and objectives are defined, and authorisation is obtained to 
+proceed with the project. 
+During the Planning Process, the project plan is created. The project manager and team members define 
+project and product scope, major deliverables, and exclusions; subdivide project deliverables and project work 
+into smaller components (Work Break Down). This information allows the team to define the activities and 
+tasks needed to complete the final product, service, or result. They also determine what staff and resources 
+that are needed and establish the timeline and available budget for the project. The planning process is very 
+important to the overall success of the project. Without careful planning, a project manager and project team 
+may find it very difficult to achieve project success.  
+Executing is the process of working through the project plan. The executing process involves performing the 
+activities outlined during the planning process.  
+Monitoring and Controlling occurs continuously throughout the entire project. Monitoring and controlling 
+involves ensuring that all the tasks in the project plan are completed to produce the deliverables and final 
+product of the project, as per the definition of the scope, on time and within budget, as well as addressing any 
+changes necessary to successfully achieve the project goals.  
+In the Closing Process, project goals are delivered. Final administrative work is completed, and lessons 
+learned are captured to improve future projects. The closing process involves taking the time to celebrate the 
+team’s successes along the way toward completion of the project.  
+Each of these processes will be addressed in more detail below: 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+9 
+ 
+In association with 
+INITIATING PROCESS 
+The initiating process group has three goals:  
+• 
+Define the project 
+• 
+Identify stakeholders 
+• 
+Authorise the project by developing a project charter 
+ 
+DEFINING THE PROJECT 
+ 
+During this process you will define the goals and identify the deliverables of your STEM Racing competition 
+entry or as we will now call it your STEM Racing Project.  You will need to answer the basic project questions 
+of Why, Who, What, When, Where and How: 
+WHY is the project being initiated? What is the reason for the project? 
+WHO is this work being done for? Identify the people participating in or affected by the project’s outcome 
+both positively and negatively.  
+WHAT are we going to deliver? What work do we need to complete? What resources and funds do we 
+need to produce these deliverables?  
+WHEN will we produce these deliverables? When will the project sponsor approve and accept the final 
+project deliverables?  
+WHERE will the deliverables be used?  
+HOW are we going to achieve the project’s goal and objectives? How will success be measured? 
+ 
+IDENTIFY THE STAKEHOLDER 
+Stakeholders are the people or organisations involved in, impacted by, or able to influence your project. Start 
+with a stakeholder register, then decide how you will engage each person (for example: how often, what they 
+care about, and what you need from them).  
+Sample of a Stakeholder Register 
+ 
+Name 
+Role in project 
+Organisation 
+Contact 
+Engagement  
+Ms. Wang 
+Teacher 
+My School 
+smith@school.com 
+High: weekly; in-person; 
+approve dates/ access 
+A Singh 
+Sponsor 
+Sponsor Inc 
+rharvey@sponsor.eu 
+Medium: monthly; email; 
+updates & support 
+A Denford 
+Comp CEO 
+STEM Racing 
+info@f1is.com 
+Low: as needed for rules; 
+website/ email; comply & 
+submit 
+S Ali 
+Team member 
+My Team 
+millar@team.com 
+High: weekly; team mtgs;  
+deliver tasks fast 
+ 
+
+ 
+ 
+ 
+10 
+ 
+In association with 
+Go beyond the register: Add an engagement note for each key stakeholder—what success looks like to them, 
+how you will communicate (channel + frequency), and how you will capture feedback. A simple approach is to 
+label engagement as High/Medium/Low and adjust your communication accordingly. Evidence of feedback loops 
+and adjustments over time supports the top score bands. 
+ 
+AUTHORISE THE PROJECT 
+ 
+A project charter is a document authorising the start of a project and is used to further clarify and refine the 
+project. It will describe the outcomes and expectations for the project and identify the measure of 
+performance, milestones, assumptions, constraints, and identify risks and resources.   
+The Why, Who, What, When, Where and How questions are used to create the project charter.  
+The project description outlines your goals. Goals should be specific, measurable, and observable. Goals can 
+guide a project from start to finish. The clearer you are in defining your goals, the easier it will be to stay on 
+track. 
+The project manager should be named, and a list created of the team members that will be involved in 
+the project. 
+The project reason/justification outlines the reason for doing this project. The why question could be ‘we 
+want to become World Champions’. 
+A milestone is an estimated time when a major deliverable will be completed. Consider when high-level 
+progress will be made throughout the project. For example, when your car will need to be completed. 
+The acceptance criteria documents and signed off by the customer the approval of the final deliverable or 
+product, indicating it meets the product or deliverable definition as a principal output of deliverables 
+verification developed as a control quality process.  
+Assumptions are factors about the project that you consider true without getting proof. Identifying 
+assumptions helps a team clarify assumptions that not all team members share.  An assumption could be that 
+your school will excuse you from class to attend a final event. 
+A constraint is any factor that provides a limit on the ways that a project goal can be accomplished. This may 
+include limitations in finance, scheduling, people, or others.  For example, a sponsor not paying would limit 
+finance or the new release of the technical regulations has increased the minimum weight of the car. 
+Risk includes any unexpected situations that might arise that may hamper your project. Consider potential 
+risks at the beginning and throughout a project so that you can manage them appropriately and create a plan of 
+response. While you cannot predict all situations, the more prepared you are, the more successful your 
+project will likely be. An example of a risk could be an issue with your 3D printer preventing you from printing 
+your car front wing.  The response plan would be to have a list of contacts who have a 3D printer and would 
+be willing to let you use it. 
+Resources may include money, time, people, expertise, equipment, machinery, or a workplace. Consider all 
+resources that would be needed for the project and their estimated cost.  
+By taking the time in the beginning to define the project and obtaining authorisation, teams can set themselves 
+up for success. Once the project charter has been approved the project is authorised and can commence. 
+DELIVERABLES 
+These are the products, services, or results of a project or phase.  In STEM Racing this will be your cars, 
+portfolio work, pit display etc.  Deliverables are written as a statement of something accomplished or 
+produced and you should track their progress throughout the project. 
+
+ 
+ 
+ 
+11 
+ 
+In association with 
+MILESTONES 
+Milestones will always have at least one deliverable and will include the due date. This serves as a marker for 
+how far along you are in the project. 
+The Why, Who, What, When, Where and How are not yes/no questions. Instead, they are all open-
+ended questions.  Asking open-ended questions helps get a fuller sense of what the project includes. 
+For example: 
+If your team asked, “Do we know who the project stakeholders are?” You might answer “Yes,” but it is 
+possible that each team member has different people in mind.  
+Asking an open-ended question like, “Who are the project stakeholders?” provides the opportunity for all 
+ideas.  
+SAMPLE PROJECT CHARTER 
+ 
+ 
+ 
+ 
+PROJECT CHARTER 
+ 
+Project: STEM Racing 
+Team name: Evolution 
+Date: September 15 
+Project manager 
+The person responsible for ensuring that each of the project’s goals and objectives are completed.  
+Team member 
+The people who work on a project and contribute to its success. 
+Project description 
+Describe the project. What is the goal of your project?  
+Project role/justification 
+Why are you doing this project? 
+Major milestones 
+What are the big points of progress? What are the deliverables? When are they due? 
+Acceptance criteria 
+How will the final product be evaluated?  
+Assumptions 
+What do you believe to be true about this project? 
+Constraints 
+What factors will limit how the project gets done? 
+Risk 
+What things could cause issues during the project? 
+ 
+Resources 
+What resources are needed? What will it cost? 
+ 
+Project Start date 
+XX/XX/XXXX 
+End Date 
+XX/XX/XXXX 
+Project Manager 
+Signature 
+Date 
+XX/XX/XXXX 
+Approved by 
+Signature 
+Date 
+XX/XX/XXXX 
+ 
+
+ 
+ 
+ 
+12 
+ 
+In association with 
+PLANNING PROCESS 
+The planning process includes the following actions: 
+• 
+Writing a scope statement 
+• 
+Developing the WBS (Work Breakdown Structure) 
+• 
+Building a project schedule 
+• 
+Planning for acquiring resources 
+• 
+Creating a budget 
+• 
+Assigning roles and responsibilities 
+• 
+Planning how and when to communicate 
+• 
+Planning for risk 
+• 
+Planning how to monitor and control the project 
+ 
+WRITING A SCOPE STATEMENT 
+Tip: Common creative thinking techniques include brainstorming and mind mapping. 
+The scope statement builds upon the description created in the project charter in the initiating process.  
+It sets the goals for what will be accomplished in your project. Aim to make your goal as specific as possible 
+and measurable so you can determine if your goals are achieved.  
+A project scope statement describes the work that will be done and what will not be done to create the 
+project’s unique outcome. 
+For example, you know you will need to prepare a verbal presentation, engineering portfolio and build a pit 
+display so these items must appear in the scope statement.  You also know that STEM Racing is a team 
+competition so no individual work needs to be submitted and individual work would not appear in the scope 
+statement.  You should read the competition regulation carefully and list all the deliverables you are going to 
+be expected to deliver.  These are your guidelines and standards. 
+ 
+DEVELOPING THE WBS / PLANNING FOR QUALITY  
+Work Break Down is one of the most important documents. It is developed in the planning phase. It is defined 
+in the PMBOK as a hierarchical decomposition of the total scope of work to create the project deliverables. 
+The WBS is the foundation to define the activities to develop the schedule. It allows the creation of the 
+budget, estimating the activities cost, the work package's main components, and the deliverables. It permits the 
+definition and link of the resources with the activities, identification of risk for the project and requirements 
+and necessities of the people to protect them from harmful activities during the execution.  
+The WBS partnering with the project scope statement forms the scope baseline. This baseline is the 
+fundamental part of scope validation to obtain the acceptance deliverable document signed by the client.  
+The WBS is developed using only noun words, and every branch goes from the general to the description; for 
+example, the car body is at the general level or top to the level, design of the car body. The level is called the 
+work package; it represents all the activities involved in designing and calculating the car body. 
+A technique you can use to verify that the quality standards have been met is called acceptance criteria. You 
+can define acceptance criteria for the entire project or specific deliverables. Since acceptance criteria identified 
+are designed to effectively assess your tasks, they should be qualitatively or quantitatively specific. Stating to 
+accept a car race within 1 second only does not help much. The below example demonstrates the quality 
+acceptance criteria that could be implemented for your car development. 
+
+ 
+ 
+ 
+13 
+ 
+In association with 
+ 
+SAMPLE: QUALITY ACCEPTANCE CRITERIA 
+ 
+Quality Acceptance 
+Criteria  
+Testing and 
+Assessment  
+When? 
+Person 
+Responsible  
+Review, Acceptance 
+and Sign Off  
+Project Management 
+Portfolio is of High 
+Quality 
+Review with 
+Scorecard 
+Criteria and 
+Marketing/ 
+Branding Team 
+ 4 Weeks before due 
+Date 
+Project Manager Team Principal/ 
+Project Manager 
+No component 
+breakages.  
+Visual signs of 
+cracking checks.  
+At end of first and 
+second round of 
+testing  
+Manufacturing 
+Engineer 
+Team Principal  
+ 
+PLANNING WHEN AND HOW TO MONITOR AND CONTROL  
+Each part of the planning process builds on the others. You may find that you need to revisit and revise parts 
+of your project along the way. This process of review and revision is part of monitoring and controlling your 
+project. Monitoring and controlling will be easier to conduct with ongoing check-ins.  
+ 
+Take a moment to plan how frequently you will schedule check-ins with your team and project sponsor and 
+how you will document the progress you are making. You may decide to check in hourly, daily, or weekly. 
+ 
+BUILDING A PROJECT SCHEDULE - per each deliverable of the WBS and the project 
+ 
+A project schedule needs to be created, identifying all the activities that part of the work packages in the 
+WBS to be completed including their start and due dates. The following steps should be undertaken: 
+DETERMINE THE MAJOR CATEGORIES OF WORK:  
+These categories can be established in several ways.  
+1. By PHASES: What should be accomplished pre competition, during competition, etc? 
+2. By MAJOR PIECES OF WORK: what should be accomplished for the design of the car, the 
+manufacture of the car, creation of the enterprise portfolio, etc. 
+3. By MILESTONE:  Milestones are the critical points in a project's timeline that can be monitored to 
+determine if the project is on schedule. They show completion of major pieces of the project.  
+DEFINE TASKS:  
+What tasks need to be accomplished to meet each milestone?  Tasks are activities that are the “to-do” list.   
+Breaking out the categories and tasks in this way is called a Work Breakdown Structure (WBS). Make 
+sure that the degree of decomposition of components is appropriate. 
+ 
+ 
+
+ 
+ 
+ 
+14 
+ 
+In association with 
+SAMPLE OF A WORK BREAKDOWN STRUCTURE 
+ 
+DETERMINE THE SEQUENCE 
+When will each task be accomplished? To establish this sequence, assess task dependencies.  
+A dependent task requires completion of another task before it can begin. For example, designing your car in 
+CAD must be done before manufacturing. For dependent tasks, be especially careful with the timeframe of the 
+task before it to ensure your project remains on track. 
+An independent task can be completed at any time and is not related to the completion of another task. 
+ESTIMATE TIME 
+ 
+How long will each task take? Make your best estimate based on experience or team discussions. 
+Underestimating time is a common error. Including extra time in the schedule ensures you have the needed 
+time to complete your project on time.  
+As you will be attending an event final you have a hard deadline that cannot be moved.  Running out of time 
+could mean not finishing your car or other judged work. 
+ 
+BUILD THE SCHEDULE 
+With the above information, you can now build the schedule. The critical path is like the main route through a 
+project, showing the longest path and the quickest way to finish. If anything slows down on this path, it will 
+make the whole project take longer. 
+ 
+A Gantt chart a bar chart that shows a schedule. On the chart, activities are listed on the vertical axis, dates 
+are on the horizontal axis and the time it takes to do each activity is shown as horizontal bars. 
+Various tools, such as tables in Word, charts in Excel, or project management software like Asana, JIRA, 
+Microsoft Project, Miro, Monday, Smartsheet, Trello, or projectmanager.com, can be used to create your 
+schedule. Check with your school to determine the accessible tools. 
+ 
+
+ 
+ 
+ 
+15 
+ 
+In association with 
+ 
+SAMPLE SCHEDULE 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+16 
+ 
+In association with 
+PLANNING FOR AQUIRING RESOURCES 
+Resource planning considers all the elements needed to complete the project, such as people, money, 
+equipment, or space. Managing resources are essential to enhance project's overall efficiency and profitability. 
+In the planning process, determine where and how you will acquire each resource, when it is needed, and for 
+how long. 
+Resource Management: Project resources are acquired, allocated, monitored, and controlled. 
+Tip: In STEM Racing, resources play a vital role in racing car research and development, pit display production, etc. For 
+instance, in R&D, engineers strategically acquire resources such as bearings and 3D printing services. The decisions of 
+WHEN, WHAT, HOW, and HOW MUCH to acquire these resources, based on budget, utilization, quality, and other 
+factors, form the foundation for the smooth execution of car design, testing, and manufacturing. Inconsiderate planning 
+could lead to deadlines being pushed back. 
+ 
+Sample Resource planning 
+Resource Needed  
+When will you need it?  
+How you will acquire it 
+Model block 
+November 15 
+Place order with Denford LTD 
+Denford CNC router 
+November 24 (1day) 
+Request access via school lab 
+technician 
+School Minibus 
+January 20 (2 days) 
+Book Minibus with School 
+administration office 
+ 
+CREATING A BUDGET 
+ 
+A budget is a financial plan for income and expenditure over a defined period. The best technique to create a 
+budget is using the bottom-to-top technique in the WBS to estimate the cost of every work package until the 
+top, the deliverable. The WBS will allow us to attach resources, equipment, and materials to complete every 
+work package and its corresponding deliverable. 
+You will need to: 
+• 
+Identify what items will cost you money and how much they will cost.  It is normal for costs to initially 
+be estimated and your budget should include the actual costs so you can identify any over or under 
+spend. 
+• 
+Identify where you plan to acquire the money, e.g. A fundraising event, sponsor pitch or a donation. 
+• 
+Agree who will be responsible for the budget and keep a record of spending and approve any 
+purchases. 
+There can be many different costs associated with an entry to STEM Racing, some of which may not be 
+immediately obvious or expected.  For example, they may be associated with risks you have identified or 
+unexpected changes that you need to make as you develop your car.  There may also be a scenario where 
+items cost more than you expected, and you need to ensure your budget can accommodate all these.  In 
+finance this is called the budget contingency. You can decide how much contingency you need by assessing 
+how likely each of the scenarios presented above are likely to happen. 
+ 
+Cost–benefit decisions: When you choose between options (e.g., materials, testing time, manufacturing 
+method, travel choices), write a short justification that compares cost, expected benefit, and impact on 
+schedule/quality. This is evidence of value-focused decision making. 
+ 
+ 
+
+ 
+ 
+ 
+17 
+ 
+In association with 
+SAMPLE BUDGET 
+STEM Racing Budget 
+Resource 
+Budget cost 
+Actual cost 
+Difference 
+Equipment 
+ 
+ 
+ 
+Travel 
+ 
+ 
+ 
+Materials 
+ 
+ 
+ 
+Contingency 
+ 
+ 
+ 
+ 
+Tip: Budget Management can also be illustrated in pie charts, bar charts, etc., depending on what you would 
+like to show. You might want to consider including the Project’s Cash Flow. 
+PLANNING WHEN, WHAT AND HOW YOU COMMUNICATE 
+ 
+Team members and stakeholders need information on the project's development and potential changes to 
+complete the work. 
+Planning communication involves understanding who needs to communicate, how often, and what information 
+is relevant to each stakeholder. 
+ASSIGNING ROLES AND RESPONSIBILITIES  
+ 
+Assess the strengths, skills, and abilities of each team member to assign responsibilities effectively. Use a 
+Responsibility Assignment Matrix (RAM). A legend or key is usually applied to the RAM, the one most used is 
+known as RACI (Responsible - Accountable - Consulted – Informed), to assign team members to tasks. 
+ 
+ 
+SAMPLE RESPONSIBILITY ASSIGNMENT MATRIX USING RACI 
+Task 
+Team Principal / 
+Project Manager 
+Design Engineer 
+Manufacturing 
+Engineer 
+Graphic 
+Designer 
+Design Car using Autodesk 
+Consulted 
+Accountable/ 
+Responsible 
+Consulted 
+Informed 
+Design Team Logo 
+Consulted 
+Consulted 
+Informed 
+Accountable/ 
+Responsible 
+Create Budget 
+Accountable 
+Consulted 
+Consulted 
+Informed 
+Book CNC Time 
+Informed 
+Consulted 
+Accountable/ 
+Responsible 
+ -  
+ 
+Legend / Key: 
+Responsible for doing the work 
+Accountable for making sure the work gets done 
+Consulted to provide critical input to the work 
+Informed of the work being done or completed 
+ 
+A STEM Racing team will be very structured, the rules and regulation documents highlight the roles that a 
+team should have.  This does not limit you assigning other roles to team members. 
+It is important to ensure that each activity and task identified in the project schedule is allocated to a team 
+member. 
+Communications 
+It is very important to have an internal project team communication plan.  You should agree how you plan to 
+communicate, how often, where, and when.  Look at the various communication tools that are available to you 
+in case you cannot always meet in person and weigh up the advantages of different platforms for different 
+tasks. 
+ 
+ 
+
+ 
+ 
+ 
+18 
+ 
+In association with 
+SAMPLE COMMUNICATION MATRIX 
+Who to contact 
+What to 
+communicate 
+Communication 
+method 
+When 
+Teacher 
+Milestones met 
+Face to Face 
+Milestone completion 
+STEM Racing HQ 
+Competition registration 
+Email / on-line forms 
+Start of year and when 
+information is requested 
+Sponsors 
+Competition progress 
+update 
+Newsletter Email 
+Monthly 
+Team members 
+Team update  
+Microsoft Teams 
+Daily @ lunchtime 
+ 
+It is very important to have an internal project team communication plan.  You should agree how you plan to 
+communicate, how often, where, and when.  Look at the various communication tools that are available to you 
+in case you cannot always meet in person and weigh up the advantages of different platforms for different 
+tasks. 
+Planning and monitoring for risk. 
+The objective is to identify two kinds of risks. The first might impact the project's triple constraints (scope, 
+schedule, and cost); the second type of risk might affect the safety of people and the environment.  
+Risk Identification 
+Risk Analysis and Assessment 
+Risk Response 
+Continue to Monitor Risks 
+The efficient form to identify risks is using the WBS.  
+WBS outlines the systematic approach to managing risks, from identification to response and continued 
+monitoring, as well as the classification and assessment of risks based on their impact and probability. The main 
+idea is to evaluate each component (work packages from the bottom to the top of the WBS). 
+Risks can be negative or positive. 
+Risk Responses for threats that may have a negative impact include Accept, Avoid, Escalate, Mitigate or 
+Transfer. 
+Risk Responses for Opportunities that may have a positive impact include Accept, Enhance, Escalate, Exploit or 
+Share. 
+Risks could affect various areas of the project, including: 
+• 
+Resources: Ability to acquire people, equipment, funding, or other resources to complete project.  All of 
+these apply to STEM Racing. 
+• 
+Timing: Will deliverables or the entire project be completed on schedule?  This is critical for STEM 
+Racing as you have a hard deadline of attending a STEM Racing event. 
+• 
+Scope: Completing and delivering all the items named in the original scope.  You may choose to change 
+the class of the competition you have entered. 
+• 
+Quality: How well each deliverable meets the goals set in the acceptance criteria.  Has your car been 
+manufactured as expected? 
+ 
+
+ 
+ 
+ 
+19 
+ 
+In association with 
+Qualifying Risks  
+All identified risks are important and valuables to successfully complete the project. However, not all risks are 
+having the same level of importance or urgency. Thus, classified risks due to their impact over the triple 
+constrain (Scope, Time, cost) is particularly important. 
+Example of Risk Assessment Matrix 
+ 
+Risk Assessment Matrix 
+What is the 
+Risk 
+Threat or 
+Opportunity? 
+Risk Impact 
+L = Low 
+M = 
+Medium 
+H = High 
+Risk 
+Probability 
+Risk 
+Score 
+Area of Impact 
+R = Resource 
+T = Timing 
+S = Scope 
+Q = Quality 
+Risk Response 
+Additional 
+Testing 
+Resources 
+made available 
+to the Team 
+Opportunity 
+L 
+M 
+M 
+R - Additional 
+Resources 
+made available 
+Q: Shorter 
+cycles to 
+improve our 
+car 
+ 
+Enhance: 
+- Book 
+additional 
+Testing Time 
+- Update car 
+manufacturing 
+schedule 
+ 
+Car front 
+wing damaged 
+during testing 
+Threat 
+M 
+L 
+M 
+R – New part 
+will need to be 
+manufactured 
+T – We may 
+not have 
+enough time to 
+manufacture a 
+new wing 
+before the 
+finals 
+Mitigate 
+-Manufacture a 
+spare wing 
+-Ensure testing 
+takes place 
+well before the 
+finals 
+Tip: For the Risk Impact, Probability and Score, you may choose to use a quantitative scale, i.e. 1 - 5 to measure risk.  
+ 
+THE EXECUTING PROCESS 
+Executing is the process of working through the project plan. This involves putting your project plan into 
+action. The project plan serves as a guide to help ensure that the deliverables — the intended goals of the 
+project — will be completed properly, on time, and within the budget. 
+As work is being executed, you should strive to:  
+✓ Use your budget and resources as planned. 
+✓ Manage the risks you identified. 
+✓ Stay focused only on the work you described in your project’s scope. 
+✓ Meet your milestones. 
+
+ 
+ 
+ 
+20 
+ 
+In association with 
+✓ Document your progress in an organised way. 
+✓ Communicate your project’s progress regularly and effectively to your stakeholders. 
+✓ Update any component of the initial project management plan if needed 
+By checking on your progress, evaluating whether project goals are being achieved in the best possible way and 
+being prepared to adjust their path, if necessary, you are engaged in the monitoring/controlling process. 
+THE MONITORING AND CONTROLLING PROCESS 
+Monitoring/controlling is a continuous process throughout the project life cycle. Project managers and 
+team members need to establish a cycle to evaluate the progress of the project and report back to 
+stakeholders about project developments. 
+KPIs, trends, and forecasting: Choose a small set of key performance indicators (KPIs) that show whether 
+you are on track (e.g., % deliverables complete, tasks on-time %, spend vs budget baseline, testing runs 
+completed, defects/issues open, portfolio sections drafted). In each status report, record planned vs. actual and 
+add a short forecast: “If we continue at this rate, we will finish X by Y.” This turns monitoring into evidence-
+based decision making. 
+ 
+VALIDATING AND CONTROLLING THE SCOPE 
+This is a key component of the monitoring/controlling process group.  
+Keep the following in mind: 
+• 
+Ensures that all the tasks necessary to achieve the project goals are completed. 
+• 
+Identify if any activities need to be added to the project. 
+• 
+Prevent work on the project from going beyond the scope.  
+• 
+Determine what to do if any activity is taking more time than planned.  
+ 
+SCOPE CREEP 
+This occurs when work is added to the project without appropriately adjusting the schedule and resources, 
+and without obtaining sponsor approval. 
+ 
+Routinely review the Acceptance Criteria that were established in the project to make sure that the 
+products of a project will satisfy project stakeholders’ needs and meet their standards. 
+Avoiding scope creep should start early in the project, ideally during the initiating process when you 
+established a goal and set the boundaries for the project’s work and scope.  During the planning process you 
+established what would not be included or would be “out of scope” for the project.  If you establish early what 
+is and what is not a part of the project’s scope you can rely on and monitor those plans to help you avoid 
+scope creep. 
+ADJUST FOR THE UNEXPECTED 
+It is more than likely that you will encounter some surprises as the project progresses. This is OK, it is what 
+monitoring and controlling is for. Discuss any surprises that occur as project work is being done. If a change 
+needs to occur, review the schedule, resources, and scope to see if there are other changes that need to be 
+made.   
+STATUS REPORTS 
+A status report is an effective way to monitor and document of the progress of your project — and to 
+communicate that progress to others. Each status report should include: 
+
+ 
+ 
+ 
+21 
+ 
+In association with 
+✓ What work has been completed  
+✓ What tasks are in progress 
+✓ What work is still planned 
+✓ What issues have developed 
+Status reports can help identify items that might affect the project scope, timeline, budget, or deliverables. For 
+example, if you raise money to buy a 3D printer but this arrives 2 weeks late, this will affect your timeline and 
+you may not have time to 3D print your wheels for the regional final. 
+Sample Status Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Status Report 
+Project: STEM Racing 
+Team name: Evolution 
+Date: November 12 
+Project status: in good shape 
+Tasks accomplished: 
+- All sponsorship acquired. 
+- Car CAD design milestone achieved and car ready for cfd analysis and then manufacture. 
+Tasks in progress: 
+- CFD analysis underway. 
+- Manufacturing engineer is preparing resources (model blocks) and booking the Denford CNC router to cut the 
+car. 
+Planned tasks 
+- Portfolio writing. 
+- Verbal presentation script writing and presentation creation. 
+Issues: 
+- One of the team members has an appointment clash on the date of the regional final.  They are currently 
+attempting to reschedule the appointment. 
+- Our 3D printer needs maintenance, and we are yet to confirm an engineer site visit. 
+Questions for discussion: 
+- We need to finalise our transport arrangements for attending the finals. 
+
+ 
+ 
+ 
+22 
+ 
+In association with 
+THE CLOSING PROCESS 
+Closing is the process of completing the project.  Finishing a project is an accomplishment. It is the 
+achievement of a lot of work.  As a group, you and your team members collectively sparked an idea, planned it, 
+executed the plan, monitored/controlled your progress, and have now reached the closing process. 
+In the closing process you can reflect upon the quality of the project deliverables, what you learned about 
+managing a project, and how well you and your team worked together. 
+In the closing process there is still some work to be completed as follows:  
+✓ A closing presentation is created, for some projects, to present the final report to the stakeholders. 
+✓ Collect and store any project-related paperwork and documents (such as the project plan, completed 
+schedule, etc.) in a project portfolio such as in a notebook or a computer. These documents 
+become reference material for future projects.   
+✓ Team members need to “sign off” on the project to verify that the project is completed.  
+✓ Create a Lessons Learned document with team members by asking what went well, what could 
+have been done better, and what should continue. You may have received feedback from the judges 
+which should be included.  You can also reflect on how your car performed on the track. 
+✓ Complete a self and peer assessment. Include whether you and your group:  
+o 
+Treated each other with respect,  
+o 
+Shared responsibilities,  
+o 
+Communicated clearly and effectively,  
+o 
+Worked in an organized fashion and  
+o 
+Managed time wisely.  
+✓ Finally, celebrate all that you and your team have accomplished! Regardless of the outcome, you 
+have dedicated time and effort, learned a lot along the way, and should be rewarded for such effort. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+23 
+ 
+In association with 
+Example Lessons Learned Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lessons Learned 
+ 
+Project: STEM Racing 
+Team name: Evolution 
+Date: January 15 
+What did we do right? 
+- We won the regional final and have a place at the national finals. 
+What could we have done better? 
+- We have not scored well in our verbal presentation.  We all acknowledge we did not rehearse this enough. 
+- Our car was not as fast as we had hoped.  We all acknowledge that we did not leave enough time to test our 
+prototypes. 
+What should we continue to do? 
+- Test, test, test 
+- Verbal presentation script writing, this really helped 
+What significant issues did we encounter and how did we resolve? 
+- Our 3d printer really let us down 
+- We built a relationship with our local university to gain access to their equipment 
+What are our lessons learned? 
+- We need to use as much time as we can analysing our cad design.  Our car was fast, but we wanted to win 
+the fastest car award 
+- We should have had more team meetings especially as we progressed through the project milestones 
+
+ 
+ 
+ 
+24 
+ 
+In association with 
+Sample Self & Peer Assessment 
+ 
+SELF AND PEER ASSESSMENT 
+ 
+PROJECT: STEM Racing 
+TEAM NAME: Evolution 
+DATE: JANUARY 15 
+List your team’s members, including yourself, in the space provided below. Then, rate every person on each 
+behaviour listed.  
+ 
+4 = Always 
+3 = Usually 
+2 = Sometimes 
+1 = Never 
+ 
+ 
+Team Member Names 
+(including your own) 
+Behaviours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibited a positive attitude 
+ 
+ 
+ 
+ 
+ 
+ 
+Treated other with respect 
+ 
+ 
+ 
+ 
+ 
+ 
+Shared responsibilities 
+ 
+ 
+ 
+ 
+ 
+ 
+Did work accurately & completely 
+ 
+ 
+ 
+ 
+ 
+ 
+Communicated clearly & effectively 
+ 
+ 
+ 
+ 
+ 
+ 
+Was organized 
+ 
+ 
+ 
+ 
+ 
+ 
+Managed time wisely 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+25 
+ 
+In association with 
+KEY TERMS 
+INITIATING PROCESS 
+Acceptance criteria: 
+A set of conditions that is required to be met before deliverables are accepted.  
+ 
+Assumption:  
+A factor in the planning process that is true, real, or certain, without proof or 
+demonstration.  
+ 
+Constraint: 
+A limiting factor that affects the execution of a project,  
+program, portfolio, or process. 
+Deliverables: 
+Any unique and verifiable product, result, or capability to perform a service that is 
+required to be produced to complete a process, phase, or project. 
+Milestone: 
+A type of schedule that presents milestones with planned dates.  
+Project charter: 
+A document issued by the project initiator or sponsor that formally authorises the 
+existence of a project and provides the manager with the authority to apply 
+organisational resources to project activities.  
+Project scope:  
+The work performed to deliver a product, service, or result with the specified 
+features and functions. 
+Resource: 
+A team member or any physical item needed to complete the project.  
+Risk: 
+An uncertain event or condition that, if it occurs, has a positive or negative effect on 
+one or more of the project objectives. 
+Stakeholder register: 
+A project document including the identification, assessment, and classifications of 
+project stakeholders. 
+ 
+Negative interest: 
+A stakeholder with negative interest is typically one who is affected by the 
+outcomes of a project. They either do not want that outcome to happen or will be 
+negatively impacted by that outcome. 
+PLANNING PROCESS 
+Milestone: 
+A significant point or event in a project, program, or portfolio. 
+Planning process: 
+Those processes required to establish the scope of the project, refine the 
+objectives, and define the course of action required to attain the objectives that the 
+project was undertaken to achieve. 
+Project schedule:  
+An output of a schedule model that presents linked activities with planned dates, 
+durations, milestones, and resources.  
+Scope:  
+The sum of the products, services, and results to be provided as a project.  
+Work Breakdown 
+Structure (WBS): 
+A hierarchical decomposition of the total scope of work to be carried out by the 
+project team to accomplish the project objectives and create the required 
+deliverables. 
+Gantt Chart 
+A bar chart provides schedule information where activities are listed on the vertical 
+axis, dates are shown on the horizontal axis, and activity durations are shown as 
+horizontal bars placed according to start and finish dates. 
+Critical Path 
+The sequence of activities that represents the longest path through a project, which 
+determines the shortest possible duration. 
+Responsibility Assignment 
+Matrix (RAM) 
+This matrix is a grid that shows the project resources assigned to each work 
+package. A RACI chart is a common way of showing stakeholders who are 
+responsible, accountable, consulted, or informed and are associated with project 
+activities, decisions, and deliverables. 
+Budget 
+A financial plan for income and expenditure over a defined period. 
+ 
+ 
+
+ 
+ 
+ 
+26 
+ 
+In association with 
+ 
+EXECUTING / MONITORING / CONTROLLING 
+Communications 
+management: 
+A component of the project, program, or portfolio management plan that describes 
+how, when, and by whom information about the project will be administered and 
+disseminated 
+Executing process:  
+Those processes performed to complete the work defined in the project 
+management plan to satisfy the project requirements. 
+Monitoring/controlling:  
+The processes required to track, review, and regulate the progress and 
+performance of the project; identify any areas in which changes to the plan are 
+required; and initiate the corresponding changes. 
+Risk:  
+An uncertain event or condition that, if it occurs, has a positive or negative effect on 
+one or more project objectives. 
+Scope creep:  
+The uncontrolled expansion to product or project scope without adjustments to 
+time, cost, and resources. 
+Status Report 
+A report on the current status of the project. 
+CLOSING PROCESS 
+Closing process:  
+The process(es) performed to formally complete or close a project, phase, or 
+contract. 
+Lessons Learned:  
+The knowledge gained during a project which shows how project events were 
+addressed or should be addressed in the future for the purpose of improving future 
+performance.  
+ 
+PROJECT MANAGEMENT PORTFOLIO 
+Project Management Assessment 
+Suggest Checklist 
+Initiation Process 
+✓ Kick Off Meeting 
+✓ Project Charter 
+✓ Scope Statement 
+✓ Quality Acceptance Criteria 
+Project Schedule 
+✓ Work Breakdown Structure (WBS) 
+✓ Schedule 
+✓ GANTT Chart 
+Budget and Resource Management 
+✓ Resource Management 
+✓ Budget Expenditure Tracking (Baseline vs. Actual) 
+Roles and Responsibilities 
+✓ Role Descriptions 
+✓ Team Structure 
+✓ RACI Chart 
+Team & Stakeholder 
+Communications 
+✓ Communication Plan (Internal and External) 
+✓ Communication Tools 
+✓ Stakeholder Register 
+Risk Management 
+✓ Risk Identification, Planning, Analysis and Assessment  
+✓ Risk Register Impact and Probability 
+Monitoring & Controlling 
+✓ Status Report 
+✓ Scope Creep 
+✓ Sign Off 
+ 
+Tip: Other areas to consider 
+ 
+Initiation Process: Mission/ Vision/ Goals, Key Deliverables and Out of Scope 
+Project Schedule: Critical Path, Major Milestones and PERT Analysis 
+Budget and Resource Management: Budget/ Resource Strategy, Income vs. Expenditures and Cash Flow.  
+
+ 
+ 
+ 
+27 
+ 
+In association with 
+Roles and Responsibilities: Team Dynamics/ Assessment, Ownership of Deliverables, Culture and Motivations. 
+Team & Stakeholder Communications: Power – Interest Grid and Methods of Communications 
+Risk Management: Risk Assessment Matrix 
+Monitoring & Controlling: Change Management, Lessons Learned, Strategy and Key Performance Indicators. 
+ 
+FURTHER READING 
+For more resources and information about project management, head to the resources page of the STEM 
+Racing website:  
+STEMRACING.COM 
+RULES AND REGS  
+PMIEF Project Management Skills for Life® (2025) 
+AGILE PRACTICE GUIDE 
+KICK OFF 
+ 
+Project Management: Agile, Predictive, and Hybrid 
+Managing a project is like guiding a ship. Depending on your destination and the weather, there are different 
+ways to steer it. Let's explore three methods: Agile, Predictive, and Hybrid. 
+ 
+Agile: Flexible and Fast 
+Agile is like building a Lego castle without a fixed plan. You start, get feedback, and keep adding pieces. It's 
+great for projects that change a lot, like making an app. 
+ 
+Key Points: Flexible, iterative, teamwork-focused. 
+Predictive: Plan It All 
+Predictive is like following instructions to build a model airplane. You plan everything and stick to it, perfect 
+for projects with clear steps, like constructing a building. 
+ 
+Key Points: Detailed planning, steady progress, less flexibility. 
+ 
+Hybrid: Uncertainty or risk around Requirements 
+Hybrid mixes Agile and Predictive. It's like baking a cake using a recipe but adding your choice of toppings. You 
+have a plan but can tweak it. This approach suits projects needing structure and some adaptability. 
+ 
+Key Points: Combines methods, flexible planning, balanced. 
+ 
+Conclusion: Choosing a project management method depends on your project's needs. Agile lets you adapt 
+quickly, Predictive keeps you on a set path, and Hybrid offers a middle ground. It's like picking the best route 
+for your ship, ensuring a successful journey! 
+ 
+ 

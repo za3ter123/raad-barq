@@ -1,0 +1,15 @@
+{
+  "assistant_name_en": "Thunder",
+  "assistant_name_ar": "رعد",
+  "wake_words": ["thunder", "ra'ad", "raad", "rad", "رعد", "يا رعد", "ya raad"],
+  "instagram_handle": "barq.racingkw",
+  "groq_api_key": "",
+  "deepseek_api_key": "",
+  "elevenlabs_api_key": "",
+  "elevenlabs_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenlabs_voice_id_ar": "fkqevZRU7Xj52dY1CTkq",
+  "elevenlabs_voice_id_en": "onwK4e9ZLuTAKqWW03F9",
+  "tts_voice_en": "en-US-GuyNeural",
+  "tts_voice_ar": "ar-SA-HamedNeural",
+  "ollama_fallback_model": "gemma4:12b"
+}

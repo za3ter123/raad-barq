@@ -1,0 +1,6507 @@
+ 
+ 
+ 
+REVISION 1
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 2 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+Front Cover – Lunar, Australia, Aramco STEM Racing™ 2025 World Champions  
+CONTENTS  
+ARTICLE C1 – DEFINITIONS ....................................................................................................................................................................................... 5 
+C1.1 
+WORLD FINALS EVENT................................................................................................................................................................................ 5 
+C1.2 
+STEM RACING™ IN-COUNTRY CO-ORDINATOR (ICC) ................................................................................................................................. 5 
+C1.3 
+PARC FERMÉ .............................................................................................................................................................................................. 5 
+C1.4 
+COMPETITION PROGRAMME ........................................................................................................................................................................ 5 
+C1.5 
+WORLD FINALS TERMS AND CONDITIONS FOR ENTRY ..................................................................................................................................... 5 
+C1.6 
+KEY PERFORMANCE INDICATORS (KPI’S) ..................................................................................................................................................... 5 
+C1.7 
+CAR RACE TIME VALUE ................................................................................................................................................................................ 5 
+C1.8 
+TOTAL RACE TIME VALUE ............................................................................................................................................................................. 5 
+C1.9 
+REACTION TIME VALUE ................................................................................................................................................................................ 5 
+C1.10 
+PROJECT ELEMENTS ................................................................................................................................................................................... 6 
+C1.11 
+RACE EVENT .............................................................................................................................................................................................. 6 
+C1.12 
+ENGINEERING DRAWINGS ............................................................................................................................................................................ 6 
+C1.13 
+RENDERINGS ............................................................................................................................................................................................. 6 
+C1.14 
+TEAM DIGITAL UPLOAD FOLDER .................................................................................................................................................................. 6 
+C1.15 
+PARTNERSHIPS .......................................................................................................................................................................................... 6 
+ARTICLE C2 – GENERAL INFORMATION .................................................................................................................................................................. 7 
+C2.1 
+COMPETING TEAMS..................................................................................................................................................................................... 7 
+C2.2 
+RETURNING STUDENTS ............................................................................................................................................................................... 8 
+C2.3 
+COMPETITION PROGRAMME, TEAM NUMBER AND TEAM NAME ......................................................................................................................... 8 
+C2.4 
+TEAM RESPONSIBILITIES .............................................................................................................................................................................. 9 
+C2.5 
+ROLE AND RESPONSIBILITY OF ICC AND SUPERVISING TEACHER/ADULT.......................................................................................................... 9 
+C2.6 
+REGULATIONS DOCUMENTS ....................................................................................................................................................................... 10 
+C2.7 
+INTERPRETATION OF THE REGULATIONS ..................................................................................................................................................... 10 
+C2.8 
+SUPPLEMENTARY COMPETITION REGULATIONS ........................................................................................................................................... 10 
+C2.9 
+DESIGN IDEAS AND REGULATION COMPLIANCE QUERIES .............................................................................................................................. 10 
+C2.10 
+TEAM PARTNERSHIPS ................................................................................................................................................................................ 10 
+C2.11 
+MANDATORY PROJECT ELEMENTS REQUIRED FOR WORLD FINALS ENTRY ..................................................................................................... 11 
+C2.12 
+TEAM REGISTRATION ................................................................................................................................................................................ 16 
+C2.13 
+SUBMISSION OF PROJECT ELEMENTS ......................................................................................................................................................... 16 
+C2.14 
+PROJECT ELEMENTS TO BE RETAINED BY STEM RACING™ ......................................................................................................................... 17 
+C2.15 
+BENEFIT OF DOUBT ................................................................................................................................................................................... 17 
+C2.16 
+SPIRIT OF THE COMPETITION ..................................................................................................................................................................... 17 
+C2.17 
+PLAGIARISM ............................................................................................................................................................................................. 18 
+C2.18 
+USE OF ARTIFICIAL INTELLIGENCE (AI) ....................................................................................................................................................... 18 
+ARTICLE C3 – COMPETITION AND JUDGING FORMAT ........................................................................................................................................ 21 
+C3.1 
+COMPETITION PROGRAMME ....................................................................................................................................................................... 21 
+C3.2 
+JUDGING CATEGORIES .............................................................................................................................................................................. 21 
+C3.3 
+JUDGING SCORECARDS ............................................................................................................................................................................. 21 
+C3.4 
+WORLD CHAMPIONS ................................................................................................................................................................................. 21 
+C3.5 
+POINT ALLOCATIONS ................................................................................................................................................................................. 22 
+C3.6 
+CLASSIFICATION OF TECHNICAL REGULATIONS ............................................................................................................................................ 23 
+ARTICLE C4 – SPECIFICATION & SCRUTINEERING JUDGING (160 POINTS) .................................................................................................... 24 
+C4.1 
+WHAT WILL BE JUDGED? ........................................................................................................................................................................... 24 
+C4.2 
+TEAM PREPARATION ................................................................................................................................................................................. 24 
+C4.3 
+WHO NEEDS TO ATTEND? .......................................................................................................................................................................... 24 
+C4.4 
+JUDGING PROCESS/PROCEDURE ................................................................................................................................................................ 24 
+C4.5 
+SAFE/FIT TO RACE FIX............................................................................................................................................................................... 25 
+C4.6 
+SPECIFICATION JUDGING DECISION APPEALS .............................................................................................................................................. 25 
+ARTICLE C5 – DESIGN & ENGINEERING JUDGING (180 POINTS) ....................................................................................................................... 26 
+C5.1 
+WHAT WILL BE JUDGED? ........................................................................................................................................................................... 26 
+C5.2 
+TEAM PREPARATION ................................................................................................................................................................................. 26 
+C5.3 
+WHO NEEDS TO ATTEND? .......................................................................................................................................................................... 26 
+C5.4 
+JUDGING PROCESS / PROCEDURE .............................................................................................................................................................. 26 
+C5.5 
+DESIGN & ENGINEERING PORTFOLIO REQUIREMENTS ................................................................................................................................. 27 
+ARTICLE C6 – PROJECT MANAGEMENT JUDGING (90 POINTS) ........................................................................................................................ 28 
+C6.1 
+WHAT WILL BE JUDGED? ........................................................................................................................................................................... 28 
+C6.2 
+TEAM PREPARATION ................................................................................................................................................................................. 28 
+C6.3 
+WHO NEEDS TO ATTEND? .......................................................................................................................................................................... 28 
+C6.4 
+JUDGING PROCESS / PROCEDURE .............................................................................................................................................................. 28 
+C6.5 
+PROJECT MANAGEMENT PORTFOLIO REQUIREMENTS ................................................................................................................................. 28 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 3 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE C7 – ENTERPRISE JUDGING (180 POINTS) ........................................................................................................................................... 29 
+C7.1 
+WHAT WILL BE JUDGED? ........................................................................................................................................................................... 29 
+C7.2 
+TEAM PREPARATION ................................................................................................................................................................................. 29 
+C7.3 
+WHO NEEDS TO ATTEND? .......................................................................................................................................................................... 30 
+C7.4 
+JUDGING PROCESS / PROCEDURE .............................................................................................................................................................. 30 
+C7.5 
+ENTERPRISE PORTFOLIO REQUIREMENTS................................................................................................................................................... 30 
+C7.6 
+PIT DISPLAY SETUP AND PARAMETERS ....................................................................................................................................................... 31 
+ARTICLE C8 – VERBAL PRESENTATION JUDGING (140 POINTS) ...................................................................................................................... 33 
+C8.1 
+WHAT WILL BE JUDGED? ........................................................................................................................................................................... 33 
+C8.2 
+TEAM PREPARATION ................................................................................................................................................................................. 33 
+C8.3 
+WHO NEEDS TO ATTEND? .......................................................................................................................................................................... 33 
+C8.4 
+JUDGING PROCESS / PROCEDURE .............................................................................................................................................................. 33 
+C8.5 
+VERBAL PRESENTATION JUDGING PROVISIONS ............................................................................................................................................ 33 
+C8.6 
+VERBAL PRESENTATION VIDEO RECORDINGS .............................................................................................................................................. 34 
+ARTICLE C9 – RACING (250 POINTS) ...................................................................................................................................................................... 35 
+C9.1 
+WHAT RACES WILL BE CONDUCTED? .......................................................................................................................................................... 35 
+C9.2 
+TEAM PREPARATION ................................................................................................................................................................................. 35 
+C9.3 
+WHO NEEDS TO ATTEND? .......................................................................................................................................................................... 35 
+C9.4 
+REACTION RACE PROCEDURE .................................................................................................................................................................... 35 
+C9.5 
+REACTION RACE SCORING ......................................................................................................................................................................... 36 
+C9.6 
+TIME TRIAL RACE SCORING ........................................................................................................................................................................ 36 
+C9.7 
+KNOCK-OUT COMPETITION ........................................................................................................................................................................ 36 
+C9.8 
+DNF (DID NOT FINISH) RACE RESULTS ....................................................................................................................................................... 38 
+C9.9 
+FALSE STARTS ......................................................................................................................................................................................... 38 
+C9.10 
+TRACK, TETHER LINE AND TIMING SYSTEM INFORMATION ............................................................................................................................. 38 
+C9.11  
+CAR DECELERATION SYSTEMS .................................................................................................................................................................. 38 
+C9.12 
+RACE POWER PACKS ............................................................................................................................................................................... 39 
+C9.13 
+CAR WEIGHT CHECKS ............................................................................................................................................................................... 39 
+C9.14 
+JUDGES HANDLING CARS ........................................................................................................................................................................... 39 
+ARTICLE C10 – CAR REPAIRS AND CAR SERVICING .......................................................................................................................................... 40 
+C10.1 
+CAR REPAIRS ........................................................................................................................................................................................... 40 
+C10.2 
+CAR SERVICING ........................................................................................................................................................................................ 40 
+ARTICLE C11 – PROTESTS ....................................................................................................................................................................................... 41 
+C11.1 
+SCRUTINEERING DECISION APPEALS .......................................................................................................................................................... 41 
+C11.2 
+SUBMITTING A PROTEST ............................................................................................................................................................................ 41 
+C11.3 
+UNSUCCESSFUL PROTESTS ....................................................................................................................................................................... 41 
+ARTICLE C12 – JUDGES ........................................................................................................................................................................................... 42 
+C12.1 
+OVERVIEW ............................................................................................................................................................................................... 42 
+C12.2 
+CHAIR OF JUDGES .................................................................................................................................................................................... 42 
+C12.3 
+THE JUDGING TEAMS ................................................................................................................................................................................ 42 
+C12.4 
+JUDGING DECISIONS ................................................................................................................................................................................. 42 
+ARTICLE C13 - AWARDS ........................................................................................................................................................................................... 43 
+C13.1 
+AWARDS CELEBRATION ............................................................................................................................................................................ 43 
+C13.2 
+PARTICIPATION RECOGNITION ................................................................................................................................................................... 43 
+C13.3 
+PRIZES AND TROPHIES ............................................................................................................................................................................. 43 
+C13.4 
+LIST OF AWARDS TO BE PRESENTED ........................................................................................................................................................... 43 
+APPENDIX… ................................................................................................................................................................................................................ 44 
+AWARDS MATRIX ....................................................................................................................................................................................................... 45 
+SCRUTINEERING JUDGING SCORECARD ...................................................................................................................................................................... 46 
+DESIGN & ENGINEERING SCORECARD......................................................................................................................................................................... 47 
+PROJECT MANAGEMENT SCORECARD ......................................................................................................................................................................... 48 
+ENTERPRISE SCORECARD .......................................................................................................................................................................................... 49 
+PIT DISPLAY & TEAM IDENTITY SCORECARD ................................................................................................................................................................ 50 
+VERBAL PRESENTATION SCORECARD ......................................................................................................................................................................... 51 
+SPECIFICATIONS SCORECARD .................................................................................................................................................................................... 52 
+RACE PROCEDURE & TROUBLESHOOTING FLOWCHART ............................................................................................................................................... 57 
+PIT DISPLAY REFERENCE DIMENSIONS ....................................................................................................................................................................... 58 
+PIT STOP (WHEEL CHANGE SYSTEM CHALLENGE) - OPTIONAL .................................................................................................................................. 59 
+AI ASSISTANCE AND VERIFICATION LOG ...................................................................................................................................................................... 60 
+PHYSICAL PROJECT ELEMENT SUBMISSION CHECKLIST ............................................................................................................................................... 61 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 4 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+Please note: any amendments made prior to the event will be indicated using red 
+strikethrough text. New text will be indicated using blue text. 
+LIST OF REVISIONS FROM 202
+6: 
+C7.1 – Digital Media Proficiency replaced with Community & Social Impact  
+C7.5 – Updated with Community & Social Impact  
+Appendix - Awards Matrix Updated 
+Appendix - Enterprise Scorecard updated with Community & Social Impact  
+Appendix – Example Specifications Scorecard - T7.4 updated 
+ 
+LIST OF REVISIONS FROM 2025:
+ 
+C2.1.2 – Updated text 
+C2.1.13 – Mandatory STEM Racing™ Logo on Team Uniform (New) 
+C2.11.2 – Portfolios – Updated 
+C2.11.9 – Personally Identifying Information (PII) and Student Privacy (New) 
+C2.13.1 – Updated 
+C2.17 – Plagiarism – Updated 
+C2.18 – Use of AI Tools (New) 
+C5.4 – Design & Engineering Portfolio requirements – Updated 
+C6.5 – Project Management Portfolio requirements – Updated 
+C7.5 – Enterprise Portfolio requirements – Updated 
+C10.2.8 – Use of Lubricants (New) 
+C9.4 – Reaction race procedure – Updated 
+C9.7.1 – Updated text 
+C9.7.2 – Updated text 
+C9.7.3 – Updated text 
+C13.3.4 – Updated text 
+Appendix - Pit Display & Team Identity Scorecard – Updated Team Identity 
+Appendix - Project Management Scorecard - Updated 
+Appendix - Scrutineering Judging Scorecard – Updated Quality of Finish and Assembly 
+Appendix - PIT STOP (Wheel Change System Challenge) – Optional (New) 
+Appendix - AI Assistance and Verification Log Template 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 5 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C1 – DEFINITIONS
+ 
+C1.1 
+World Finals Event
+ 
+The World Finals event is managed by STEM Racing™ and is held over several days to 
+include various programmed social and competition activities. The event aims to provide all 
+participants with an educational and personal development ‘Experience of a Lifetime’. 
+Specifically, the competition aims to determine the World Champions of STEM Racing™ 
+according to the 2026 STEM Racing™ World Finals Technical and Competition regulations. 
+C1.2 
+STEM 
+Racing ™ In- Country Co
+- ordinator (ICC)
+ 
+Person/s and/or an organisation approved by STEM Racing™ to manage and co-ordinate 
+STEM Racing™ within a specified country or region of the world.  
+C1.3 
+Parc fermé
+ 
+A secure area where all submitted cars and components are held to prevent unauthorised 
+handling but to allow technical inspections to be conducted by the Judges. (Literal meaning 
+in French of ‘closed park’). 
+C1.4  
+Competition Programme
+ 
+The competition programme will detail the schedule of judging activities for all teams. 
+C1.5 
+World Finals terms and conditions for entry
+ 
+This is a document issued by STEM Racing™ which constitutes an agreement between 
+STEM Racing™, ICC’s and supervising teachers regarding participation by teams in the World 
+Finals event. 
+C1.6 
+Key performance indicators (KPI’s)
+ 
+These are portions of text that feature on the scorecards within a corresponding points range. 
+The KPI’s describe the type of evidence the Judges will be looking for in order to score the 
+team appropriately. 
+C1.7 
+Car race time value
+ 
+A ‘car race time’ value is the actual time taken for a STEM Racing™ car to travel the track 
+from start to finish, measured from the instant the start box fires to when the car breaks the 
+finish line timing beam. In the case of reaction races, the ‘car race time’ value is calculated as 
+the ‘total race time’ value displayed on the electronic start gate minus the ‘reaction time’ value 
+displayed for that race. 
+C1.8 
+Total race time value
+ 
+The ‘total race time’ value is displayed in the total time field on the electronic start gate at the 
+conclusion of every race. This time is the sum of the ‘car race time’ value and any ‘reaction 
+time’ value displayed on the electronic start gate.  
+C1.9 
+Reaction time value
+ 
+A ‘reaction time’ value is the time recorded from the instant the five (5) start lights extinguish 
+to the instant the start trigger is activated by the driver. This value is displayed in the reaction 
+time field on the electronic start gate. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 6 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C1.10 
+Project elements
+ 
+These are any materials and resources that the team presents as part of its entry for any 
+judging activity.  
+C1.11 
+Race event
+ 
+The World Finals competition includes three separate race events. These are: Reaction 
+Racing 1, Reaction Racing 2, and Knock-out Racing. 
+C1.12 
+Engineering drawings 
+ 
+Engineering drawings are CAD produced drawings, which along with relevant CAM 
+programmes, could theoretically be used to manufacture the fully assembled car by a third 
+party. Such drawings must include all relevant dimensions, tolerances and material 
+information. STEM Racing™ engineering drawings must include detail to specifically identify 
+and prove compliance for the virtual cargo and wing surfaces. Engineering drawings can 
+include: orthographic projection, auxiliary projection, section views, isometric projection, 
+oblique projection, perspective and annotated renderings. 
+C1.13 
+Renderings
+ 
+Renderings are images intended to illustrate the three-dimensional form of an object. These 
+can be generated in isometric projection, oblique projection or perspective. 
+C1.14 
+Team Digital  Upload Folder  
+This is a team-specific digital upload folder, where all digitally submitted work must be 
+uploaded to STEM Racing™. Each team will receive a unique link to their own Team Digital 
+Upload Folder, which will be provided by email directly to competing teams and ICC’s after 
+team registration. 
+C1.15 
+Partnerships
+ 
+A partnership can be defined as a collaborative relationship between organizations. The 
+purpose of this relationship is to work toward shared goals through a division of labour that all 
+parties agree on.  
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 7 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C2 – GENERAL INFORMATION
+ 
+C2.1 
+Competing teams
+ 
+C2.1.1 
+STEM Racing™ will request that each In-Country Co-ordinator (ICC) selects teams 
+for entry to the World Finals event from their region. Once approved by STEM 
+Racing™, these teams will then be invited to compete in the World Finals by the 
+ICC.  The invited World Finals teams will normally be the overall winner of the in-
+country national final, a second and third team chosen at the discretion of the ICC 
+to suit the In-Country competition.  This third team could also be an internal or 
+international collaboration.  
+C2.1.2 
+Each team must consist of a minimum of 3 students to a maximum of 6. 
+Students born on or after 1 August 2006, are eligible to compete.  
+C2.1.3 
+Only members of the official competing team (maximum 6) are permitted to wear 
+the team’s uniform.  
+C2.1.4 
+STEM Racing™ will provide help to establish international collaboration teams 
+where needed by liaising between the relevant ICC’s. Teams nominated to form 
+international collaboration teams are usually runner-up or minor placed winning 
+teams from respective National Finals.  
+C2.1.5 
+International collaboration teams must consist of a minimum of 4 members and up 
+to a maximum of 6 with a minimum of 2 members from any one country (i.e. 3 
+countries collaborating is the maximum) and where possible be as balanced as 
+possible in order to represent a fair split of team members between the collaboration 
+countries.   
+C2.1.6 
+When teams combine to form a collaboration, a maximum of six students must be 
+nominated as the official competing team members.  The remaining students may 
+be referred to as affiliated students. Regulation C2.2.3 does not apply to 
+International collaboration teams who have previously participated, provided the 
+same international collaboration team is not entered. (Please note, from 2015, 
+students who have previously attended a World Final as a collaboration team will 
+be allowed to compete a further time at a forthcoming World Final). 
+C2.1.7 
+During the competition, only the official core team members (maximum of 6) can 
+represent the team at registration, Pit Display set up, Scrutineering review, Verbal 
+Presentation, Design & Engineering judging, Project Management, Enterprise 
+judging, Safe/Fit to race fix, racing, on-stage presentations, competition activities 
+and any direct communication with the Chair of Judges or Event/Competition 
+Directors.  
+C2.1.8 
+If an international collaboration team wins an award, only the official core team 
+members may take to the stage and be involved in key photo, media and publicity 
+sessions.  Any trophies must be shared between the team following the World Finals 
+event.  Only the collaboration award will have two actual trophies associated with 
+it.  Award certificates will be duplicated for awards won by collaboration teams. 
+C2.1.9  All international collaboration teams must sign a memorandum of understanding 
+(MOU) document that acknowledges the team construction, financial obligations 
+and team member responsibilities. This document must be signed by each team 
+member, a school official and the ICC as witness. This document should initially be 
+created by the ICC. Example MOU are available upon request from STEM 
+Racing™. 
+C2.1.10 Team affiliated students are welcome to attend the World Finals but must pay the 
+participation fee to join in all official activities.  They may play no part in the judging 
+assessment process as outlined in C2.1.7.  STEM Racing™ reserves the right to 
+impose a penalty of up to 20 points at the discretion of the chair of judges if it is felt 
+team affiliated students are influencing the judging process. 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 8 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.1.11  Team affiliated students, supervising adults / teacher must adhere to C2.1.3.  If a 
+uniform is to be worn it must be significantly different to the official core team.  This 
+is to assist the Judges in recognising the official core students. 
+C2.1.12  Non-international collaboration teams may not have affiliated students associated 
+with the team and any additional delegates will only be recognised as team guests. 
+C2.1.13  Mandatory STEM Racing™ Logo on Team Uniform 
+All official core team members must display the official STEM Racing™ logo on the 
+right-hand side chest area of their team uniform during all official World Finals 
+activities. 
+The logo must: 
+• Be positioned on the right side of the chest when viewed from the front 
+• Be clearly visible and unobstructed 
+• Have a minimum width of 100mm 
+• Comply fully with the official STEM Racing™ Brand Guidelines, including 
+approved colours, clear space, background usage, and logo format 
+ 
+ 
+ 
+ 
+Compliance with this regulation forms part of the assessment of brand consistency 
+under the Team Identity criteria. Teams who do not comply with this regulation will 
+not be eligible to receive marks within the highest band (16–20 points) of the Team 
+Identity score. Compliance may be checked during event registration and at any 
+time prior to or during judged sessions. 
+C2.2  
+Returning Students
+ 
+C2.2.1 
+A student can only participate in a maximum of 2 World Finals. 
+C2.2.2 
+Any member of a World Finals Team (with the exception of C2.2.3), or the whole 
+team, may return to participate in one other World Finals event, provided they have 
+qualified to do so through their National Competition. 
+C2.2.3 
+After the 2018 World Finals, World Champions will not be able to compete in another 
+World Finals event. They may however be invited to join the Judging panel at a 
+future World Finals event. 
+C2.3  
+Competition programme , team number and team name
+ 
+C2.3.1 
+STEM Racing™ will issue the competition programme showing all scheduled 
+judging activities, with judging times listed against team competition numbers. 
+C2.3.2 
+STEM Racing™ Ltd. will determine the team number each team will be allocated. 
+These team numbers will correspond with those published in the competition 
+programme.  
+C2.3.3 
+The competition programme may be revised slightly to accommodate a team from 
+the host country participating in the first race of the event.  
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 9 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.3.4 
+No teams participating in the challenge are permitted to use any of the Formula One 
+Word Marks (shown below) in their team name, logo, domain name, and/or any 
+social media handle.  For example, “Infinity F1” is not allowed and should be 
+changed to something similar such as “Infinity” or “Team Infinity”. No team will be 
+permitted to use any of the prohibited word marks within their team name when 
+participating in STEM Racing™ from 2017 onwards. 
+The STEM RACING Logo, STEM RACING, FORMULA 1, FIA FORMULA ONE 
+WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trademarks of 
+Formula One Licensing BV, a Formula 1 company.  All rights reserved 
+C2.3.5 
+Duplicate team names will be asked to rename with the Country code after their 
+name. It is optional for teams to change their team logo, but all judging, references 
+and mentions will use the official corrected name. 
+C2.3.6 
+During registration teams will be asked to define their official team’s name and their 
+“short” team’s name.  The official team’s name will be used to identify your team by 
+default. Please refer to C2.3.4 for guidance on creating a suitable team name. 
+The short name is the name that will be displayed for your team where space is 
+limited (for example, small on-screen graphics). This must be no more than 15 
+characters (including spaces) and be typed exactly as you want the name to appear. 
+C2.3.7 
+Prohibited characters – Teams may be asked to alter their team and organisation 
+names if they contain special characters outside of A-Z, a-z, 0-9 as these may cause 
+issues with data processing.  Some of the reserved characters are listed below. 
+These may be amended at any point by STEM Racing™ Ltd. Superscript or 
+subscript characters will also be ignored. 
+• 
+Team names must not include following reserved characters: 
+➢ < (less than) 
+➢ > (greater than) 
+➢ : (colon) 
+➢ " (double quote) 
+➢ / (forward slash) 
+➢ \ (backslash) 
+➢ | (vertical bar or pipe) 
+➢ ? (question mark) 
+➢ * (asterisk) 
+C2.4  
+Team responsibilities
+ 
+C2.4.1 
+Teams must read the World Finals Technical Regulations carefully to ensure their 
+cars comply with those regulations. 
+C2.4.2 
+Teams must read the World Finals Competition Regulations (this document) 
+carefully to ensure that all project elements satisfy these regulations and that they 
+understand the requirements and procedures for all aspects of the competition and 
+judging. 
+C2.4.3 
+During the competition it is the team’s responsibility to ensure that team members 
+are present at the correct time and location for all scheduled activities. 
+C2.5  
+Role and responsibility of ICC
+ and supervising 
+teacher/adult
+. 
+C2.5.1 
+All ICC’s and supervising teachers/adults should carefully read and understand the 
+terms and conditions for entry to the STEM Racing™ World Finals event, and must 
+have explained all relevant information within this agreement to their team/s. 
+C2.5.2 
+It is the primary responsibility of any event accredited supervising teacher/adult 
+and/or the ICC to ensure duty of care/well-being for all their student team members, 
+as appropriate for their home country legislation. Any concerns arising during the 
+event in relation to this should be brought to the attention of the STEM Racing™ 
+Event Directors immediately. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 10 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.5.3 
+The event accredited supervising teacher/adult and/or ICC is expected to be present 
+during any judging activity with their team, but, must not interact in any way with the 
+student team, Judges or judging process. Any incident considered inappropriate will 
+be brought to the attention of the Chair of Judges and 10 penalty points may be 
+applied to their associated team.  
+C2. 6 
+Regulations documents
+ 
+C2.6.1 
+STEM Racing™ issues the regulations, their revisions and amendments made. 
+C2.6.2 
+Competition Regulations – (This document). The Competition Regulations 
+document is mainly concerned with regulations and procedures directly related to 
+judging and the competition event. Competition Regulation articles have ‘C’ prefix. 
+C2.6.3 
+Technical Regulations – A document; separate to this one which is mainly 
+concerned with those regulations that are directly related to STEM Racing™ car 
+design and manufacture. Technical Regulation articles have a ‘T’ prefix. 
+C2. 7 
+Interpretation of the regulations
+ 
+C2.7.1 
+The final text of these regulations is in English, should any dispute arise over their 
+interpretation, the regulation text, diagrams and any related definitions should be 
+considered together for the purpose of interpretation. 
+C2.7.2 
+Text clarification - Any frequently asked questions that are deemed by STEM 
+Racing™ to be related to text needing clarification will be answered. The question 
+and the clarification will be published to all teams at the same time. 
+C2. 8 
+Supplementary competition regulations
+ 
+Other documents may be issued by STEM Racing™ that provide teams with further logistic 
+and other important event information. Any supplementary regulations will be issued to all 
+ICC’s or lead teachers and team managers, where the team manager has supplied STEM 
+Racing™ with a contact email address. Copies of all supplementary regulations issued will be 
+available online either via the website, event app or social media pages.  
+C2. 9 
+Design ideas and regulation compliance queries
+ 
+Teams are not permitted to seek a ruling from STEM Racing™ or any competition official or 
+judge before the event as to whether a design idea complies with the regulations. Rulings will 
+only be made by the Judges at the World Finals event.  Design compliance to the regulations 
+forms part of the competition. As in Formula 1®, innovation is encouraged, and STEM 
+Racing™ teams may also find, sometimes controversial, ways of creating design features by 
+pushing the boundaries in order to get an extra competitive edge.  
+C2. 10 
+Team partnerships
+ 
+C2.10.1 STEM Racing™ teams are encouraged to develop mentoring partnerships with 
+businesses, industry, or higher education organisations throughout their project. 
+C2.10.2 All teams will be required to complete a ‘Team Partnerships’ declaration using the 
+template issued by STEM Racing™. A declaration is required even in the case of 
+no partnerships to declare. This is submitted as per Article C2.13. 
+C2.10.3 All design work, text and scripting for all project elements presented for assessment 
+must be wholly undertaken and created by the team. This includes all CAD and CAM 
+data, electronic portfolio and graphic content.  
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 11 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.10.4 All aspects of any partnerships should also be represented in the team’s portfolio. 
+For project elements produced utilising some outside assistance, teams should be 
+able to demonstrate to the Judges a high level of understanding of, and justification 
+for, any of the processes used. 
+C2.10.5 ‘Common sense’ will prevail for project elements or components that a team has 
+purchased from a supplier. E.g. bearings, screw eye, display hardware. Teams 
+should be able to explain and justify why a specific component was selected / 
+purchased over other similar available components. 
+C2.11 
+Mandatory project elements required for World Finals entry
+ 
+The following is a summary of the mandatory elements required for judging: 
+• 
+Two (2) identical STEM Racing™ cars including all optional replacement components  
+• 
+One (1) STEM Racing™ display car for use in judging activities  
+• 
+One (1) fully machined, unfinished, unassembled STEM RACING model block car 
+body identical to the car body used on car A & B 
+• 
+One (1) Halo and One (1) Helmet identical to the car body used on car A & B (for 
+specification judging purposes) 
+• 
+One (1) digital and Two (2) physical copies of the Design & Engineering Portfolio  
+• 
+One (1) digital and Two (2) physical copies of the Project Management Portfolio  
+• 
+One (1) digital and Two (2) physical copies of Enterprise Portfolio  
+• 
+A Pit Display  
+• 
+A 10-minute Verbal Presentation 
+• 
+A set of engineering drawings including orthographic and 3D renders for 
+Scrutineering judging. 
+• 
+A digital team logo 
+• 
+All relevant CAD data and access to CAD software  
+• 
+‘Team Partnerships’ declaration(s) 
+• 
+Car Submission Checklist which must include the official STEM RACING Model 
+Block holographic stickers 
+The above list is detailed in the remainder of ARTICLE C2. 
+C2.11.1 Cars - Each team must produce two (2) identical STEM Racing™ race cars and one 
+(1) display car. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 12 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.11.2 Portfolios - Each team must produce: 
+• 
+Design & Engineering Portfolio 
+o 
+One (1) digital copy and Two (2) physical copies 
+o 
+A3 size (or equivalent) 
+o 
+Maximum of eleven (11) pages (assessed content) 
+o 
+Appendix (AI Assistance & Verification Log) 
+• 
+Enterprise Portfolio 
+o 
+One (1) digital copy and Two (2) physical copies 
+o 
+A3 size (or equivalent) 
+o 
+Maximum of twelve (12) pages (assessed content) 
+o 
+Appendix (AI Assistance & Verification Log) 
+• 
+Project Management Portfolio 
+o 
+One (1) digital copy and Two (2) physical copies 
+o 
+A3 size (or equivalent) 
+o 
+Maximum of seven (7) pages (assessed content) 
+o 
+Appendix (AI Assistance & Verification Log) 
+ 
+Teams MUST complete and attach the official STEM Racing™ AI Assistance and 
+Verification Log as a mandatory appendix. The AI Assistance and Verification Log 
+does not count toward the portfolio page limit. No additional assessed content may 
+be included within the appendix. Appendices are for compliance documentation 
+only. Judges are not required to review appendix material beyond verifying 
+compliance. 
+ 
+Portfolios must be presented in an A3 (or equivalent) sized format. Refer to 
+ARTICLE, C5, C6 & C7 of these regulations along with the Design & Engineering, 
+Project Management and Enterprise judging scorecards for portfolio requirements. 
+Teams must submit their portfolio documents (Design & Engineering, Project 
+Management, Enterprise) in digital format to the STEM Racing™ World Finals 
+before Sunday, 20th September 2026 23:00 (GMT/UTC +00:00). Late 
+submissions will incur a 20-point penalty. Submissions must be via Team Digital 
+Upload Folder. (Refer ARTICLE C1.14) 
+If you have any issues uploading your documents, you can also submit them by 
+email to stemracinghq@gmail.com. It is recommended that when creating PDF 
+files, teams consider embedding any unusual font types they may have used 
+within their documents to help ensure they display correctly when opened by the 
+Judges. 
+The following file conventions must be adhered to: 
+▪ 
+Documents must be submitted in separate single Portable Document Format 
+(PDF) files. 
+▪ 
+PDF files must be no greater than 20Mb in size for the email option and no 
+greater than 75MB for the STEM Racing™ upload folder option. 
+▪ 
+Text included in the PDF files must be highlightable to facilitate the similarity 
+checking process. STEM Racing™ reserves the right to impose a penalty of 
+up to 20 points to any team failing to comply with this request at the discretion 
+of the chair of judges. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 13 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+The files must be named: 
+“teamnumber_team_name_country_engineering.pdf”, 
+“teamnumber_team_name_country_projectmanagement.pdf” 
+“teamnumber_team_name_country_enterprise.pdf” 
+“teamnumber_team_name_country_engineering_drawings_renders.pdf”  
+so they can be recognised easily when submitted.  
+For example: “T01_STEM_RACING_UK_projectmanagement.pdf”. 
+ 
+C2.11.3 Pit display - Each team will be provided with a dedicated exhibition style space for 
+set-up of their pit display elements. The specific style and size of this space will be 
+announced in supplementary event competition regulations. Refer to ARTICLE C7 
+for further pit display specifications and content requirements. 
+C2.11.4 Verbal Presentation - Teams will be required to deliver a Verbal Presentation in 
+relation to their project to the Judges. The presentation must not last longer than 10 
+minutes. If teams are unable to deliver the presentation in English, then an 
+interpreter can be present (teams need to bring their own translator) and a time of 
+20 minutes will be allocated, but the team must notify us if this is the case no later 
+than Monday, 31st August 2026. Teams should bring their own laptop with any slide 
+show or other multimedia files that need to be shown as part of their Verbal 
+Presentation. Any team who needs a laptop for Verbal Presentation judging and is 
+unable to bring one to the World Finals must contact STEM Racing™, (global-
+admin@stemracing.com), at least one month before the event. Refer to ARTICLE 
+C8 of these regulations for details regarding presentation content and other 
+requirements. 
+C2.11.5 Electronic data - Teams must submit all additional project data as specified below:  
+Data submitted must include: 
+All CAD parts and assembly files to assist the scrutineering process.  
+The files must be named: “teamnumber_team_name_country_filename”, so 
+they can be recognised easily when submitted.  For example: 
+“T01_STEM_RACING_UK_full_car_assembly.stl”. 
+Teams must submit their files to STEM Racing™ before Sunday, 20th September 
+2026, 23:00 (GMT/UTC +00:00).  Late submissions will incur a 20-point penalty. 
+Submissions must be via Team Digital Upload Folder. (Refer ARTICLE C1.14) 
+This data may be referred to for judging purposes and possible marketing and 
+promotion following the event. 
+C2.11.6 Engineering Drawings (refer to ARTICLE C1.12) and Renderings (refer to ARTICLE 
+C1.13) for Specification Judging. Teams must submit both a digital copy and a hard 
+copy of any engineering drawings and renderings of their car assembly and parts 
+they wish to be referenced by the Engineering and Specification Judges. The digital 
+submission must exactly match the hard copy in content and format. 
+Each team must produce: 
+• 
+One (1) hard copy of A4 Engineering drawings including orthographic view 
+• 
+One (1) hard copy of A4 3D car renders 
+• 
+One (1) digital copy of A4 Engineering drawings including orthographic view 
+• 
+One (1) digital copy of A4 3D car renders 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 14 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+Mandatory table of contents for Engineering Drawings 
+Teams MUST include the following Engineering Drawing Table of Contents 
+1. Orthographic drawings with detailed dimensions of fully assembled car indicating 
+regulation compliance 
+2. Exploded isometric drawing with key to main components 
+a. Car body 
+b. Virtual cargo 
+c. Chamber 
+d. Tether line guides 
+e. Front wheels / wheel support system 
+f. 
+Rear wheels / Wheel support system 
+g. Nose cone 
+h. Front wing / support structure 
+i. 
+Rear wing / support structure 
+3. Orthographic drawings with detailed dimensions of virtual cargo including a sectioned 
+view. 
+4. Location of official STEM Racing™ decals dimensioned from key structural parts (eg 
+wheel centre). 
+5. Chamber details including wall thickness and depth. 
+6. Orthographic drawings with detailed dimensions of tether line guides. 
+7. Orthographic drawings of wheels with sectioned view and detailed dimensions. 
+8. Orthographic drawings with detailed dimensions of front wheels / wheel support 
+system. 
+9. Orthographic drawings with detailed dimensions of rear wheels / wheel support 
+system. 
+10. Orthographic drawings with detailed dimensions of nose cone. 
+11. Orthographic drawings with detailed dimensions of front wing and support structure 
+highlighting wing surface/boundary. 
+12. Orthographic drawings with detailed dimensions of rear wing and support structure 
+highlighting wing surface/boundary. 
+13. Detailed description of intended quality and finish in relation to individual components 
+/ assembled car. 
+ 
+Hard copy requirements: 
+The drawing set must include an Orthographic Drawing - A 1st or 3rd angle orthographic 
+projection, including plan, side and end elevations of the fully assembled car. 3D rendering/s 
+of the final car design must also be included. These elements must be produced using CAD. 
+The orthographic technical drawing should include dimensions and corresponding regulation 
+numbers to illustrate regulation compliance. These drawings must be presented on paper only 
+pages no larger than A4 in size. Please note, Engineering Drawings and Renderings will be 
+stored along with your car and spare parts after Registration and Element Submission, so hard 
+covers and / or large bindings are not advisable. Paper versions of the Engineering Drawings 
+and Renderings are to be submitted with the team’s cars (Refer ARTICLE C2.13.1). 
+Digital copy requirements: 
+Teams must submit their A4 Engineering Drawings and Renderings in digital 
+format to the STEM Racing™ World Finals before Sunday, 20th September 2026 
+23:00 (GMT/UTC +00:00). Late submissions will incur a 20-point penalty. 
+Submissions must be via Team Digital Upload Folder. (Refer ARTICLE C1.14) 
+C2.11.7  Computer for Design & Engineering judging - a computer with the CAD software used 
+by the team and with all CAD parts and assembly data should be used during the 
+Design & Engineering judging session so that the team can demonstrate their CAD 
+work and better explain how they engineered their car design.  
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 15 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.11.8 ‘Team Partnerships’ declaration – Every team must complete the declaration 
+template online as issued by STEM Racing™. All partnerships and any outside 
+assistance must be included. This document will be referenced by Judges so they 
+can better understand team partnerships and ask questions, and therefore must be 
+a full and accurate declaration. 
+ 
+Please complete the partnership declaration here. 
+ 
+C2.11.9 Personally Identifying Information (PII) and Student Privacy 
+Teams are encouraged to limit the inclusion of Personally Identifying Information (PII) 
+in their portfolio submissions and supporting materials. As a recommended practice, 
+students should be identified using first names only, with the optional inclusion of the 
+first letter of the surname. Photographs that include images of student team members 
+may be used where appropriate. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 16 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.12 
+Team registration 
+ 
+C2.12.1 Teams are required to register with STEM Racing™ at the event. At this 
+registration, teams will be issued with World Finals accreditation, event 
+programmes and a detailed welcome pack. The team manager and supervising 
+adult for each team must attend and submit their project elements. Each team 
+must submit their flight details by Friday 14th of August 2026. Each team will then 
+be given a specific time and location to register prior to their arrival at the venue, 
+this time slot must be adhered to. 
+Registration will close at 18:00 local time on the designated registration day.  
+STEM Racing™ reserves the right to impose a penalty of up to 50 points to 
+any team arriving late at the discretion of the Chair of Judges. 
+STEM Racing™ advises that teams plan their travel to arrive at least 3 hours 
+before registration officially closes.  
+C2.12.2 Official STEM Racing™ 30x15mm car decals will be provided for teams that have 
+not manufactured their own. These decals must be fitted to each of the two 
+submitted cars by the STEM Racing™ team during Specification judging. You can 
+download the decal artwork here. 
+C2.13 
+Submission of project 
+elements  
+C2.13.1 A time and location will be published in the event programme for when each team 
+must submit their project elements. This will occur well before judging commences. 
+Following is a list of the elements which must be submitted by each team at this 
+time: 
+PHYSICAL PROJECT ELEMENTS  
+• 
+One (1) nominated Car A identified using a white or black background 
+STEM Racing™ ‘Car A’ logo decal  
+• 
+One (1) nominated Car B identified using a white or black background 
+STEM Racing™ ‘Car B’ logo decal 
+• 
+One (1) fully machined, unfinished, unassembled STEM RACING model 
+block car body identical to the car body used on car A & B 
+• 
+One (1) Halo and One (1) Helmet identical to the car body used on car A & 
+B (for specification judging purposes) 
+• 
+Optional Replacement Components  
+▪ 
+Nose cone & front wing assembly – maximum of two (2)  
+▪ 
+Rear wing assembly – maximum of two (2)  
+▪ 
+Front wheels – maximum of four (4) 
+▪ 
+Front wheel support structure – maximum of two (2) 
+▪ 
+Rear wheels – maximum of four (4) 
+▪ 
+Rear wheel support structure – maximum of two (2) 
+▪ 
+Front tether line guide – maximum of two (2) 
+▪ 
+Rear tether line guide – maximum of two (2) 
+• 
+One (1)  set of A4 Engineering drawings (with mandatory table of 
+contents) 
+• 
+One (1) set of A4 Car renders for Scrutineering judging 
+• 
+Two (2) physical copies of the Design & Engineering Portfolio  
+• 
+Two (2) physical copies of the Project Management Portfolio  
+• 
+Two (2) physical copies of Enterprise Portfolio 
+• 
+Project Elements Submission Checklist, which must include the official 
+STEM RACING Model Block holographic sticker. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 17 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+DIGITAL PROJECT ELEMENTS  
+• 
+1 x digital A3, 11-page (1-page front cover + 10 pages of content + 
+Appendix) Design & Engineering Portfolio 
+• 
+1 x digital A3, 12-page (1-page front cover + 10 pages of content + 1 page 
+back cover + Appendix) Enterprise Portfolio 
+• 
+1 x digital A3, 7-page (1-page front cover + 6 pages of content + 
+Appendix) Project Management Portfolio 
+• 
+Digital A4 Engineering drawings (with mandatory table of contents) 
+• 
+Digital A4 Car renders for Scrutineering judging  
+• 
+Electronic copy of all additional project data 
+• 
+‘Team Partnerships’ declaration(s) must be completed online prior to the 
+event. 
+All digital project elements must be digitally submitted before Sunday, 20th 
+September 2026 23:00 (GMT/UTC +00:00).  Refer to ARTICLE C2.11. 
+C2.13.2 During project submission, each team will be given the opportunity to check the 
+weight of their cars on the official World Finals scales. If either car being submitted 
+is under the minimum weight, the team will be permitted 15 minutes to fix any issue 
+so that both cars can be submitted at or above the minimum weight. 
+C2.13.3 Small coloured ‘dot’ stickers (approximately 5mm in diameter) and supplied by 
+STEM Racing™, will be adhered to the underside of each car. The stickers will 
+feature the team’s competition number. 
+C2.13.4 Once cars and replacement components have been submitted, they are considered 
+as being in parc fermé. 
+C2.14  
+Project element s to be retained by 
+STEM 
+Racing ™   
+It is a condition of World Finals entry that each team permits STEM Racing™ to retain one (1) 
+car, one of each physical portfolio (Design & Engineering, Project Management, Enterprise) 
+and the electronic copy of all specified project data submitted. Teams also permit STEM 
+Racing™ to use any of these project elements for marketing purposes and/or publication as 
+exemplar projects for reference by others. 
+C2.15 
+Benefit of doubt
+ 
+The Chair of Judges will, where appropriate, seek to use ‘benefit of doubt’ when the 
+assessment of compliance is marginal or unclear. In this situation, teams will be given the 
+benefit of doubt rather than a firm penalty if a penalty cannot be clearly measured or identified. 
+C2.16 
+Spirit of the competition
+ 
+Teams are expected to act in the spirit of the competition, both before and during the STEM 
+Racing™ World Finals. Any team deemed by the Chair of Judges to be acting outside of the 
+spirit of the competition, can be removed from certain or all aspects of the competition. For 
+example, a team attempting to abuse the technical regulations to their advantage may, at the 
+discretion of the Chair of Judges, be removed from racing and receive no points for this 
+activity. A team deemed to be acting in an unsportsmanlike manner towards another team or 
+other persons may be removed from some or all judging areas. 
+ 
+The spirit of the competition is simple; embrace and respect the rules and regulations, do your 
+very best to compete legally and fairly, while contributing positively to the STEM Racing™ 
+World Finals. Make friends, create positive relationships, network professionally and enjoy 
+yourselves. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 18 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.17 
+Plagiarism
+ 
+Plagiarism within any project work submitted by teams is strictly prohibited. All teams must 
+complete the Originality Declaration as part of their online team registration. 
+STEM Racing™ HQ will review submitted project elements for originality. As part of this 
+process, STEM Racing™ will upload portfolio submissions and other written materials to 
+recognised originality detection software to identify potential cases of plagiarism or uncredited 
+work. 
+ 
+Where plagiarism has been detected, the Chair of Judges may choose to penalise or exclude 
+the team from that element of the competition. Where a penalty is applied, the team’s score 
+for the affected judging element will be reduced by a percentage determined by the judging 
+panel based on the extent of the plagiarism detected. 
+ 
+C2.18 
+Use of Artificial Intelligence (AI)
+ 
+C2.18.1 General Principle  
+Artificial Intelligence (AI) tools may be used in support of research, planning, design 
+development, analysis, and communication. All submitted work must reflect the team’s own 
+understanding, decisions, and original contribution, in accordance with C2.16 (Spirit of the 
+Competition), C2.17 (Plagiarism) and Technical Regulation T2.10 (Originality of Work). 
+C2.18.2 STEM Racing™ AI Guidance Document 
+The STEM Racing™ AI Guidance Document (2026 Edition) provides the official framework 
+governing the responsible use of Artificial Intelligence within the competition. It defines 
+acceptable and unacceptable AI use, establishes mandatory disclosure requirements 
+through the AI Assistance and Verification Log, outlines verification and authorship 
+responsibilities, and sets out the proportional judging and integrity review procedures 
+applicable to all submissions. Please download the document here: 
+https://www.stemracing.com/resources  
+C2.18.3 Mandatory Disclosure and Template Requirement 
+Where AI tools are used in any project element, teams MUST complete and attach the 
+official STEM Racing™ AI Assistance and Verification Log as an appendix to their portfolio 
+submission, in accordance with the AI Guidance Document (2026 Edition). 
+Failure to include the completed Log where AI tools have been used constitutes an 
+incomplete mandatory submission. 
+If the Log is missing, scoring in affected categories will be capped at 80% due to 
+incomplete mandatory documentation. 
+Honest disclosure of AI use will not negatively impact scoring. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 19 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ 
+Figure 1 - AI Assistance and Verification Log available in the appendix 
+C2.18.4 Responsibility and Verification 
+Teams remain fully responsible for verifying all AI-assisted content. Fabricated references, 
+invented statistics, incorrect technical explanations, unverifiable simulation outputs, or 
+misrepresentation of authorship constitute a Competition Integrity Breach. AI-generated 
+content must be understood, verified, and owned by the team. 
+C2.18.5 Assessment and Enforcement Framework 
+The use of Artificial Intelligence (AI) tools shall not, in itself, result in any penalty or 
+automatic deduction of marks. All AI-assisted work shall be assessed in accordance with the 
+existing published judging criteria applicable to the relevant category. 
+In assessing AI-assisted content, judges shall evaluate: 
+a) The depth of the team’s demonstrated understanding. 
+b) The clarity and quality of explanation. 
+c) Evidence of genuine student ownership and decision-making. 
+d) Technical accuracy and validity of submitted material; and 
+e) Compliance with the mandatory disclosure requirements set out in Article C2.18. 
+Where a team is unable to demonstrate sufficient understanding, verification, or ownership 
+of submitted work, this shall be reflected in the score awarded within the affected judging 
+category.  
+ 
+No separate or additional penalty shall be applied solely on the basis that AI tools 
+were used. 
+  
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 20 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C2.18.6 Exceptional Circumstances — Integrity Breach 
+Where clear and demonstrable evidence of fabrication, plagiarism, or deliberate authorship 
+fraud is identified: 
+• 
+The matter must be escalated to the Chair of Judges 
+• 
+The team must be given the opportunity to respond 
+• 
+If confirmed, a score of zero will be applied to the affected judging category 
+• 
+The relevant In-Country Coordinator (ICC) will be notified 
+All such decisions must be confirmed in writing by the Chair of Judges. 
+This provision applies only in exceptional circumstances. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 21 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C3 – COMPETITION AND JUDGING FORMAT
+ 
+C3.1 
+Competition programme  
+C3.1.1 
+Each team will be judged as per the competition programme. The competition 
+programme will be formulated by STEM Racing™ to best and fairly accommodate 
+all judging and other competition activities. Teams will rotate around judging 
+activities as per this programme, with each rotation usually of 30 minutes in duration. 
+C3.1.2 
+Judging Streams – The competition programme will normally be divided into multiple 
+parallel judging streams (Stream A, Stream B, Stream C, Stream D and Stream E), 
+to help ensure quality judging time intervals within the event time constraints. A 
+number of strategies are implemented within the judging process, including judge 
+briefings and judge reviews for cross-moderation to ensure there is consistency 
+across the judging streams.  
+C3.2  
+Judging categories
+ 
+There are six (6) main judging categories, each with its own team of Judges/officials and 
+specified judging activities as detailed in further articles. 
+• 
+Specification & Scrutineering Judging 
+• 
+Design & Engineering Judging 
+• 
+Project Management Judging 
+• 
+Enterprise Judging 
+• 
+Verbal Presentation Judging 
+• 
+Racing 
+C3.3  
+Judging scorecard
+s 
+The STEM Racing™ World Finals judging scorecards provide detailed information in relation 
+to what the Judges will be looking for. They include key performance indicators, which are 
+referred to by the Judges in awarding points during judging activities. The 2026 World Finals 
+judging scorecards can be found in the appendix of this document. Please read the whole 
+document without assumptions from previous rules documents. 
+ 
+READING THE SCORECARDS CAREFULLY IS IMPORTANT. THEY PROVIDE CRITICAL 
+INFORMATION FOR TEAMS AS TO WHAT NEEDS TO BE PRESENTED FOR EACH 
+JUDGING CATEGORY. 
+C3.4  
+World Champions
+ 
+The STEM Racing™ World Champions perpetual trophy will be awarded to the team with the 
+highest sum total from all judging categories (ARTICLE C3.5). In the case of a tied points 
+score, the team with the highest time trial score will be determined the winner. 
+ 
+ 
+ 
+THE CHAIR OF JUDGE’S DECISION IS FINAL
+ 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 22 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C3.5  
+Point allocations
+ 
+Points will be awarded to teams across six (6) categories with maximum possible scores as 
+detailed in the following table: 
+ 
+World Finals Judging Categories and Point Allocations 
+Specification & Scrutineering Judging 
+Specifications 
+100 points 
+Engineering Drawings 
+20 points 
+3D Renders 
+20 points 
+Quality of Finish and Assembly 
+20 points 
+Design & Engineering Judging 
+Design & Engineering Portfolio 
+180 points 
+Project Management Judging 
+Initiating 
+35 points 
+Planning 
+25 points 
+Executing 
+20 points 
+Monitor and Controlling 
+10 points 
+Enterprise Judging 
+Enterprise Portfolio Only Assessment 
+100 points 
+Team Identity 
+20 points 
+Pit Display 
+60 points 
+Verbal Presentation Judging 
+Technique 
+60 points 
+Composition 
+40 points 
+Subject Matter 
+40 points 
+Racing  
+Time Trials 
+105 points  
+Reaction Racing 
+105 points 
+Knock-Out Racing 
+30 points 
+Fastest Car Bonus 
+10 points 
+TOTAL 
+1000 points 
+ 
+ 
+The International Rules Committee may at their discretion add point scoring judging categories into 
+the event. This would be completed under controlled conditions during the competition. 
+ 
+ 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 23 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C3.6  
+Classification of 
+technical regulations
+  
+C3.6.1 
+The technical regulations are classified as either: GENERAL, SAFETY, PERFORMANCE. 
+ 
+GENERAL 
+SAFETY 
+PERFORMANCE 
+Regulations that shape the 
+way the car fundamentally 
+looks and works, vital to the 
+style of a STEM Racing™ car. 
+Mandatory rules that govern the 
+safe running of the car. Cars 
+must meet these rules to be 
+considered ‘safe to race’. 
+Rules that have a direct impact 
+on the performance of the 
+vehicle, these typically carry the 
+heaviest penalties. 
+ 
+C3.6.2 
+If a race car is judged as being NON-COMPLIANT with any Performance regulation 
+they will be INELIGIBLE for the awards of: ‘Fastest Car’ and ‘Best Engineered 
+Car’. 
+ 
+If a race car is judged as being NON-COMPLIANT with any Performance regulation, 
+racing leaderboards will show an “under investigation” symbol next to the team’s 
+race time. 
+ 
+For the Knock-out Competition, should there be any teams with Performance 
+regulation failure(s) for both cars seeded in the top 24 teams then they will only be 
+permitted to race in round one of the knock-out competition and will be automatically 
+knocked out during round one regardless of the race result. 
+ 
+All Performance regulations are highlighted in yellow throughout the Technical 
+Regulations Document: 
+ 
+T3.3, T3.6, T4.2, T4.4.1, T5.6, T7.2, T7.3, T7.4, T7.5, T7.6, T7.7, T7.8, T7.9, T7.10, 
+T7.11, T8.6.1, T8.6.2, T8.6.3, T8.7, T8.8, T9.5.1, T9.5.2, T9.5.3, T9.6, T9.7. 
+ 
+For more information regarding Compliance with regulations, please consult T2.5 of 
+the Technical Regulations document. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 24 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C4 – SPECIFICATION & 
+S CRUTINEERING JUDGING (
+160 points)  
+C4.1 
+What will be judged?
+ 
+Specification & Scrutineering judging is a detailed inspection process where BOTH race cars 
+plus the optional replacement components are assessed for compliance with the STEM 
+Racing™ World Finals Technical Regulations. The Engineering drawings, renderings and 
+quality of finish & assembly will also be assessed. Refer to the scrutineering and specification 
+judging scorecards for scoring details.  
+ 
+C4.1.1 
+Optional replacement components must be identical in design to those fitted to both 
+cars (Car A & Car B) and must be submitted with the cars. Only the following 
+replacement components are permitted: 
+o 
+Nose cone & front wing assembly – maximum of two (2)  
+o 
+Rear wing assembly – maximum of two (2)  
+o 
+Front wheels – maximum of four (4) 
+o 
+Front wheel support structure – maximum of two (2) 
+o 
+Rear wheels – maximum of four (4) 
+o 
+Rear wheel support structure – maximum of two (2) 
+o 
+Halo & Helmet – maximum of two (2) 
+o 
+Front tether line guide – maximum of two (2) 
+o 
+Rear tether line guide – maximum of two (2) 
+ 
+ 
+Submitted replacement components that are determined by the Judges to not be 
+identical to that which are fitted to the car will not be allowed to be used. Submitted 
+components will remain in parc fermé and only be handed back to the team if 
+needed during racing and/or car servicing. 
+C4. 2 
+Team preparation
+ 
+Teams must ensure that their cars (Car A & Car B) and any optional replacement components 
+are complete and ready for specification judging and racing before they are submitted. Notice 
+is also drawn to the performance regulations, refer ARTICLE C3.6. Teams must have also 
+submitted an electronic copy of all specified project data such as scrutineering engineering 
+drawings, which may all be referenced. Refer ARTICLE C2.11 
+C4.3  
+Who needs to attend?
+ 
+This inspection will take place live in the presence of the team (represented by up to 2 team 
+members and 1 supervising adult). Teams will proceed through stations where STEM Racing 
+judges will verify all dimensions and specifications. Each station visit will last approximately 
+10 minutes, during which scrutineers will review the cars' elements for compliance with the 
+2026 Technical Regulations.  
+C4.4  
+Judging process/procedure
+ 
+Teams begin specification judging with a full allocation of 100 points. Any infringements of the 
+Technical Regulation articles, on either car, will result in points being deducted as detailed in 
+the Technical Regulations. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 25 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ 
+THE PROCESS  
+1. Before the measuring process begins, STEM Racing will create a photographic record 
+of both of your race cars.  
+2. The designated team members may observe the measuring process, but they are not 
+permitted to intervene.  
+3. If the judges detect a compliance issue with a specific regulation, the team will be 
+informed.  
+4. Teams may ask questions, provided they do not interfere or cause delays within the 
+station's allocated time.  
+5. Each judging station will have two judges present. Scrutineering supervisors, 
+including the Head of Scrutineering and the Chair of Judges, will oversee this process.  
+6. At the conclusion of the specification process, teams will have an opportunity to 
+appeal any judge’s decision. Please see ARTICLE C11 – PROTESTS.  
+7. Teams flagged for performance-related regulation issues will be marked on the racing 
+leaderboards with an “under investigation” symbol. 
+ 
+In addition, the engineering drawings, renderings, and overall quality of finish and assembly 
+will be assessed, though this evaluation will occur behind closed doors. Refer to the 
+scrutineering and specification judging scorecards for detailed scoring criteria. 
+ 
+CONTINUAL ASSESSMENT  
+Spot checks of the cars may take place at any point during the competition. STEM Racing 
+reserves the right to review specification results if necessary. Teams will be informed of any 
+changes to the initial assessment, and an appeal window may be made available at the 
+discretion of the Chair of Judges.  
+C4.5  
+Safe/Fit to race fix
+ 
+Teams that have been judged during initial scrutineering to have incurred a Safe/Fit to Race 
+regulation from the list below will be provided with a special 20-minute car service time, prior 
+to the commencement of racing. Cars must meet these rules to be considered ‘Safe/Fit to 
+race. If during this service time the car can be modified so as to comply with the failed 
+regulation(s), the team will then only incur HALF the point’s penalty for that infringement, 
+without being classified as having incurred a SAFETY infringement. 
+ 
+T3.2 T4.4.4, T4.4.5, T4.4.6, T5.1, T5.3, T5.4, T5.5, T5.6, T6.1, T6.2, T6.3 and T7.13 
+C4.6  
+Specification judging decision appeals
+ 
+C4.6.1 Scrutineering Decision Appeals  
+These must be submitted within two hours of the team completing their 
+specification review judging. Other rules for submitting these will be the same as 
+for protests. 
+C4.6.2 Submitting a Protest   
+Any protest issues must only be submitted by the team manager by email 
+(global-admin@stemracing.com) to an Event Director, who will register this and 
+immediately submit it to the Chair of Judges. This must occur no later than 21:00 
+(local time) on racing day 2. Any protest or appeals submitted after this time may 
+be disregarded. The Chair of Judges' decision related to any protest is final. 
+ 
+Teams should carefully consider their grounds for submitting a protest or appeal. 
+Any protest or appeal that is unsuccessful, with the Judges initial decision 
+remaining unchanged, will result in the team having a 15-point penalty applied 
+against their total score.  
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 26 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C5 – DESIGN & ENGINEERING JUDGING (18
+0 points ) 
+C5.1 
+What will be judged?
+ 
+The Design & Engineering Judges will examine each team’s 11-page Design & Engineering 
+portfolio so that they can assess the teams' car design and use of CAD/CAM technologies 
+along with the quality of manufacture of both race cars submitted. The specific areas to be 
+assessed are: 
+ 
+o 
+Design Concepts 
+o 
+CAD 3D Modelling 
+o 
+Application of Computer Aided Analysis 
+o 
+Use of CAM/CNC 
+o 
+Other Manufacturing & Assembly 
+o 
+Research & Development 
+o 
+Testing 
+o 
+Design Process Evaluation 
+o 
+Document Presentation 
+ 
+Refer to the Design & Engineering judging scorecard for key performance indicator 
+information. 
+C5. 2 
+Team preparation
+ 
+A laptop needs to be ready and taken to the Design & Engineering judging team along with 
+any other items which may help the team explain any engineering or manufacturing concepts. 
+The Design & Engineering Judges will not have access to the team pit display for judging 
+purposes. Teams may choose to, but do not need to take their display (3rd) car to the Design 
+& Engineering judging. Preparation should include careful reading of the scorecard. The key 
+performance indicators for the design process, application of CAD / CAM, analysis and 
+associated data organisation, describe what the Judges will be looking for.  
+C5.3  
+Who needs to attend?
+ 
+This judging session must be attended by the team manager and team design and 
+manufacturing engineers as a minimum. 
+C5.4  
+Judging process / procedure
+ 
+Teams will be awarded points as per the key performance indicators shown on the Design & 
+Engineering scorecard. Judges will review the Design & Engineering portfolio in a ‘closed to 
+teams’ session programmed before the commencement of scheduled judging sessions. The 
+scheduled Design & Engineering judging interview session will focus on the overall 
+engineering and design of the car. This is an informal interview where Judges will ask the 
+team to demonstrate their CAD / CAM work and query teams on what they have done. The 
+quality of car manufacture and car assembly will be judged during a separate ‘closed to teams’ 
+session. 
+An interpreter can be present during the judging session (teams need to bring their own 
+translator) but no extra time will be added. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 27 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C5. 5 
+Design & Engineering Portfolio requirements
+ 
+The Design & Engineering Portfolio must be submitted in both digital and printed format (A3 
+or similar size). The portfolio is limited to a maximum of 11 assessed pages, consisting of 1 
+page front cover and 10 pages of content. This may be presented as 10 single-sided pages 
+or 5 double-sided sheets (excluding the front cover). If a portfolio exceeds 11 assessed 
+pages, Judges will only review the first 11 pages for assessment purposes. All assessed 
+content, including material related to the car, design ideas, design development, research, 
+testing, evaluation, and the mandatory use of CAM and CNC manufacturing, must be 
+presented within the 11 assessed pages. 
+An appendix MUST be included in addition to the 11 assessed pages solely for submission 
+of the mandatory AI Assistance and Verification Log in accordance with C2.18.  
+• 
+The appendix does not count toward the assessed page limit 
+• 
+It will not be assessed 
+• 
+It is required regardless of whether AI tools were used 
+• 
+It must not include additional content, supporting evidence, drawings, data, or 
+supplementary material 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 28 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C6 – PROJECT MANAGEMENT 
+JUDGING (
+90  points)  
+C6.1 
+What will be judged?
+ 
+The Project Management judges will examine each team’s 7-page Project Management 
+Portfolio so that they can assess the following specific areas. 
+ 
+Project Management: 
+• 
+Initiating 
+o 
+Initiation Process 
+o 
+Project schedule 
+• 
+Planning 
+o 
+Budget & Resource management 
+o 
+Roles and Responsibilities 
+• 
+Executing 
+o 
+Team & Stakeholder Communications 
+o 
+Risk Management 
+• 
+Monitor and Controlling 
+o 
+Monitoring & Controlling 
+ 
+Refer to the Project Management scorecard for detailed point scoring and key performance 
+indicator information. 
+C6. 2 
+Team preparation
+ 
+Each team must prepare one (1) Project Management portfolio as per ARTICLE C2.11. Most 
+importantly, teams need to read the Project Management judging scorecard carefully to 
+ensure that all areas to be assessed are included within the context of their Project 
+Management portfolio. 
+C6.3  
+Who needs to attend?
+ 
+All team members must be present during the Project Management judging session. 
+C6.4  
+Judging process / procedure 
+ 
+The Project Management judging will take place during dedicated judging session. Team 
+members may be asked questions by Judges to help them find certain content and/or seek 
+further explanation. In addition to the scheduled judging session, the Judges will also be given 
+time to conduct pre-judging and review of each team Project Management portfolio. This will 
+be a ‘closed to teams’ session programmed before the commencement of scheduled judging 
+sessions.  
+An interpreter can be present during the judging session (teams need to bring their own 
+translator) but no extra time will be added. 
+C6.5  
+Project Management
+ Portfolio  requirements
+  
+The Project Management Portfolio must be submitted in both digital and printed format (A3 
+or similar size). The portfolio is limited to a maximum of 7 assessed pages, consisting of 1 
+page front cover and 6 pages of content. This may be presented as 6 single-sided pages or 
+3 double-sided sheets (excluding the front cover). If a portfolio exceeds 7 assessed pages, 
+Judges will only review the first 7 assessed pages for assessment purposes. All assessed 
+content relating to project management processes employed in the delivery of the STEM 
+Racing™ Project must be presented within the 7 assessed pages. The STEM Racing™ 
+Project Management Guide should be used for reference. The number of pages allocated to 
+each key performance indicator is at the discretion of the team. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 29 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+An appendix MUST be included in addition to the 7 assessed pages solely for submission of 
+the mandatory AI Assistance and Verification Log in accordance with C2.18.  
+• 
+The appendix does not count toward the assessed page limit 
+• 
+It will not be assessed 
+• 
+It is required regardless of whether AI tools were used 
+• 
+It must not include additional content, supporting evidence, drawings, data, or 
+supplementary material 
+ 
+For Project Management, teams are asked to detail their project management processes 
+employed with the delivery of the STEM Racing™ Project.  The STEM Racing™ Project 
+Management Guide should be used for reference. You can find the guide here. 
+The number of pages allocated to each key performance indicators is at the discretion of 
+each team. 
+ARTICLE C
+7 – ENTERPRISE 
+JUDGING (
+18 0  points)  
+C7.1 
+What will be judged?
+ 
+The Enterprise Judges will examine each team 12-page Enterprise Portfolio and Pit Display 
+so that they can assess the following specific areas. 
+ 
+• 
+Enterprise Portfolio only assessment: 
+o 
+Marketing Strategy & Materials 
+o 
+Sponsorship & Return on Investment 
+o 
+Digital Media Proficiency 
+o 
+Community & Social Impact  
+o 
+Sustainability 
+o 
+Document Presentation 
+• 
+Pit Display  
+o 
+Design Process (Documented in Enterprise Portfolio) 
+o 
+Content, Clarity, and Impact 
+o 
+Functionality & User Experience execution 
+• 
+Team Identity 
+o 
+Overall Team Identity 
+ 
+The Pit Display Criteria (Design Process, Content, Clarity and Impact and Functionality & user 
+experience) will primarily be based on the Pit display, Pit display designs, enterprise portfolio 
+and the interviews with the Enterprise judges.   
+ 
+The Overall Team Identity will be assessed based by looking at all aspects of the team’s 
+identity.  This will be primarily based on the Pit display, enterprise portfolio and the interviews 
+with the Enterprise judges.  Judges may also review other documentation, such as the 
+engineering and project management portfolios and images of the car to confirm the team’s 
+identity has been applied consistently. 
+ 
+Refer to the Enterprise scorecard for detailed point scoring and key performance indicator 
+information. 
+C7.2  
+Team preparation
+ 
+Each team must prepare one (1) Enterprise Portfolio and Pit Display as per ARTICLE 
+C2.11. Most importantly, teams need to read the Enterprise judging scorecard carefully to 
+ensure that all areas to be assessed are included within the context of their Enterprise 
+portfolio and Pit Display.  
+It is each team’s decision how and where each area is presented. Teams should be mindful 
+of the time constraints of judging when making these decisions. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 30 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C7.3  
+Who needs to attend?
+ 
+All team members must be present during the portfolio and display judging session. 
+C7.4  
+Judging process / procedure 
+ 
+The Enterprise judging will take place during dedicated judging session. Team members may 
+be asked questions by Judges to help them find certain content and/or seek further 
+explanation. In addition to the scheduled judging session, the Judges will also be given time 
+to conduct pre-judging and review of each teams Enterprise Portfolio and Pit Display. This will 
+be a ‘closed to teams’ session programmed before the commencement of scheduled judging 
+sessions. An interpreter can be present during the judging session (teams need to bring their 
+own translator) but no extra time will be added. 
+C7.5  
+Enterprise Portfolio requirements
+  
+The Enterprise Portfolio must be submitted in both digital and printed format (A3 or similar 
+size). The portfolio is limited to a maximum of 12 assessed pages, consisting of 1 page front 
+cover, 10 pages of content, and 1 page back cover. This may be presented as a single page 
+front cover, 10 single-sided pages or 5 double-sided sheets, and a single page back cover. If 
+a portfolio exceeds 12 assessed pages, Judges will only review the first 12 assessed pages 
+for assessment purposes. The back cover must include the official STEM Racing™ logo, the 
+team logo, and a team photo. All assessed enterprise content must be presented within the 
+12 assessed pages. 
+ 
+An appendix MUST be included in addition to the 12 assessed pages solely for submission 
+of the mandatory AI Assistance and Verification Log in accordance with C2.18.  
+• 
+The appendix does not count toward the assessed page limit 
+• 
+It will not be assessed 
+• 
+It is required regardless of whether AI tools were used 
+• 
+It must not include additional content, supporting evidence, drawings, data, or 
+supplementary material 
+ 
+o 
+Marketing Strategy & Materials  
+For the marketing element, teams are asked to summarise their approach and 
+reasoning to gaining awareness via marketing activities. 
+o 
+Sponsorship & Return on Investment (ROI) 
+For this element, teams are asked to explain their engagement with sponsors, 
+explaining the relationship and benefits. Teams should also explain their activities 
+linked to return of investment. 
+o 
+Digital Media Proficiency  
+For this element, teams are asked to outline their approach and reasoning for social 
+media platforms, electronic mailings, website, and other online communications. The 
+Digital Media element within the document will be assessed in conjunction with a review 
+of the team’s Digital Media campaign executed. 
+o 
+Community & Social Impact 
+For this element, teams are asked to document how they have planned and delivered 
+activity that inspires or benefits others beyond their own project. Evidence may include 
+STEM outreach to younger students, school or community engagement, or activity that 
+creates a lasting connection to STEM beyond the competition season. This element is 
+assessed on documented evidence of intent, planning, and outcomes. Scale and 
+budget are not proxies for quality. Teams without access to specific platforms or tools 
+are not disadvantaged; all forms of community engagement are valid. 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 31 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+o 
+Sustainability 
+For this criterion, teams are to outline their sustainability strategy and activities which 
+give consideration to economic, environmental, and social factors. 
+ 
+The number of pages allocated to each key performance indicators is at the discretion of each 
+team. 
+C7.6  
+Pit D isplay setup and parameters
+ 
+C7.6.1 
+The Team Pit Display is at the heart of a STEM Racing™ event. It is the base of a 
+team and says everything about a Team’s identity, USP (Unique Selling Point), 
+brand and design development journey. STEM Racing™ will provide each team with 
+a self-contained exhibition style display space including integrated lighting and 1 x 
+power supply with pins and rating configured to the host country format. Teams need 
+to supply any power adaptors they may require. Display spaces are normally of 
+approximate dimensions 3m wide x 1m deep x 2.4m high. The precise space 
+description and dimensions will be announced closer to the event 
+C7.6.2 
+A time period will be scheduled for when all teams will set-up their Pit Displays. A 
+time limit of two hours will be enforced; this will be confirmed in supplementary 
+regulations. STEM Racing™ reserves the right to apply a penalty of up to 20 points 
+at the discretion of the Chair of Judges for teams that do not complete their set-up 
+within the time limit, do not leave their stand in a safe state and clear their pit and 
+surrounding area of all rubbish. 
+C7.6.3 
+No part of the teams completed Pit Display is allowed to protrude beyond the 
+physical dimensions of their allocated pit space. This includes anything that might 
+protrude above the pit space highest point e.g. flags. Teams are not permitted to 
+remove any part of the provided exhibition booth to fit the pit display. A penalty of 
+up to 10 points may be applied at the chair of judge’s discretion. 
+C7.6.4 
+ONLY student team members are permitted to set-up their pit displays. There must 
+be no supervising teacher / adult or other outside assistance, unless deemed by 
+STEM Racing™ to be a health and safety issue. A penalty of up to 20 points may 
+be applied at the Chair of Judge’s discretion. 
+C7.6.5 
+STEM Racing™ and/or the Chair of Judges may instruct a team to take action to 
+reduce noise or remove display inclusions deemed to be inappropriate. STEM 
+Racing™ will instruct teams to remove or alter any display inclusions considered to 
+be a safety hazard. 
+C7.6.6 
+Any electrical appliance connected to the power supply must be safe and compatible 
+with the host country power rating. 
+C7.6.7 
+The pit display should be designed in such a way as that it can be dismantled and 
+rebuilt in a different location during or after the event. This is to allow pit displays to 
+be rebuilt for promotional purposes in strategic locations over the Grand Prix 
+weekend. 
+C7.6.8 
+As part of our sustainability objectives, teams will no longer be able to send pit 
+displays as freight to any future World Finals, including the 2026 event. If your team 
+attempts to freight anything to the venue, we will refuse delivery. 
+C7.6.9 
+All pit display materials must be “hand carried”, by the team, into the World Finals 
+event venue. Cases with wheels to be rolled in are allowed. We recommend that the 
+dimensions would be acceptable by an airline for checked baggage into the hold of 
+an aircraft. All materials brought into the venue must be taken away at the end of 
+the event. Production companies will not be allowed to assist teams on the 
+transportation or assembly of pit displays. 
+STEM Racing™ recommends no item should weigh more than 30kg and total length 
++ height + depth of any item should not exceed 240cm. 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 32 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ 
+ 
+ 
+ 
+Pit display set up – Team Abiyya from Saudi Arabia – Aramco STEM Racing™ World Finals 2023 
+ 
+C7.6.10 There will be no waste (rubbish) disposal options during pit build and breakdown. 
+Your pit display area must be left as you found it. 
+ 
+IMPORTANT HEALTH & SAFETY: The Health and Safety of yourselves and those 
+around you must be considered when working on all aspects of your Pit Display to 
+ensure a safe environment for everyone. STEM Racing™ expects teams to produce 
+a risk assessment and method statement to ensure all team members are aware of 
+any risks in the construction of the pit display. Displays must be safe for other 
+participants and visitors to the event.  STEM Racing™ reserves the right to apply a 
+penalty of up to 20 points at the discretion of the Chair of Judges for unsafe activity 
+and any unsafe elements of the pit display may be removed. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 33 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C8  – VERBAL PRESENTATION 
+JUDGING (1 4 0 points)  
+C8 .1 
+What will be judged?
+ 
+The Verbal Presentation Judges will assess each teams’ 10-minute Verbal Presentation 
+across the areas of technique, composition and subject matter: 
+ 
+• 
+Technique 
+o 
+Engagement & Presentation Dynamics 
+o 
+Team Contribution 
+• 
+Composition 
+o 
+Content Quality, Relevance & Subject Understanding 
+o 
+Time, Clarity and structure of content 
+• 
+Subject 
+o 
+Innovation – detail key innovations related to car design, project management, 
+marketing or any other aspect of the team’s project 
+o 
+Collaboration – detail any partnerships or mentoring from outside the team 
+and justify in terms of improving project outcomes 
+o 
+STEM Racing™ learning journey 
+ 
+Refer to the Verbal Presentation judging scorecard for detailed point scoring and key 
+performance indicator information. 
+C8 .2 
+Team preparation
+ 
+Each team is required to prepare a Verbal Presentation as per the requirements at ARTICLE 
+C2.11. Teams need to have all presentation resources tested and ready with them for Verbal 
+Presentation judging. Most importantly, teams should read the Verbal Presentation judging 
+scorecard carefully to ensure their Verbal Presentation features all elements and content that 
+the Verbal Presentation Judges will be looking for. 
+C8 .3 
+Who needs to attend?
+ 
+All team members must be present during the Verbal Presentation judging session. 
+C8 .4  
+Judging process / procedure
+ 
+Verbal Presentation judging is scheduled for the same duration of other judging sessions, 
+usually 30 minutes. Teams will be given an opportunity at the start of their time to set-up and 
+test their laptop and any other presentation technologies and resources. The team will inform 
+the Judges when they are ready to begin. The Judges start timing the 10 minute duration (20 
+minutes if not speaking English and using an interpreter), and will provide a discreet time 
+warning signal when one minute of presentation time remains. The team will be asked to 
+cease presenting when the time limit has been reached. At the conclusion of the teams’ 
+presentation time, the Judges may choose to provide some feedback and / or ask any 
+clarifying questions they feel necessary. 
+C8 .5  
+Verbal presentation judging provisions
+ 
+STEM Racing™ will provide a dedicated private space, such as a small meeting room, where 
+each team will deliver their presentation to the Judges. This space will include a data projector 
+and screen, or LCD screen and multimedia sound system. These will be in fixed positions but 
+usually with sufficient cable length to allow teams some freedom for choosing where they wish 
+to locate their laptop. A single table will also be made available with its use and location in the 
+presentation space being optional. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 34 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C8 .6  
+Verbal presentation
+ video recordings
+ 
+The Verbal Presentations of all teams will be used for the purpose of judging review and/or 
+may be used for post event publicity and promotional purposes by STEM Racing™  . 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 35 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C9  – RACING (2
+50 points)   
+C9 .1 
+What races will be conducted?
+  
+The STEM Racing™ World Finals racing points will be awarded through the staging of two 
+types of race events: 
+• 
+Reaction Racing – manual / driver launch mode, 8 races in total, each car will race in 
+each lane once over the 4 sessions. 
+• 
+Knock-out Competition Races – manual / driver launch mode, one race in each lane 
+per round of competition (Qualification for the Knock-out, please see C9.7.1). 
+Reaction racing will be split over four sessions of two races. The average 'car race time' value 
+from all reaction races will determine the Fastest Car Award (refer C9.6). The knock-out 
+competition is the last of the scheduled races. Refer to ARTICLE C3.5 and further information 
+following for details on how points are calculated and awarded. 
+C9 .2 
+Team preparation
+  
+C9.2.1 
+Teams should be familiar with the operation of the STEM Racing™ Race System. 
+There will normally be a section demonstration track within the venue where teams 
+can practice race starts during free time prior to their scheduled races. 
+C9.2.2 
+Manual / driver starts - One or more team members (driver/s) must be appointed for 
+launching of their team’s car using the manual launch method. Each lane of the track 
+has a dedicated starting area 1m x 1m which shall be clearly marked on the floor. The 
+driver must only make contact with the floor within this dedicated area and must not 
+touch or lean on the track. 
+C9.2.3 
+Finish line management - At least one member of the team must be appointed as 
+responsible for managing the finish line Car Deceleration System (refer C9.11), and 
+return of car along the track to the start. 
+C9.2.4 
+Start line car staging – Race Judges will be responsible for staging the car at the start 
+line. Team members are not permitted to adjust the car’s alignment themselves but 
+may request a single realignment by the judges. Under no circumstances may team 
+members interfere with the Power Unit Cartridge or the vertical alignment of the start 
+box. At the end of the staging process, all four wheels of the car must be in contact 
+with the track surface.  
+C9.2.5 
+Teams must ensure that both cars are race ready, a car service session will be 
+provided before the next race event (refer C10.2). If a teams’ car is damaged beyond 
+achievable repair then teams will forfeit any races that the car would have been used 
+for. 
+C9 .3  
+Who needs to attend?
+ 
+All team members must be present during their scheduled racing sessions.  
+C9 .4  
+Reaction  race procedure
+ 
+Cars are launched in manual / driver reaction mode during four racing sessions, each 
+comprising of two races total per team, two (2) races in each lane. The TOTAL RACE TIME 
+displayed and the REACTION TIME displayed for each race is recorded. The reaction races 
+will be conducted as follows: 
+a) Teams race in order as shown in the competition programme. All cars will be loaded 
+onto the track, Car A first then Car B. 
+b) One team member to track finish for deceleration system control. 
+c) Judge arms Start Box - SAFETY ON. 
+d) Race 1 (Car A) - Judge sets cars on track/tether line and inserts Power unit cartridge 
+– makes initial start box adjustments. 
+e) Please see C9.2.4 for more detail.  
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 36 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+f) 
+Driver and team stands trackside with corresponding lane start trigger. 
+g) Judge checks deceleration system is ready, all team members to stand in designated 
+safety zone as instructed by track judges, track is clear for racing, team information on 
+race system is correct, switches Start Box - SAFETY OFF. 
+h) Judge presses the start system reset button – cars are launched by driver pressing 
+start trigger. 
+i) 
+Judge records TOTAL RACE TIME and REACTION TIME displayed on start gate. 
+j) 
+Team member at finish moves car into storage zone at the end of the track. 
+k) Race 2 (Car B) conducted in same lane as above, driver can be inter-changed as 
+nominated. 
+l) 
+Team member at finish control returns car and empty power unit cartridge along track 
+to the start with minimum handling. 
+m) Judges remove cars from tether line and change lanes, team information on race 
+system is correct. 
+n) Cars removed from track and returned to Parc Fermé. 
+C9 .5 
+Reaction race scoring
+ 
+All eight (8) ‘total race times’ recorded from the reaction races are considered. The fastest of 
+these eight (8) times is used in the following formulae to calculate the points awarded: 
+• 
+Fastest ‘total race time’ = 105 pts 
+• 
+2nd fastest ‘total race time’ = 100 pts 
+• 
+3rd fastest ‘total race time’ = 95 pts 
+• 
+Slowest ‘total race time’ = 5 pts 
+• 
+Base Time = 120% of 3rd fastest ‘total race time’ 
+• 
+4th fastest and all other teams score points using the following formula: 
+• 
+Team Points = 5 + (90 / (Base Time – fastest ‘total race time’)) x (Base Time – teams 
+fastest ‘total race time’)  
+• 
+Any team with a best ‘total race time’ that is slower than the base time will score 5 
+points. To further discriminate between any teams scoring 5 points, a deduction of 1 
+point will be made for any did not finish (DNF) reaction race result. 
+C9 .6 
+Time trial race scoring
+ 
+The eight (8) ‘car race times’ recorded during racing will be considered. From these eight (8) 
+races, the team’s 2nd, 3rd, 4th and 5th best ‘car race times’ will be averaged. This average time 
+is used in the following formulae to calculate the points awarded: 
+ 
+• 
+Fastest average (avg.) time = 105 pts 
+• 
+Second fastest avg. time = 100 pts 
+• 
+Third fastest avg. time = 95 pts. 
+• 
+‘Base Time’ = 115% of the third fastest avg. time of all teams avg. times. 
+• 
+Fourth (4th) to slowest avg. time score points using the following formula: 
+ 
+Team Points = 20 + (75/(Base Time – 3rd fastest avg.)) x (Base Time – teams avg.) 
+• 
+Any team that has an average slower than the base time will score 20 points. To further 
+discriminate between these teams, a deduction will be made of 2.5 points for any did 
+not finish (DNF) time trial result. 
+• 
+If after discarding a team’s fastest time there remains less than 4 times from races 
+finished, due to DNF’s, the slowest time recorded is again input to the average 
+equation until there are a total of four times to average. 
+ 
+C9.6.1 Fastest Car Race Time Bonus 
+A 10-point bonus will be awarded to the team with the single fastest ‘car race time’ 
+value from all time-trial races. 
+C9 .7 
+Knock - out C ompetition  
+Teams will take part in a knock-out (single elimination) competition. Teams will be issued the 
+knock-out competition seeding and competition bracket prior to the race event commencing. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 37 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+The number of participating teams will be confirmed closer to the event. 4 teams race 
+simultaneously, and the teams that record the 2 fastest total race times advance to the next 
+round.  
+ 
+C9.7.1 
+Seeding - The seeding order for the first knock-out round is determined through 
+seeding all teams using the average fastest ‘total race time’ they achieved from the 
+time trial racing event. 
+ 
+Cars judged to have performance regulation failures will have 0.5 seconds per 
+performance regulation failure per car added on to their fastest ‘total race time’ for 
+seeding purposes, see formula below: 
+ 
+𝑺𝒆𝒆𝒅𝒊𝒏𝒈 𝑻𝒊𝒎𝒆= 
+(
+𝑪𝒂𝒓 𝑨 𝒇𝒂𝒔𝒕𝒆𝒔𝒕 ‘𝒕𝒐𝒕𝒂𝒍 𝒓𝒂𝒄𝒆 𝒕𝒊𝒎𝒆’
++ (𝟎. 𝟓× 𝑪𝒂𝒓 𝑨 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑹𝒆𝒈𝒖𝒍𝒂𝒕𝒊𝒐𝒏𝒔)
++ 𝑪𝒂𝒓 𝑩 𝒇𝒂𝒔𝒕𝒆𝒔𝒕 ‘𝒕𝒐𝒕𝒂𝒍 𝒓𝒂𝒄𝒆 𝒕𝒊𝒎𝒆’
++ (𝟎. 𝟓× 𝑪𝒂𝒓 𝑩 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑹𝒆𝒈𝒖𝒍𝒂𝒕𝒊𝒐𝒏𝒔)
+)
+𝟐
+ 
+ 
+During knock-out racing, the launch will be delayed by 0.1 seconds per performance 
+penalty per car. 
+ 
+C9.7.2 Knock-out competition procedure - During the knock-out competition BOTH race cars 
+will be used. Cars are launched in manual / driver reaction mode, with two (2) races 
+total, one (1) race in each lane, for each round of the knock-out. The team with the 
+fastest ‘total race time’, as displayed on the start gate, from the two races conducted, 
+is the winner of that knock-out round. In case of a tied result, a further ‘sudden death’ 
+race will be conducted, this will be a repeat of race 2. The knock-out competition will 
+be conducted as follows: 
+a) Teams race in order of the competition draw. Top of draw in lane 1. 
+b) Prior to the cars being set on the track for each round, each team will be required to 
+nominate which car (A or B) they will use for their first race. Each teams’ other car will 
+be used for the second race. 
+c) One team member to track finish for deceleration system control. 
+d) Judge arms start box - SAFETY ON – makes initial start box adjustments. 
+e) Race 1 - Judge sets all cars on track / tether line and inserts power unit cartridge 
+f) 
+Driver stands trackside with corresponding lane start trigger.  
+g) Judge checks deceleration system is ready, all team members to stand in designated 
+safety zone as instructed by track judges, team information on race system is correct, 
+track is clear for racing, switches start box - SAFETY OFF 
+h) Judge presses the start system reset button – cars are launched by driver pressing 
+start trigger. 
+i) 
+Judge records TOTAL RACE TIME displayed on start gate. 
+j) 
+Team member at finish moves car into storage zone at the end of the track Judges set 
+cars for Race 2. 
+k) Check team information on race system is correct 
+l) 
+Race 2, driver can be inter-changed. 
+m) Cars removed from track and returned to Parc Fermé. 
+C9.7.3 Knock-out competition scoring example. This will depend on the number of competing 
+teams. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 38 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+Points are awarded based on the round of competition a team is eliminated as follows: 
+• 
+Seeded outside top 32 = 2 pts 
+• 
+Eliminated in Round 1 (Round of 32) = 6 pts 
+• 
+Eliminated in Quarter Final = 8 pts 
+• 
+Eliminated in Semi Final = 15 pts 
+• 
+Eliminated in Final (4th Place) = 22 pts 
+• 
+Eliminated in Final (3rd Place) = 24 pts 
+• 
+Eliminated in Final (2nd Place) = 26 pts 
+• 
+Knock-out Winner = 30 pts 
+C9 .8 
+DNF (Did not Finish) race results
+ 
+Damage or part separation occurring during a race, before the car crosses the finish line, (e.g. 
+wheel or any other part of the car separating), or a car not crossing the finish line at all, effects 
+in a DNF race result. The Judges may refer to video evidence to verify a DNF result. 
+C9 .9 
+False Starts
+ 
+C9.9.1 
+A false start (jump start) occurs when the driver depresses the trigger button before 
+the 5 start gate lights have extinguished.  The screen will display a false start 
+message. 
+C9.9.2 
+All reaction false starts will incur a 2.5 point penalty and by default forfeit that race. 
+This penalty does not apply to knock-out racing. 
+C9.9.3  During knock-out racing – If one team false starts (jump starts), the other team should 
+continue to race as normal. The team who false started forfeits that race, scoring a 
+DNF, and the other team’s time is recorded. If both teams false start, the race counts 
+as one of the two (2) runs.  
+C9.9.4 
+During any manual / driver starts, if a driver false starts and distracts the other driver 
+the race will be re-run and the driver who caused the distraction will forfeit their race. 
+C9.9.5 
+Distractions outside of the race start area will be assessed by the lead track judge 
+and track officials to determine if the race should be re-run. All competitors must, and 
+other spectators will be instructed to, keep noise down to a minimum and to not use 
+flash photography. 
+ C9 .10 Track, tether line and timing system information
+ 
+C9.10.1 The STEM Racing™ Elevated Race Track, supplied by Denford Ltd will be used. 
+The official length of the track, from start line to finish is 20 metres. A monofilament 
+tether line of diameter 0.6mm, fixed at the finish end, passes down the centre of 
+each lane. At the start end the line passes through 90 degrees over a single pulley 
+then attached to a 1.0kg mass suspended above the floor. 
+ 
+IMPORTANT: Teams are not permitted to add anything to the race track or 
+race system. This includes the car staging area. 
+C9.10.2 Launch/Timing - The STEM Racing™ Launch/Timing System will be used for 
+launching cars and timing races and driver reaction times to 1/1000th of a second. 
+C9 .11  Car Deceleration 
+System s   
+C9.11.1 Teams must use the Halo deceleration system. The Halo Deceleration System acts 
+to bring cars to rest once crossing the finish line. STEM Racing™ will provide a Halo 
+Deceleration System which is integrated into the final track section after the finish line. This 
+consists of an arresting cable which is aligned with the circular notch of the Halo. If a team 
+fails T4.4.4 Halo notch height they will be required to use the Brushes Car Deceleration 
+System. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 39 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+C9.11.2 The final 350mm of the track after deceleration systems is reserved for a storage 
+zone to store raced cars before they are returned to the track start. 
+C9 .12 
+Race Power Packs
+ 
+Compressed gas cartridges to be used for all World Finals competition races will be supplied 
+by STEM Racing™. Each race cartridge will be separately weighed before competition to 
+ensure that all race cartridges used for races are within a weight range of 0.5 grams. All race 
+cartridges will be kept in a temperature-controlled environment of 21 degrees Celsius. 
+C9 .13 
+Car weight checks
+ 
+Cars will have their weight checked at the race track prior to commencing a race event. This 
+is done to ensure each car remains at a legal weight during all races. If a car is judged to have 
+gone under weight whilst stored in parc fermé, the Judges will add ballast to return the car 
+weight to what it was when first submitted to parc fermé, without penalty. 
+C9 .14  
+Judges  handling cars
+ 
+The race Judges will not be required to comply with any special car handling requests made 
+of them by teams. This includes use of any special gloves or tools. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 40 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C10 – CAR REPAIRS AND CAR SERVICING
+ 
+C10.1 
+Car repairs  
+C10.1.1 All damage issues and related repair work during racing is at the Judge’s discretion 
+and may be referred to the scrutineering Judges and/or Chair of Judges for a final 
+decision. 
+C10.1.2 No items can be removed or added to a car during racing, other than Power unit 
+cartridges, except in the case of a repair. 
+C10.1.3 No penalty is applied for damage incurred during knock-out racing or a car’s final race 
+of any race event. 
+C10.2  
+Car servicing
+ 
+C10.2.1 Teams will be scheduled time to carry out penalty-free maintenance and repairs on 
+their race cars in the designated car service area. There will be a car service session 
+after each race session. The duration of each car service session will be confirmed 
+closer to the event. 
+C10.2.2 A shorter car service session will be allowed between further rounds of the knockout 
+competition. 
+C10.2.3 Only team members and Judges are allowed to enter the car service area. 
+C10.2.4 Tool kits are allowed to be taken into car service. Teams must supply all of their own 
+tools and other necessary resources. Judges will not be able to assist teams with any 
+additional resource requirements. 
+C10.2.5 Maintenance and alterations can only be made to the front and rear wings, nose cone, 
+tether line guides, wheels and wheel support systems. The car body MUST NOT be 
+modified or substituted. 
+C10.2.6 Each team will be required to complete a car service log form, declaring any 
+maintenance or repair work completed. This will be validated by the Judges. 
+C10.2.7 Teams must hand their race cars and completed car service log to the service area 
+Judges BEFORE the conclusion of their scheduled service interval. A penalty will 
+apply for exceeding the scheduled service time limit of 5 points for every minute late. 
+C10.2.8 The use or application of lubricants of any kind during car service sessions is strictly 
+prohibited. This includes, but is not limited to, oils, greases, silicone sprays, dry 
+lubricants, graphite, wax-based products. Any team found to have applied lubricants 
+during a car service session may incur a penalty at the discretion of the Chair of 
+Judges. 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 41 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C11 – PROTESTS
+ 
+C11.1 
+Scrutineering decision appeals
+ 
+These must be submitted within two hours of the team completing their specification review 
+judging. Other rules for submitting these will be the same as for protests. 
+C11.2  
+Submitting a protest
+ 
+Any protest issues must only be submitted by the team manager by email (global-
+admin@stemracing.com) to an Event Director, who will register this and immediately submit 
+it to the Chair of Judges. This must occur no later than 21:00 (local time) on racing day 2. Any 
+protest or appeals submitted after this time may be disregarded. The Chair of Judges decision 
+related to any protest is final. 
+C11.3  
+Unsuccessful protests
+ 
+Teams should carefully consider their grounds for submitting a protest or appeal.  
+Any protest or appeal that is unsuccessful, with the Judges initial decision remaining 
+unchanged, will result in the team having a 15-point penalty applied against their total score.  
+ 
+ 
+THE CHAIR OF JUDGE’S DECISION IS FINAL 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 42 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C12 – JUDGES
+ 
+C12.1 
+Overview
+ 
+There will be six (6) teams of Judges plus officials that form the entire judging panel. Each 
+judging team will have one Judge appointed as the Lead Judge. Judges are nominees from 
+ICC’s and other education and industry experts invited by STEM Racing™. All Judges sign a 
+‘declaration’ and code of conduct to ensure there are no conflicts of interest with respect to 
+Judges and the teams they are judging. 
+C12.2  
+Chair of Judges
+ 
+An independent authority appointed by STEM Racing™ to oversee all judging procedures. 
+The Chair of Judges will determine the final judging decision where a protest has been 
+submitted or other judging issue needs resolution. The Chair of Judges will also preside over 
+a meeting of all Lead Judges to ratify the final results along with nominations and winners for 
+relevant awards.  
+C12.3  
+The J udging teams
+ 
+C12.3.1 Specification & Scrutineering Judges - will assess both race cars plus the rendered 
+images and engineering drawings as per the Specification & Scrutineering 
+scorecards. 
+C12.3.2 Design & Engineering Judges - will assess each team as per the Design & 
+Engineering scorecard. 
+C12.3.3 Verbal Presentation Judges – will assess each team as per the Verbal Presentation 
+scorecard.  
+C12.3.4 Project Management– will assess each team as per the Project Management 
+scorecard.  
+C12.3.5 Enterprise Judges – will assess each team as per the Enterprise and Pit Display 
+and Team identity scorecards. 
+C12.3.6 Race officials – will oversee and rule on all race events and any incidents.  
+C12.3.7  Car servicing officials – will oversee all car service activities and rule on any 
+infringements that may occur. 
+C12.4  
+Judging Decisions
+ 
+THE DECISION OF THE JUDGES AND OFFICIALS IS FINAL. 
+ 
+ 
+
+Aramco STEM Racing World Finals 2026 Singapore - Competition Regulations – Revision 1 
+©2026/27 – STEM Racing™ Ltd. 
+Page 43 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ARTICLE 
+C13 -  AWARDS
+ 
+C13.1 
+Awards Celebration
+ 
+The World Finals awards will be presented at the Awards Celebration Gala Dinner. Details of 
+this event will be released closer to the event. 
+C13.2  
+Participation R
+ecognition  
+All students will receive an official participation certificate. 
+C13.3  
+Prizes and Trophies
+ 
+C13.3.1 Formula 1® Team Trophies – In past years STEM Racing™ has been extremely 
+fortunate to have all Formula 1® teams generously supply purpose built ‘ONE OFF’ 
+trophies for various awards. These trophies are unique and some are constructed 
+from Formula 1® car components.  
+C13.3.2 Awards – Teams that win an award will be presented with a SINGLE main trophy 
+or similar memento and the team members and / or supervising teacher will need to 
+decide how this memento is to be shared and displayed amongst the team 
+stakeholders. 
+C13.3.3 Student mementos – students winning an award may be presented with their own 
+individual medallion or certificate. 
+C13.3.4 STEM Racing™ World Champions Trophy. This is a perpetual trophy presented to 
+the World Champions, and as such, must be returned to STEM Racing™ HQ before 
+the following year's World Finals event. World Champion teams wishing to retain a 
+permanent memento of their achievement may purchase an official replica of the 
+World Champions Trophy; details and pricing are available from STEM Racing™ 
+HQ following the event. 
+C13.4  
+List of awards to be presented
+ 
+All awards below will be presented to the team that achieves the highest score in each 
+category taken from the scorecards unless otherwise indicated (*) below. (this list may be 
+amended at the discretion of STEM Racing™). 
+ 
+1. 
+World Champions – STEM Racing™ World Champions 
+Trophy 
+2. 
+2nd Place  
+3. 
+3rd Place  
+4. 
+Best International Collaboration Team Award  
+5. 
+Best Newcomer Award  
+6. 
+Best Engineered Car Award  
+7. 
+FIA Scrutineering Award 
+8. 
+Sponsorship & Marketing Award* 
+9. 
+Innovative Thinking Award* 
+10. Chair of Judges Recognition of Achievement Award*  
+11. Research and Development Award* 
+ 
+12. Fastest Car Award  
+13. Team Identity Award* 
+14. Pit Display Award* 
+15. Verbal Presentation Award* 
+16. Project Management Award* 
+17. Community & Social Impact  Award* 
+18. Knockout Competition Winners  
+19. FIA Women in Motorsport Award* 
+20. Sustainability Award* 
+21. Pit Stop Award 
+22. Autodesk AI (Generative design) Award 
+ 
+ 
+ 
+ 
+
+ 
+ 
+STEM Racing - 2026 World Finals Competition Regulations 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 44 of 63 
+ 
+ 
+ 
+3 June 2026 
+APPENDIX…
+ 
+1. Awards Matrix 
+2. 2026 World Finals Scorecards 
+3. Race Procedure & Troubleshooting Flowchart 
+4. Pit Display Reference Dimensions 
+5. PIT STOP (Wheel Change System Challenge) – Optional 
+6. AI Assistance and Verification Log 
+7. Physical Project Submission Checklist 
+8. Table of contents for engineering drawings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+STEM Racing - 2026 World Finals Competition Regulations 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 45 of 63 
+ 
+ 
+ 
+3 June 2026 
+Awards Matrix
+  
+Please find below a matrix that shows which judging categories contribute towards each award: 
+Judges 
+Heading 
+Sub Heading 
+World Champions 
+2nd Place 
+3rd Place 
+Best International Collaboration 
+Best Newcomer 
+Best Engineered Car 
+FIA Scrutineering Award 
+Sponsorship & Marketing Award 
+Innovative Thinking Award 
+Team Identity Award 
+Pit Display Award 
+Verbal Presentation Award 
+Sustainability Award 
+Research & Development Award 
+Community & Social Impact   
+Project Management Award 
+Fastest Car Award 
+Scrutineering 
+Scrutineering 
+Specifications 
+● 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engineering Drawings 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rendering 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quality of Finish and Assembly 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Design & Engineering 
+ 
+Design & 
+Engineering 
+Portfolio 
+Design Concepts 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3D Modelling 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Application of CAA 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+Use of CAM/CNC 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other Manufacturing & Assembly 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Research & Development 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+Testing 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+Design Process Evaluation 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document Presentation 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Management 
+Initiating 
+Initiation Process 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Project Schedule 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Planning 
+Budget and Resource Management 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Roles and Responsibilities 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Executing 
+Team & Stakeholder Comm. 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Risk Management 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Mon. and Cont. Monitoring & Controlling 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Enterprise 
+Enterprise 
+Marketing Strategy & Materials 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Sponsorship & return in Investment 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+Digital Media Proficiency  
+Community & Social Impact 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+Sustainability 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+Document Presentation 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Team Identity 
+Overall Team Identity 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+● 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pit Display 
+Pit Display Design Process 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+Pit Display Content Clarity and Impact 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+Functionality & User Experience 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+Verbal Presentation 
+Technique 
+Engagement & Presentation 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+Team Contribution 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+Composition 
+Content Quality, Relevance & Subject 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+Time, Clarity and Structure of Content 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+Subject 
+Innovation 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+● 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+Collaboration 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+STEM Racing™ Learning Experiences 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+ 
+ 
+ 
+ 
+ 
+Racing 
+ 
+Racing 
+ 
+Time Trials 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+Reaction 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 
+Damage During Racing 
+● 
+● 
+● 
+● 
+● 
+● 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 46 of 63 
+ 
+ 
+ 
+3 June 2026 
+Scrutineering Judging Scorecard
+ 
+Team Number: 
+Team Name: 
+Country: 
+Scrutineering 
+Engineering 
+Drawings 
+Little or no detail, Little 
+or no annotation. 
+No table of contents. 
+No regulation 
+compliance was shown. 
+Basic views included. 
+Some dimensions are 
+included but not 
+sufficient annotations. 
+Insufficient regulation 
+compliance was shown.  
+A basic table of 
+contents. 
+Multiple views including 
+First or Third-angle 
+orthographic projection 
+matching the final car. 
+Some parts or materials are 
+represented. 
+Some Regulation 
+compliance shown (eg T. 
+4.2 Virtual Cargo 
+identification.) 
+Good table of contents. 
+First or Third-angle orthographic 
+projection matching the final car and 
+unrendered isometric view or 
+similar. Additional views to show 
+sufficient detail. 
+Parts list/bill of materials.  
+Excellent regulation compliance 
+shown (eg T.4.2 Virtual Cargo 
+identification.) 
+Complete and ordered table of 
+contents. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10    
+11   12   13   14   15 
+16   17   18   19   20 
+Rendering 
+Poor quality renders. 
+Insufficient views. 
+Multiple views. 
+Some inconsistencies 
+matching the final car. 
+Multiple views. 
+Good match to the final car 
+Good render technique. 
+Multiple views. Perfect match to the 
+final car including branding. 
+Realistic environment and lighting 
+High-end render technique. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10    
+11   12   13   14   15 
+16   17   18   19   20 
+Quality of Finish 
+and Assembly 
+Poor surface finish with 
+visible defects such as 
+scratches, glue marks, 
+gaps, or misaligned 
+parts. Assembly is weak 
+or inconsistent. Cars 
+show noticeable 
+differences in build 
+quality.. 
+ 
+No justification for 
+intended quality and 
+finish documented in 
+the final page of the 
+engineering drawings 
+document. 
+Reasonable overall 
+finish with minor 
+imperfections or 
+alignment issues. 
+Assembly is generally 
+secure but lacks 
+refinement. Small 
+differences between the 
+two cars may be visible. 
+ 
+Some justification for 
+intended quality and 
+finish is documented in 
+the final page of the 
+engineering drawings 
+document. 
+Clean and consistent finish 
+across components. Parts 
+are accurately aligned and 
+securely assembled. 
+Branding is neatly applied. 
+The two cars are highly 
+similar in quality and 
+construction. 
+ 
+Justification for intended 
+quality and finish is well 
+documented in the final 
+page of the engineering 
+drawings document. 
+ 
+Exceptional, professional-quality 
+finish with no visible defects. 
+Precision assembly with seamless 
+fit of all parts. Branding perfectly 
+applied. The two cars are virtually 
+identical in finish and build quality. 
+ 
+Justification for intended quality and 
+finish is comprehensively 
+documented in the final page of the 
+engineering drawings document. 
+ 
+Scrutineering Total = 
+/60 
+Notes: 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 47 of 63 
+ 
+ 
+ 
+3 June 2026 
+Design & Engineering Scorecard
+ 
+Team Number:  
+Team Name:  
+Country:  
+Design & Engineering Portfolio Only Assessment 
+Design Concepts 
+Single or minimal concepts 
+for car components with no 
+links to research. No 
+relevance to final car. 
+Basic concepts of car 
+components with limited links to 
+research. Limited relevance to 
+final car. 
+Good technically inspired ideas 
+that are relevant for different car 
+components linked to research. 
+Excellent technically inspired 
+ideas for multiple car components 
+with research-detailed. Relevance 
+of the concept strongly justified. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+3D Modelling 
+ 
+Minimal application of 3D 
+modelling techniques. Only 
+final design 3D modelled. 
+Basic use of 3D modelling tools 
+and techniques.  
+More than 1 design included 
+with different iterations. 
+Good use of advanced 3D 
+modelling tools, showcasing 
+skill and technique. Dimensional 
+constraints of the STEM 
+RACING model block 
+considered. Design approach 
+explained. 
+Design for manufacture 
+considerations noted. (ie fillets, 
+tolerance of machining). 
+ 
+Expert use of a wide range of 
+complex 3D modelling techniques, 
+demonstrating exceptional skill 
+and innovation.  
+Design for manufacture directs 
+process. (ie machining tool 
+availability, fit clearances). 
+Quality of CAD surfaces analysed. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Application of 
+Computer Aided 
+Analysis 
+Poor choice and no 
+justification of simulation 
+parameters. 
+Weak analysis with poorly 
+presented/no results. 
+No design choices made 
+based on FEA/CFD study. 
+Limited choice and justification 
+of simulation parameters. 
+Limited analysis and results.  
+Little to no design choices made 
+based on FEA/CFD  study. 
+Well-justified choice and 
+understanding of simulation  
+Good analysis with clear, well-
+presented results. 
+Some design choices made 
+based on FEA/CFD  study. 
+Excellent choice & understanding 
+of simulation parameters.  
+Detailed analysis with clear, well-
+presented results. 
+Proven design improvements 
+made based on FEA/CFD  study. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Use of CAM/CNC 
+No or minimal evidence of 
+CAM/CNC understanding or 
+manufacturing. 
+Basic evidence of CAM/CNC 
+processes and manufacturing. 
+Good use and understanding of 
+CAM/CNC processes to achieve 
+manufacturing goals. 
+Manufacturing issues noted with 
+limited problem solving. 
+Evidence of excellent 
+understanding of CAM/CNC 
+technologies. Appropriate 
+techniques and processes used to 
+achieve manufacturing goals. 
+Manufacturing issues discussed 
+with innovative problem-solving 
+solutions. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Other 
+Manufacturing & 
+Assembly 
+No or minimal manufacturing 
+presented.  
+No or minimal consideration 
+of quality assurance and 
+workplace safety 
+documented. 
+No or minimal justification of 
+outsourcing. 
+The manufacturing process is 
+mentioned without detail. 
+Basic consideration of quality 
+assurance and workplace safety 
+documented. 
+Basic justification of 
+outsourcing. 
+Good manufacturing process 
+and stages described.  
+Good consideration of quality 
+assurance and workplace safety 
+documented. 
+Appropriate use of 
+manufacturing resources 
+documented (i.e. tools, finishes, 
+jigs, fixtures). 
+Outsourcing clearly explained 
+and justified. 
+Details all manufacturing stages 
+and processes.  
+Quality assurance and workplace 
+safety considerations evident. 
+Appropriate outsourcing justified 
+with make vs buy analysis. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Research & 
+Development 
+No or limited evidence of 
+R&D. 
+Basic evidence of R&D with 
+some principles considered. 
+Some scientific & mathematical 
+theories and principles 
+considered. Logical research 
+based design developments 
+explained and justified. 
+Relevant R&D throughout the 
+entire product design & 
+development cycle. Design 
+concept developments refined and 
+justified from research & test 
+findings. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Testing 
+No or little evidence of testing 
+on the fully assembled car 
+and individual components. 
+Limited testing.  
+Some evidence of method and 
+outcomes on the fully 
+assembled car and individual 
+components. 
+Good testing. Different evidence 
+of method and outcomes.  
+Some evidence of virtual and 
+physical testing on the fully 
+assembled car and individual 
+components. 
+Appropriate testing with excellent 
+methods and outcomes 
+documented.  
+Comprehensive evidence of virtual 
+and physical testing on the fully 
+assembled car and individual 
+components. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Design Process 
+Evaluation 
+No or limited Ideas or process 
+evaluations at different 
+stages. 
+No or limited documentation 
+of evaluation-linked 
+improvement actions. 
+Basic Ideas or process 
+evaluations at different stages. 
+Basic documentation of 
+evaluation-linked improvement 
+actions. 
+Multiple Ideas or process 
+evaluations at different stages. 
+Good documentation of 
+evaluation-linked improvement 
+actions. 
+Excellent ongoing idea evaluations 
+linked to improvement actions. 
+Comprehensive documentation of 
+evaluation-linked improvement 
+actions. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Document 
+Presentation 
+Difficult to follow with basic 
+presentation standard. 
+Basic organisation. 
+Good and clear structure, well 
+organised. 
+High impact and professional 
+throughout.  
+Consistent and clear organisation. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Design & Engineering Portfolio Only Assessment Total = 
+/180 
+Notes: 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 48 of 63 
+ 
+ 
+ 
+3 June 2026 
+Project Management Scorecard
+ 
+Team Number: 
+Team Name: 
+Country: 
+Project Management Assessment 
+Initiating 
+Initiation 
+Process 
+No or limited 
+evidence of an 
+Initiation process. 
+Evidence of an Initiation 
+process with goals and 
+deliverables identified, 
+leading to a basic scope 
+statement. 
+Evidence of an Initiation process 
+including Kick-off meeting. Project 
+charter created with goals and 
+deliverables identified. Good 
+scope statement developed, 
+identifying acceptance criteria for 
+each deliverable. 
+Kick-off meeting evidenced. Detailed Project 
+Charter created, clearly defining all deliverables 
+and key stakeholders. Comprehensive scope 
+statement developed, identifying acceptance 
+criteria for each deliverable and describing how 
+success/value will be measured (right-
+sized/tailored to the team). 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Project 
+Schedule 
+No or limited 
+evidence of tasks to 
+be completed. 
+Evidence of a project 
+schedule, showing a 
+breakdown of time 
+required to complete 
+essential tasks. 
+Clear evidence of a project 
+schedule and Work Breakdown 
+Structure. Detailed Gantt chart 
+created to identify all tasks, 
+dependencies, and time 
+estimations. Resource allocation 
+is included for major project 
+phases. 
+Comprehensive project schedule with detailed 
+Work Breakdown Structure and Gantt chart. All 
+tasks, dependencies, and time estimations are 
+clearly identified. Key dependencies are identified, 
+and critical path analysis is included (with evidence 
+the team monitored critical tasks and took action 
+when they slipped). 
+ 
+0  1  2  3 
+4  5  6  7 
+8  9  10  11 
+12  13  14  15 
+Initiating Total 
+/35 
+Planning  
+Budget and 
+Resource 
+Management 
+No or limited 
+evidence of 
+strategies to 
+manage budget 
+and/or resources. 
+Some evidence of 
+resources required and 
+how they are to be 
+acquired and managed. 
+Some evidence of 
+budgeting. 
+Clear evidence of budgeting and 
+use of basic accounting methods 
+to track expenditure. Identification 
+of where, when, and how 
+resources are to be acquired and 
+used. Initial cost estimates for 
+major project components. 
+Comprehensive budgeting with detailed cost 
+breakdown and methods for tracking expenditure 
+(baseline vs. actual). Thorough resource 
+management plan, including procurement 
+strategies, resource allocation, and utilization 
+forecasts. Cost–benefit rationale documented for 
+key project decisions. 
+ 
+0  1  2  3 
+4  5  6  7 
+8  9  10  11 
+12  13  14  15 
+Roles and 
+Responsibilities 
+No or limited 
+evidence of clear 
+roles and 
+responsibilities 
+within team. 
+Team roles and 
+responsibilities identified, 
+with some evidence of 
+task and/or activity 
+breakdown. 
+Team members identified and a 
+structured team created with 
+defined job functions and 
+appropriate responsibilities. 
+Evidence of a basic Responsibility 
+Assignment ('RACI') Matrix. 
+Highly structured team with clearly defined job 
+functions, skill requirements, and detailed 
+responsibilities. Comprehensive RACI Matrix 
+covering all project activities and key decisions. 
+Evidence of team development (skills 
+planning/onboarding) and strategies for managing 
+team dynamics. 
+ 
+0  1  2 
+3  4 
+5  6  7 
+8  9  10 
+Planning Total 
+/25 
+Executing 
+Team & 
+Stakeholder 
+Communications 
+No or limited 
+evidence of 
+engagement 
+between team 
+members and 
+stakeholders. 
+Evidence of a 
+communication plan and 
+engagements between 
+team members and with 
+stakeholders. 
+Clear communication plan 
+implemented between team 
+members and stakeholders. Key 
+stakeholders registered and 
+reported to regularly. Multiple 
+communication tools used 
+effectively. 
+Comprehensive communication strategy with 
+tailored approaches for different stakeholder 
+groups. Regular, documented communication 
+using appropriate channels. Evidence of feedback 
+loops and continuous improvement in 
+communication. Stakeholder engagement matrix 
+(or equivalent engagement tracking) is used and 
+updated. 
+ 
+0  1  2 
+3  4 
+5  6  7 
+8  9  10 
+Risk 
+Management 
+No or limited 
+evidence of risk 
+identification and 
+management. 
+Evidence of risk 
+identification and 
+response management 
+plans in place. 
+Clear evidence identifying all 
+relevant risks, area(s) of impact 
+and response planning. 
+Assessment of impact on 
+resources, timing, scope and 
+quality. 
+Comprehensive risk management strategy 
+including detailed risk register, quantitative 
+scoring/prioritization, and proactive responses with 
+contingency plans. Regular risk reviews and 
+updates throughout the project lifecycle.  
+ 
+0  1  2 
+3  4 
+5  6  7 
+8  9  10 
+Executing Total 
+/20 
+Monitoring and Controlling 
+Monitoring & 
+Controlling 
+No or limited or 
+isolated project 
+evaluation. 
+Ongoing evaluation of 
+most areas. Documented 
+evidence of problems 
+identified and suggested 
+solutions. 
+Regular 'Status Reports', 
+documenting tasks signed off and 
+highlighting areas of concern. 
+Scope creep identified with a clear 
+action plan for tasks that overrun. 
+Key performance indicators (KPIs) 
+tracked and reported. 
+Regular and detailed tracking processes 
+consistently applied. Comprehensive status reports 
+include: analysis of work completed versus 
+resources used, comparison of planned versus 
+actual progress, KPI trends, forecasting/predictions 
+of future performance, and clear procedures for 
+managing project changes (formal change control) 
+with modifications documented in a change/issue 
+log. 
+ 
+0  1  2 
+3  4 
+5  6  7 
+8  9  10 
+Monitoring and Controlling Total 
+/10 
+ Initiating + Planning + Executing + Monitoring and Controlling = Project Management Total = 
+/90 
+Notes: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 49 of 63 
+ 
+ 
+ 
+3 June 2026 
+Enterprise Scorecard
+ 
+Team Number: 
+Team Name: 
+Country: 
+Enterprise Portfolio Only Assessment 
+Marketing Strategy & 
+Materials 
+Lack of coherent 
+marketing strategy, 
+poorly developed 
+marketing materials, 
+and minimal content 
+relevance. 
+Partially coherent marketing 
+strategy, average quality 
+marketing materials, needs 
+enhancement in content 
+relevance. 
+Good marketing strategy, 
+reasonably developed 
+marketing materials, and 
+satisfactory content 
+relevance. 
+Well-defined marketing 
+strategy, high-quality 
+marketing materials, and 
+highly relevant content. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Sponsorship & Return 
+on Investment (ROI) 
+No or incomplete 
+Sponsor/partner 
+hierarchy. 
+Limited understanding 
+of sponsorship. 
+No evidence of ROI. 
+Basic Sponsor/partner hierarchy 
+and benefits included. 
+Partial understanding of 
+sponsorship. 
+Some evidence of return of 
+investment (ROI) to relevant 
+sponsors. 
+ 
+ 
+A range of sponsor/partner 
+hierarchy and benefits 
+identified. Good 
+understanding of 
+sponsorship, reasonable 
+investment, and 
+satisfactory ROI to 
+relevant sponsors. 
+Sponsor/partner hierarchy 
+and benefits detailed and 
+justified. Range of relevant 
+sponsors/partners showing 
+mutually beneficial 
+relationships.  
+Creative activities linked to 
+return of investment (ROI). 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+'Community & Social 
+Impact'  
+No or limited evidence 
+of community or social 
+engagement. No 
+documented activity 
+beyond the team's own 
+project. No 
+consideration of impact 
+on others. 
+Basic evidence of community or 
+social engagement. Some 
+activities documented, with 
+limited planning. Minimal 
+consideration of reach or benefit 
+to others. 
+Good evidence of planned 
+community or social 
+engagement. Activities 
+purposeful and 
+documented. Reasonable 
+consideration of how the 
+team's work inspires or 
+benefits others, with some 
+evidence of reach. 
+Strong evidence of 
+meaningful community 
+and/or social engagement, 
+well-planned and 
+documented. Clear intent to 
+inspire others, with well-
+evidenced impact and 
+lasting benefit beyond the 
+competition season. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Sustainability 
+No or limited 
+understanding and 
+implementation of 
+sustainable practices. 
+No or minimal 
+awareness of 
+environmental impact. 
+Partial understanding and 
+inconsistent implementation of 
+sustainable practices. 
+Needs improvement in 
+awareness of environmental 
+impact. 
+Some evidence of 
+implementation. 
+Good understanding and 
+moderate implementation 
+of sustainable practices. 
+Some awareness of 
+environmental impact. 
+Implementation 
+documented considering 
+different factors such as 
+economic, environmental, 
+and social. 
+Strong understanding and 
+effective implementation of 
+sustainable practices. 
+High awareness of 
+environmental impact and 
+active involvement in 
+sustainability initiatives 
+considering economic, 
+environmental, and social 
+factors. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Document 
+Presentation 
+Poor formatting, lack of 
+structure. 
+Minimal visual appeal 
+in the document. 
+Average formatting with some 
+structure. 
+Needs improvement in the 
+document visual appeal. 
+Good formatting, 
+structured document. 
+Satisfactory document 
+visual appeal. 
+Good organisation. 
+Excellent formatting, well-
+structured document, and 
+highly appealing visually.  
+High impact and 
+professional throughout.  
+Consistent and clear 
+organisation. 
+ 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+ 
+Enterprise Portfolio Only Assessment Total 
+/100 
+Notes: 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 50 of 63 
+ 
+ 
+ 
+3 June 2026 
+Pit Display & Team Identity Scorecard
+ 
+Team Number: 
+Team Name: 
+Country: 
+Pit Display Assessment 
+Pit Display 
+Design Process 
+(Documented in 
+Enterprise 
+portfolio) 
+Limited planning and 
+execution, lack of 
+innovation, and minimal 
+attention to detail in the 
+design process. 
+Some planning and execution. 
+Insufficient innovation.  
+Needs improvement in attention to 
+design details. 
+Some ideas development 
+documented. 
+Different ideas & justification 
+of design.  
+Good evidence of 
+development considering 
+factors including team 
+identity, budget, 
+sustainability and time 
+constraints with 
+consideration to functionality 
+and user experience. 
+A range of ideas, clearly 
+justified, creative final design. 
+Comprehensive evidence of 
+development considering 
+factors including team identity, 
+budget, sustainability and time 
+constraints with consideration 
+to functionality and user 
+experience. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Pit Display 
+Content Clarity 
+and Impact 
+Repetition of Portfolio 
+contents.  
+Disorganised layout. 
+Little or no evidence of 
+marketing materials. 
+Minimal information 
+about the team's work. 
+Partially informative content.  
+The pit display is not enhanced by 
+Multimedia or Marketing materials. 
+The Pit display needs more clarity 
+detailing the team's work. 
+Good organisation and 
+impact. 
+Multimedia is used to 
+enhance the display, with 
+some marketing material on 
+display. 
+Clear and effective 
+presentation and messaging 
+about the team’s work. 
+Clean, well-organised with 
+high impact. Highly 
+professional with attention to 
+detail.  
+Excellent integration of 
+technology, multimedia and 
+marketing materials. 
+Comprehensive information 
+about the team's work. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Functionality & 
+User Experience 
+execution 
+Non-functional or poorly 
+functional design, 
+inconvenient user 
+experience.  
+Lacks impact, and 
+minimal overall visitor 
+impression. 
+Basic functionality, average user 
+experience, needs improvement in 
+functionality and overall visitor 
+impression. 
+Good functionality, and 
+satisfactory user 
+experience.  
+Innovative Pit display and 
+positive visitor impression. 
+Excellent functionality, 
+seamless user experience, 
+and impressive innovation 
+across the Pit Display.  
+A very positive impression on 
+visitors. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Pit Display Total = 
+/60 
+Team Identity 
+Overall Team 
+Identity 
+Inconsistent, limited or 
+obscure identity through 
+project elements. 
+Weak team cohesion, 
+lack of shared identity. 
+Partial team cohesion, and 
+inconsistent shared identity 
+through project elements. 
+Good team identity is 
+consistent through various 
+project components e.g. car 
+matches team uniform. 
+Excellent and highly effective 
+team identity. Team ‘brand’ 
+consistently applied through 
+all project elements 
+(portfolios, pit display, 
+uniforms and cars), including 
+compliant use of the official 
+STEM Racing™ logo on team 
+uniforms. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Team Identity Total 
+/20 
+Pit Display Total + Team Identity Total = 
+/80 
+Notes: 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 51 of 63 
+ 
+ 
+ 
+3 June 2026 
+Verbal Presentation Scorecard
+ 
+Team Number: 
+Team Name: 
+Country: 
+Technique 
+Engagement & 
+Presentation 
+Dynamics 
+Monotonous 
+presentation, lack of 
+visual aids, and minimal 
+interaction with audience. 
+Poor delivery technique. 
+Limited team dynamics, 
+some visual aids. 
+Limited delivery technique 
+and interaction with the 
+audience.  
+ 
+Good team dynamics, 
+effective visual aids,  
+Good delivery and 
+interaction with the 
+audience. 
+Excellent engagement, 
+captivating and highly 
+interactive delivery, and 
+strong audience 
+connection. 
+Exceptional team 
+dynamics, and impactful 
+visual aids. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Team Contribution 
+Single team member 
+taking the lead in 
+presentation. 
+Minimal team 
+participation during the 
+presentation. 
+Good contributions from 
+most team members. 
+Excellent teamwork with all 
+members participating 
+effectively. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Technique Total 
+/40 
+Composition 
+Content Quality, 
+Relevance & Subject 
+Understanding 
+Irrelevant or outdated 
+content, lack of depth, 
+and poor relevance. 
+Unclear explanations. 
+Partially relevant content, 
+some depth, needs 
+improvement in quality and 
+explanations. 
+Relevant content, good 
+depth, and reasonably high-
+quality information. Clear 
+explanations. 
+Highly relevant content, 
+profound depth, and 
+exceptional quality 
+information with articulate 
+explanations. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Time, Clarity and 
+structure of content 
+Severe time 
+management issues, with 
+significant rushing or 
+excessive time taken. 
+Less than 8 minutes or 
+more than 12 minutes. 
+Incoherent structure, 
+unclear message, and 
+disorganised content. 
+Time management issues 
+are evident, with noticeable 
+rushing or excessive time 
+taken. 
+Less than 9 minutes or more 
+than 11 minutes. 
+Partially clear structure, 
+some coherence, needs 
+better content organisation. 
+Good flow and time 
+management of each topic 
+with minimal rushing or 
+excessive time taken. 
+Clear structure, coherent 
+flow, and organised content. 
+Excellent time 
+management and balance 
+of each topic without 
+exceeding the time limit. 
+Excellent structure, crystal-
+clear message (concept), 
+and highly organized 
+content. 
+Excellent attention to 
+detail. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Composition Total 
+/40 
+Subject 
+Innovation 
+Little project innovation 
+presented with no 
+justifications. 
+Average project innovations 
+are described but with no 
+justification. 
+Good project innovations 
+are described and justified 
+and connected to 
+competition elements. 
+Excellent innovations 
+related to competition 
+elements, or other aspects 
+with high positive project 
+impact. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+Collaboration 
+None or Little 
+collaboration with 
+industry or higher 
+education mentioned. 
+Some collaboration with 
+industry or higher education 
+is mentioned. 
+Good description of 
+collaboration with industry 
+and higher education. 
+Excellent justification of 
+collaborations with industry 
+and higher education.  
+Links to learning and 
+project outcomes. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+ 
+ 
+ 
+ 
+ 
+ 
+STEM Racing™ 
+learning journey 
+No or limited real 
+reflections discussed. 
+Basic explanation of some 
+learning outcomes for some 
+team members. 
+Good explanation of some 
+learning outcomes for all 
+team members. 
+ 
+A range of personal, life-
+long learning and career 
+skills acquired and 
+identified as project 
+outcomes for all team 
+members. 
+ 
+0   1   2   3   4   5 
+6   7   8   9   10 
+11   12   13   14   15 
+16   17   18   19   20 
+ 
+Subject Total 
+/60 
+Technique Total + Composition Total + Subject Total = Verbal Presentation Total = 
+/140 
+Notes: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 52 of 63 
+ 
+ 
+ 
+3 June 2026 
+Specifications Scorecard
+ 
+For clarification on individual regulations, refer to the World Finals Technical Regulations. 
+Please enter ✓ for a pass and F for a fail 
+(8g Pack) – measured with full 8g race power pack cartridges 
+Team Number: 
+Team Name:  
+Country:  
+ 
+Initial Scrutineering 
+Amendments 
+ 
+Reg 
+Regulation Overview 
+Min/Max 
+Quick Guide 
+Penalty 
+per Car 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Remarks 
+ARTICLE T3 – FULLY ASSEMBLED CAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.1.1 
+Designed and engineered using CAD / CAM 
+ 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.1.2 
+Body manufactured using CNC only 
+Check unfinished body 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.1.3 
+STEM Racing holographic sticker 
+Must be supplied 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.1.4 
+Race cars identical geometry 
+Visual check 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.2.1 
+Safe Construction – Specification judging 
+Check T3.2.1 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.3 
+Defined features 
+Check T1.1 
+-20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.4 
+Total width 
+ 
+Min: 65 Max: 85 
+-5 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+T3.5 
+Total height  (8g Pack) 
+ 
+Max: 65 
+-5 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+T3.6 
+Total weight  
+ 
+Min: 48.0g 
+-10 
+g 
+g 
+ 
+ 
+ 
+ 
+ 
+T3.7 
+Track clearance (8g Pack) 
+ 
+Min: 1.5 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.8 
+Status during racing 
+Nothing removed 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T3.9 
+Replacement Components 
+Identical to fitted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nose Cone & Front Wing Assembly 
+Max: 2  
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Rear Wing Assembly 
+Max: 2 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Front Wheels 
+Max: 4 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Front Wheel Support Structure 
+Max: 2 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Rear Wheels 
+Max: 4 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Rear Wheel Support Structure 
+Max: 2 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Front tether line guide  
+Max: 2 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Rear tether line guide  
+Max: 2 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 Notes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 53 of 63 
+ 
+ 
+ 
+3 June 2026 
+Specifications Scorecard
+ 
+For clarification on individual regulations, refer to the World Finals Technical Regulations. 
+Please enter ✓ for a pass and F for a fail 
+(8g Pack) – measured with full 8g race power pack cartridges 
+Team Number: 
+Team Name:  
+Country:  
+ 
+Initial Scrutineering 
+Amendments 
+ 
+Reg 
+Regulation Overview 
+Min/Max 
+Quick Guide 
+Penalty 
+per Car 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Remarks 
+ARTICLE T4 – BODY 
+T4.1 
+Body construction 
+SR Model Block only 
+-20 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.2 
+Virtual cargo – See T4.2 for dims 
+Between axles 
+-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.3 
+Virtual cargo identification 
+Check Eng. drawing 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.4.1 
+Halo 
+Halo exists 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.4.2 
+Halo visibility front and side views 
+Side & front view 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.4.3 
+Halo visibility 
+Refer to Article T4.4.3 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.4.4 
+Halo circular notch height 
+34.0 (±1.0) 
+-5 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+T4.4.5 
+Halo safety test 
+1kg test, safe to race 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.4.6 
+Halo safety test 
+300g static load 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.5 
+Helmet 
+Included 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.6 
+STEM Racing logo decal location 
+Between Front & Rear 
+wheels 100% Visible 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.7 
+Team Number 
+Min: 8.0 
+-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T4.8 
+Decal Thickness 
+Max: 0.5 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ARTICLE T5 – RACE POWER PACK CARTRIDGE CHAMBER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5.1 
+Diameter 
+Min: 18 Max: 18.5 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5.2 
+Distance from track surface (8g Pack) 
+ 
+Min: 30  Max: 40 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5.3 
+Depth 
+ 
+Min: 45  Max: 58 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5.4 
+Max angle of chamber (8g Pack) 
+Min: -3°  Max: 3° 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5.5 
+Chamber safety zone (8g Pack) 
+Min: 3 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T5.6 
+Power unit cartridge visibility (8g Pack) 
+ 
+Min: 5mm 
+top view 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ARTICLE T6 – TETHER LINE GUIDES 
+T6.1 
+Location 
+10mm in front / front axle 
+10mm behind / rear axle 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T6.2 
+Internal diameter 
+Min: 3.5  Max: 6 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T6.3 
+Tether line guide safety 
+200g test, safe to race 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 Notes: 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 54 of 63 
+ 
+ 
+ 
+3 June 2026 
+Specifications Scorecard
+ 
+For clarification on individual regulations, refer to the World Finals Technical Regulations. 
+Please enter ✓ for a pass and F for a fail 
+(8g Pack) – measured with full 8g race power pack cartridges 
+Team Number: 
+Team Name:  
+Country:  
+ 
+Initial Scrutineering 
+Amendments 
+ 
+Reg 
+Regulation Overview 
+Min/Max 
+Quick Guide 
+Penalty 
+per Car 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Remarks 
+ARTICLE T7 – WHEELS AND WHEEL SUPPORT STRUCTURES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.1 
+Number and location 
+4, 2 x 2 
+-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.2.1 
+Distance between opposing wheels – Front 
+ 
+Front Min: 38 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.2.2 
+Distance between opposing wheels – Rear  
+ 
+Rear Min: 34 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.3 
+Wheelbase  
+ 
+Min: 120 Max: 140 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.4 
+Track contact width  
+ 
+Front Min: 13  
+Rear Min: 17  
+ 
+Front Min: 12  
+Rear Min: 15  
+exc. chamfer/fillet 
+-2.5 
+per 
+wheel 
+FL:                              mm FL:                              mm 
+ 
+ 
+ 
+ 
+ 
+FR: 
+FR: 
+ 
+ 
+ 
+ 
+ 
+RL:                             mm RL:                             mm 
+ 
+ 
+ 
+ 
+ 
+RR: 
+RR: 
+ 
+ 
+ 
+ 
+ 
+T7.5 
+Diameter 
+ 
+Min: 28   
+Max: 32 
+-2.5 
+per 
+wheel 
+FL:                              mm FL:                              mm 
+ 
+ 
+ 
+ 
+ 
+FR: 
+FR: 
+ 
+ 
+ 
+ 
+ 
+RL:                             mm RL:                             mm 
+ 
+ 
+ 
+ 
+ 
+RR: 
+RR: 
+ 
+ 
+ 
+ 
+ 
+T7.6 
+Racetrack contact (8g Pack) 
+All 4 in contact 
+-2.5 
+per 
+wheel 
+FL: 
+FL: 
+ 
+ 
+ 
+ 
+ 
+FR: 
+FR: 
+ 
+ 
+ 
+ 
+ 
+RL: 
+RL: 
+ 
+ 
+ 
+ 
+ 
+RR: 
+RR: 
+ 
+ 
+ 
+ 
+ 
+T7.7 
+Rolling surface 
+Consistent,  
+no tread 
+-2.5  
+per wheel 
+FL: 
+FL: 
+ 
+ 
+ 
+ 
+ 
+FR: 
+FR: 
+ 
+ 
+ 
+ 
+ 
+RL: 
+RL: 
+ 
+ 
+ 
+ 
+ 
+RR: 
+RR: 
+ 
+ 
+ 
+ 
+ 
+T7.8 
+Rotation 
+Abs. Max rolling 
+incline: 3° 
+-5  
+per wheel 
+FL: 
+FL: 
+ 
+ 
+ 
+ 
+ 
+FR: 
+FR: 
+ 
+ 
+ 
+ 
+ 
+RL: 
+RL: 
+ 
+ 
+ 
+ 
+ 
+RR: 
+RR: 
+ 
+ 
+ 
+ 
+ 
+Page 3 notes: 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 55 of 63 
+ 
+ 
+ 
+3 June 2026 
+Specifications Scorecard
+ 
+For clarification on individual regulations, refer to the World Finals Technical Regulations. 
+Please enter ✓ for a pass and F for a fail 
+(8g Pack) – measured with full 8g race power pack cartridges 
+Team Number: 
+Team Name:  
+Country:  
+ 
+Initial Scrutineering 
+Amendments 
+ 
+Reg 
+Regulation Overview 
+Min/Max 
+Quick Guide 
+Penalty 
+per Car 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Remarks 
+ARTICLE T7 – WHEELS AND WHEEL SUPPORT STRUCTURES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.9 
+Visibility in top and bottom views 
+In front of front wheels 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behind front wheels  
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In front of rear wheels 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Behind rear wheels 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.10 
+Visibility in side views 
+Side views 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.11 
+Visibility in front view (8g Pack) 
+ 
+Max obscured 20mm 
+-10 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+T7.12.1 
+Wheel support systems 
+Cylindrical volume 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.12.2 
+Wheel support systems identification 
+Check Eng. drawing 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.13 
+Wheel Safety Test 
+100g test per wheel 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T7.14 
+Wheel Change System Challenge 
+Optional pit stop 
+challenge – wheel 
+change mechanism 
+must function safely; 
+judged for PIT STOP 
+Award 
+Optional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 notes: 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 56 of 63 
+ 
+ 
+ 
+3 June 2026 
+Specifications Scorecard
+ 
+For clarification on individual regulations, refer to the World Finals Technical Regulations. 
+Please enter ✓ for a pass and F for a fail 
+(8g Pack) – measured with full 8g race power pack cartridges 
+Team Number: 
+Team Name:  
+Country:  
+ 
+Initial Scrutineering 
+Amendments 
+ 
+Reg 
+Regulation Overview 
+Min/Max 
+Quick Guide 
+Penalty 
+per Car 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Car 
+A 
+Car  
+B 
+CoJ 
+CS 
+Remarks 
+ARTICLE T8 – NOSE, FRONT WING AND WING SUPPORT STRUCTURES 
+T8.1 
+Nose, front wing & wing support structure identification 
+Check Eng. drawing 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.2 
+Nose cone assembly dimension 
+Max: 40 
+-5 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.3 
+Front wing(s) description and placement 
+Wings exist 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.4 
+Front wing(s) construction and rigidity 
+Span constant during 
+racing + rigid 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.5.1 
+Nose and wing support structure location 
+In front of Reference 
+Plane A & below 25mm 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.5.2 
+Front wing location 
+In front of Reference 
+Plane A & below 20mm 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.5.3 
+Front wing and end plate location 
+Outside the minimum 
+legal span 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.6.1 
+Front wing span 
+ 
+Min: 50 
+-2 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.6.2 
+Front wing chord 
+ 
+Min: 15 Max: 25 
+-1 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.6.3 
+Front wing thickness 
+ 
+Min: 2 Max: 6 
+-1 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.7 
+Front wing clear airflow 
+5mm clear ‘air’ space 
+-5 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T8.8 
+Front wing visibility 
+Visible and not 
+obstructed in front 
+view 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ARTICLE T9 – REAR WING AND WING SUPPORT STRUCTURES 
+ 
+T9.1 
+Rear wing and wing support structure identification 
+Check Eng drawing 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.2 
+Rear wing(s) description and placement 
+Wings exist 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.3 
+Rear wing(s) construction and rigidity 
+Span constant during 
+racing + rigid 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.4.1 
+Rear wing and wing support structure location 
+Wing + Support rear of 
+reference plane B 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.4.2 
+Rear overhang length 
+Max 40 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.4.3 
+Rear overhang height 
+Max: 65 
+-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.5.1 
+Rear wing span 
+ 
+Min: 50 
+-2 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.5.2 
+Rear wing chord 
+ 
+Min: 15 Max: 25 
+-1 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.5.3 
+Rear wing thickness 
+ 
+Min: 2 Max: 6 
+-1 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.5.4 
+Rear wing height deviation 
+ 
+Max: 15 
+-1 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.6 
+Rear wing clear airflow 
+Min: 5 
+-5 
+mm 
+mm 
+ 
+ 
+ 
+ 
+ 
+ 
+T9.7 
+Rear wing visibility 
+Visible and not 
+obstructed in front 
+view 
+-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 notes: 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 57 of 63 
+ 
+ 
+ 
+3 June 2026 
+Race  Procedure &
+ Troubleshooting 
+Flowc hart  
+ 
+ 
+ 
+ 
+No
+No
+ es
+ es
+ es
+No
+ es
+No
+No
+No
+ es
+ es
+ es
+ es
+No
+ es
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 58 of 63 
+ 
+ 
+ 
+3 June 2026 
+Pit Display Reference Dimensions
+ 
+Teams must design their pit displays using the estimated dimensions stated below. Detailed dimensions will 
+be confirmed closer to event. At the discretion of the Chair of Judges, a penalty of up to 20 points may be 
+applied for teams working outside these dimensions. 
+Pit Header Board Graphic (area highlighted pink): as stated, pit booths will be fitted with an event branded 
+header board by STEM Racing™. Light(s) shall be provided behind the header board as part of the standard 
+build. The pit display must be designed in such a way that it fits without removal of the header board or lights. 
+ 
+ 
+240cm 
+BOOTH: 
+295cm wide 
+95cm deep 
+240cm high 
+HEADER: 
+300cm wide 
+30cm deep 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 59 of 63 
+ 
+ 
+ 
+3 June 2026 
+PIT STOP (Wheel Change System Challenge) 
+-  Optional  
+Instructions and procedures to participate (Refer to Technical Regulation T7.14): 
+1. WHEN – This optional challenge will be available during the team’s allocated LIVE Scrutineering session  
+2. WHO – The team must select one team member to perform the challenge. 
+3. CHALLENGE PREPARATION – Preparation and participation will not exceed 10 minutes. 
+4. CHALLENGE DURATION – You will have a maximum time of 60 seconds from start to finish to complete the 
+wheel replacement. 
+5. MATERIALS  
+a. You will need to select one of your submitted competition cars (A or B) to perform the challenge. 
+b. You must use one replacement wheel assembly that has been officially submitted and scrutineered. 
+c. Only components officially submitted for competition may be used. 
+d. No additional fasteners, spare retention devices, or undeclared components may be introduced. 
+6. TOOLS  
+a. Teams may bring their own manual hand tools required to operate their wheel retention system (e.g., hex 
+keys, screwdrivers, spanners). 
+b. All tools must be presented before the timed attempt. 
+c. Powered or electrically assisted tools are not permitted. 
+7. WORKSPACE – A designated table will be prepared with clearly marked areas for: 
+a. Car placement 
+b. Replacement wheel assembly 
+c. Spare and Removed wheel 
+d. Finish Zone 
+8. RECORDING & TIMING – The challenge will be recorded and timed from start to finish by Competition Officials. 
+9. INSTRUCTIONS 
+a. The selected team member places the chosen car, replacement wheel, and tools in the designated areas. 
+b. The team must clearly identify which wheel will be removed and replaced. 
+c. Competition Officials will confirm readiness. 
+d. Challenge starts: 
+i. The team member positions their hands away from the car. 
+ii. On instruction, timing begins. 
+iii. The team member removes the selected wheel assembly and places it in the allocated area. 
+iv. The team member installs the replacement wheel assembly onto the car. 
+v. The team member secures the wheel using the approved retention method. 
+vi. The fully assembled car is placed completely within the designated Finish Zone. 
+e. Timing stops when the car is fully positioned in the Finish Zone. 
+f. 
+Following the attempt, Officials will inspect the installation to confirm that: 
+i. The wheel is securely installed. 
+ii. The wheel rotates freely. 
+iii. No undeclared components were used. 
+iv. If the installation does not meet these requirements, the attempt will be declared invalid. 
+10. EVALUATION – Judges will evaluate systems based on mechanical integrity, clarity of the locking mechanism, 
+and achieved replacement time. 
+11. IMPORTANT – Teams must be careful when participating in the challenge. Any damage to car components 
+remains the responsibility of the team. 
+12. AWARD NOMINATIONS – Judges will select 3 teams to be nominated for the Pit Stop Award. 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 60 of 63 
+ 
+ 
+ 
+3 June 2026 
+AI Assistance and Verification Log
+ 
+STEM Racing
+™ — Portfolio Appendix Template
+ 
+Team Name: 
+ 
+Team Number: 
+ 
+Country:  
+Judging 
+ 
+Date Prepared: 
+ 
+Instructions: Complete one row for each instance where an AI tool was used in your project.  
+This log should be included as an appendix in your portfolio submission. All entries must be completed before the final submission to the judges. 
+Entry # 
+Date 
+AI Tool & 
+Version 
+Prompt / Task Description 
+How Output Was Used & Modified 
+Verification Steps Taken 
+Responsible Team 
+Member 
+Example 
+15 Jan 2026 
+ChatGPT (GPT-4o) 
+"Explain how wing angle affects 
+downforce on a model racing car at 
+speeds under 10 m/s" 
+Used AI explanation to inform our wing angle 
+range (5°–15°). Team then ran our own wind 
+tunnel tests and selected 10° based on 
+results. 
+Cross-checked with NASA aero 
+basics page. Validated through 
+team testing. 
+A. Smith (Design Lead) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Teams may add additional rows as needed. 
+ 
+Team Declaration
+ 
+We confirm that all AI tool usage in our project has been documented in this log.  
+We understand that the content generated by AI tools can explain our reasoning to judges and have verified all AI outputs against reliable sources. All final creative and technical decisions are 
+our own. 
+Team Manager 
+Teacher/Mentor Approval 
+Name 
+ 
+Name 
+ 
+Role 
+ 
+Role 
+ 
+Signature 
+ 
+Signature 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 61 of 63 
+ 
+ 
+ 
+3 June 2026 
+P hysical P
+roject Element Submission Checklist
+ 
+Team Number: 
+Team Name:  
+Country: 
+Project Element 
+Checked  
+by Team  
+Received by 
+STEM Racing™   
+Comments:  
+(Completed by STEM Racing™ Officials only) 
+A4 Engineering drawings 
+TEAM TICK 
+STEM RACINGS TICK 
+ 
+A4 Car renders 
+TEAM TICK 
+STEM RACINGS TICK 
+ 
+Design & Engineering Portfolios (2) 
+TEAM TICK 
+STEM RACINGS TICK 
+ 
+Enterprise Portfolios (2) 
+TEAM TICK 
+STEM RACINGS TICK 
+ 
+Project Management Portfolios (2) 
+TEAM TICK 
+STEM RACINGS TICK 
+ 
+Team Partnerships declaration  
+ 
+ 
+Must be submitted digitally 
+Electronic copy of all data 
+ 
+ 
+Must be submitted digitally 
+RACE CARS: 
+1 x Car A (Ready-to-Race) 
+TEAM TICK 
+STEM RACINGS TICK 
+Weight:                                                                          g 
+1 x Car B (Ready-to-Race) 
+TEAM TICK 
+STEM RACINGS TICK 
+Weight:                                                                          g 
+1 x Halo and 1 x Helmet identical to those 
+used on car A & B  
+TEAM TICK 
+STEM RACINGS TICK 
+Must be separate components 
+1 x Fully machined, unfinished, 
+unassembled STEM RACING model block 
+car body 
+TEAM TICK 
+STEM RACINGS TICK 
+ 
+OPTIONAL COMPONENTS: (Maximum of three car sets per item) 
+Nose cone & front wing assembly  
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of two (2) - Sets Submitted: 
+ 
+Rear wing assembly 
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of two (2) - Sets Submitted: 
+ 
+Front wheels 
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of four (4) - Sets Submitted: 
+ 
+Front wheel support structure 
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of two (2) - Sets Submitted: 
+ 
+Rear wheels 
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of four (4) - Sets Submitted: 
+ 
+Rear wheel support structure 
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of two (2) - Sets Submitted: 
+ 
+Front tether line guide  
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of two (2) - Sets Submitted: 
+ 
+Rear tether line guide  
+TEAM TICK 
+STEM RACINGS TICK 
+Maximum of two (2) - Sets Submitted: 
+ 
+3 x Official STEM RACING Model Block 
+Holographic Stickers 
+ 
+SIGN-OFF BY 
+TEAM MEMBER: 
+STEM RACING™ OFFICIAL: 
+Name 
+ 
+ 
+Signature 
+ 
+ 
+ 
+ 
+ 
+Car A 
+sticker 
+here 
+Car B 
+sticker 
+here 
+Car Body 
+sticker 
+here 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 62 of 63 
+ 
+ 
+ 
+3 June 2026 
+Mandatory table of contents for Engineering Drawings 
+ 
+Teams MUST include the following Engineering Drawing Table of Contents 
+1. Orthographic drawings with detailed dimensions of fully assembled car indicating regulation 
+compliance 
+2. Exploded isometric drawing with key to main components 
+a. Car body 
+b. Virtual cargo 
+c. Chamber 
+d. Tether line guides 
+e. Front wheels / wheel support system 
+f. 
+Rear wheels / Wheel support system 
+g. Nose cone 
+h. Front wing / support structure 
+i. 
+Rear wing / support structure 
+3. Orthographic drawings with detailed dimensions of virtual cargo including a sectioned view. 
+4. Location of official STEM Racing™ decals dimensioned from key structural parts (eg wheel centre). 
+5. Chamber details including wall thickness and depth. 
+6. Orthographic drawings with detailed dimensions of tether line guides. 
+7. Orthographic drawings of wheels with sectioned view and detailed dimensions. 
+8. Orthographic drawings with detailed dimensions of front wheels / wheel support system. 
+9. Orthographic drawings with detailed dimensions of rear wheels / wheel support system. 
+10. Orthographic drawings with detailed dimensions of nose cone. 
+11. Orthographic drawings with detailed dimensions of front wing and support structure highlighting wing 
+surface/boundary. 
+12. Orthographic drawings with detailed dimensions of rear wing and support structure highlighting wing 
+surface/boundary. 
+13. Detailed description of intended quality and finish in relation to individual components / assembled 
+car. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+©2026/27 – STEM Racing™ Ltd. 
+Page 63 of 63 
+ 
+ 
+ 
+3 June 2026 
+ 
+ 
+Please make sure you have also read the  
+Aramco STEM Racing™ World Finals 2026 
+ Technical Regulations 
+ 
+ 
+For Official Technical & Competition Regulations Clarifications please email us at  
+global-admin@stemracing.com . All official clarifications will be posted on our official website. 
+ 
+ 
+ 
+Work hard,
+ 
+see you at the
+ 
+ World Finals!
+ 
+ 
+If you need any help at all, just get in touch with us: 
+ 
+STEM RACING™  
+ 
+ 
++44 (0)20 7344 5390 
+global-admin@stemracing.com 
+www.stemracing.com 
+ 

@@ -1,0 +1,18 @@
+# Allowlist: ignore everything, then publish only these.
+/*
+!/.gitignore
+!/server.py
+!/voice.html
+!/login.html
+!/knowledge.md
+!/config.json
+!/logo.jpeg
+!/README.md
+!/requirements.txt
+!/render.yaml
+!/START-MAC.command
+!/rules/
+/rules/*
+!/rules/*.txt
+!/tests/
+__pycache__/
