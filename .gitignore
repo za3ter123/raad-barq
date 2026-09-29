@@ -15,4 +15,5 @@
 /rules/*
 !/rules/*.txt
 !/tests/
+!/docs/
 __pycache__/

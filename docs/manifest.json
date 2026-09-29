@@ -1,0 +1,18 @@
+{
+ "name": "Barq Racing · Ra'ad",
+ "short_name": "Ra'ad",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "landscape",
+ "background_color": "#000000",
+ "theme_color": "#000000",
+ "icons": [
+  {
+   "src": "logo.jpeg",
+   "sizes": "432x432",
+   "type": "image/jpeg",
+   "purpose": "any"
+  }
+ ]
+}

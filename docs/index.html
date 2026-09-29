@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex" />
+<title>Barq Racing · Ra'ad</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{background:#000;}
+  body{min-height:100vh;min-height:100svh;display:flex;align-items:center;justify-content:center;padding:24px 20px;
+       font-family:-apple-system,'Segoe UI',sans-serif;color:#67C9FA;}
+  form{width:100%;max-width:360px;display:flex;flex-direction:column;gap:14px;
+       padding:32px 26px;border:1px solid rgba(103,201,250,.3);border-radius:18px;
+       background:radial-gradient(circle at 50% 0,rgba(103,201,250,.10),rgba(0,0,0,0) 70%);
+       box-shadow:0 0 48px rgba(103,201,250,.12);}
+  img{width:64px;height:64px;border-radius:14px;align-self:center;
+      box-shadow:0 0 24px rgba(103,201,250,.35);}
+  h1{font-size:1.6rem;font-weight:600;text-align:center;margin-bottom:4px;
+     text-shadow:0 0 12px rgba(103,201,250,.6);}
+  label{display:flex;flex-direction:column;gap:6px;font-size:.85rem;color:rgba(103,201,250,.8);}
+  input{font:inherit;font-size:16px;color:#fff;background:#000;padding:12px 14px;
+        border:1px solid rgba(103,201,250,.35);border-radius:10px;}
+  input:focus{outline:none;border-color:#67C9FA;box-shadow:0 0 0 3px rgba(103,201,250,.25);}
+  button{min-height:44px;margin-top:6px;font:inherit;font-size:16px;font-weight:600;
+         color:#000;background:#67C9FA;border:0;border-radius:10px;cursor:pointer;
+         box-shadow:0 0 18px rgba(103,201,250,.45);}
+  button:hover{background:#8ad6fb;}
+  button:focus-visible{outline:2px solid #fff;outline-offset:2px;}
+  .err{min-height:1.2em;font-size:.85rem;text-align:center;color:#ff8a8a;}
+</style>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Ra'ad" />
+<meta name="theme-color" content="#000000" />
+<link rel="apple-touch-icon" href="logo.jpeg" />
+<link rel="manifest" href="manifest.json" />
+</head>
+<body>
+<form onsubmit="return false">
+  <img src="logo.jpeg" alt="Barq Racing logo" />
+  <h1>Barq Racing · Ra'ad</h1>
+  <label>Email
+    <input name="email" type="email" autocomplete="username" required autofocus />
+  </label>
+  <label>Password
+    <input name="password" type="password" autocomplete="current-password" required />
+  </label>
+  <p class="err" role="alert"></p>
+  <button type="submit">Log in</button>
+</form>
+<script>
+/* unlock the key vault in the browser; nothing is sent anywhere */
+(function(){
+  const KEYS='raad_keys',f=document.querySelector('form'),err=document.querySelector('.err'),btn=f.querySelector('button');
+  if(sessionStorage.getItem(KEYS)){location.replace('app.html');return;}
+  const bytes=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+  f.addEventListener('submit',async e=>{
+    e.preventDefault();err.textContent='';btn.disabled=true;
+    try{
+      const v=await (await fetch('vault.json',{cache:'no-store'})).json();
+      const secret=f.elements.email.value.trim().toLowerCase()+'\n'+f.elements.password.value;
+      const base=await crypto.subtle.importKey('raw',new TextEncoder().encode(secret),'PBKDF2',false,['deriveKey']);
+      const key=await crypto.subtle.deriveKey({name:'PBKDF2',hash:'SHA-256',salt:bytes(v.salt),iterations:600000},
+        base,{name:'AES-GCM',length:256},false,['decrypt']);
+      const pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:bytes(v.iv)},key,bytes(v.ct));
+      sessionStorage.setItem(KEYS,new TextDecoder().decode(pt));
+      location.replace('app.html');
+    }catch(x){err.textContent='Wrong email or password.';btn.disabled=false;}
+  });
+})();
+</script>
+</body>
+</html>

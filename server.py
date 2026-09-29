@@ -119,14 +119,21 @@ def build_system(cfg):
 
 
 # ---------- STT: Groq Whisper (multipart via stdlib) ----------
+def audio_ext(mime):
+    """Filename extension for the upload: Groq picks the decoder from it. Safari records audio/mp4 (AAC)."""
+    m = mime.lower()
+    return ("webm" if "webm" in m else "ogg" if "ogg" in m
+            else "m4a" if ("mp4" in m or "m4a" in m or "aac" in m)
+            else "mp3" if ("mpeg" in m or "mp3" in m) else "wav")
+
+
 def stt_groq(audio_bytes, mime, cfg):
     """Returns (transcript, language_code) e.g. ('hello', 'en') / ('مرحبا', 'ar')."""
     key = cfg["groq_api_key"]
     if not key:
         raise RuntimeError("no Groq API key set (config.json or GROQ_API_KEY)")
     boundary = uuid.uuid4().hex
-    ext = ("webm" if "webm" in mime else "ogg" if "ogg" in mime
-           else "mp4" if ("mp4" in mime or "m4a" in mime or "aac" in mime) else "wav")
+    ext = audio_ext(mime)
     parts = []
     # Whisper prompt = fake preceding transcript in Kuwaiti register (Whisper continues
     # style, it doesn't follow instructions) — biases dialect decoding + proper-noun spelling
@@ -155,6 +162,46 @@ def stt_groq(audio_bytes, mime, cfg):
     lang = out.get("language", "en").lower()  # comes back as "english"/"arabic"
     lang = "ar" if lang.startswith("ar") else "en"
     return out.get("text", "").strip(), lang
+
+
+# ---------- STT fallback: ElevenLabs Scribe, used only when Groq fails ----------
+SCRIBE = "https://api.elevenlabs.io/v1/speech-to-text"
+
+
+def stt_scribe(audio_bytes, mime, cfg):
+    """Same return shape as stt_groq. language_code comes back as 'en'/'ar' or 'eng'/'ara'."""
+    boundary = uuid.uuid4().hex
+    ext = audio_ext(mime)
+    parts = [("--%s\r\nContent-Disposition: form-data; name=\"%s\"\r\n\r\n%s\r\n"
+              % (boundary, name, val)).encode()
+             for name, val in (("model_id", "scribe_v2"), ("tag_audio_events", "false"))]
+    parts.append(("--%s\r\nContent-Disposition: form-data; name=\"file\"; filename=\"a.%s\"\r\n"
+                  "Content-Type: %s\r\n\r\n" % (boundary, ext, mime)).encode())
+    parts += [audio_bytes, ("\r\n--%s--\r\n" % boundary).encode()]
+    req = urllib.request.Request(SCRIBE, data=b"".join(parts), headers={
+        "xi-api-key": cfg["elevenlabs_api_key"],
+        "Content-Type": "multipart/form-data; boundary=" + boundary,
+    })
+    with urllib.request.urlopen(req, timeout=60) as r:
+        out = json.loads(r.read())
+    lang = (out.get("language_code") or "en").lower()
+    lang = "ar" if lang.startswith("ar") else "en"
+    return (out.get("text") or "").strip(), lang
+
+
+def stt(audio_bytes, mime, cfg):
+    """Groq first; on ANY Groq failure (bad/missing key, 429, 5xx, network) try Scribe once.
+    Never both in parallel. Without an ElevenLabs key the Groq error stands."""
+    try:
+        return stt_groq(audio_bytes, mime, cfg)
+    except Exception as e:
+        if not cfg["elevenlabs_api_key"]:
+            raise
+        groq_err = e
+    try:
+        return stt_scribe(audio_bytes, mime, cfg)
+    except Exception as e:
+        raise RuntimeError("groq: %s; scribe: %s" % (groq_err, e))
 
 
 # ---------- LLM: DeepSeek, falling back to local Ollama ----------
@@ -673,7 +720,7 @@ class H(http.server.BaseHTTPRequestHandler):
             self._send(400, json.dumps({"error": "bad request"}))
             return
         try:
-            heard, lang = stt_groq(audio, mime, cfg)
+            heard, lang = stt(audio, mime, cfg)
         except Exception as e:
             self._send(200, json.dumps({"woke": False, "error": "stt: %s" % e}))
             return
@@ -727,10 +774,12 @@ if __name__ == "__main__":
     SESSION_KEY = hashlib.sha256((os.environ.get("RAAD_SESSION_SECRET")
                                   or LOGIN_EMAIL + "\n" + LOGIN_PASSWORD).encode()).digest()
     brain = "DeepSeek API" if cfg["deepseek_api_key"] else "local Ollama (%s)" % cfg["ollama_fallback_model"]
-    stt = "Groq Whisper" if cfg["groq_api_key"] else "MISSING GROQ KEY — voice will not work"
+    ears = ("Groq Whisper" + (" (ElevenLabs Scribe fallback)" if cfg["elevenlabs_api_key"] else "")
+            if cfg["groq_api_key"] else "ElevenLabs Scribe only (no Groq key)" if cfg["elevenlabs_api_key"]
+            else "MISSING GROQ KEY — voice will not work")
     voice_out = "ElevenLabs Flash (AR+EN)" if cfg["elevenlabs_api_key"] else "Edge neural (free fallback)"
     print("Ra'ad / Thunder on http://%s:%d  (login required)" % (HOST, PORT))
-    print("  brain: %s | stt: %s | tts: %s" % (brain, stt, voice_out), flush=True)
+    print("  brain: %s | stt: %s | tts: %s" % (brain, ears, voice_out), flush=True)
     if os.environ.get("RENDER_EXTERNAL_URL"):  # set by Render only; nothing happens locally
         threading.Thread(target=keep_awake, args=(os.environ["RENDER_EXTERNAL_URL"].rstrip("/"),),
                          daemon=True).start()
