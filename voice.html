@@ -2,50 +2,77 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <title>Barq Racing · AI Assistant</title>
 <style>
+  :root{
+    --sky:#67C9FA; --ink:#e6f6ff; --mute:rgba(103,201,250,.62); --line:rgba(103,201,250,.3);
+    --font:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'SF Arabic','Geeza Pro','Noto Sans Arabic',Tahoma,sans-serif;
+  }
   *{margin:0;padding:0;box-sizing:border-box;}
-  html,body{height:100%;overflow:hidden;background:#000;}
-  canvas{display:block;width:100vw;height:100vh;touch-action:none;}
-  body{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;}
-  #ui{position:fixed;left:0;right:0;bottom:0;pointer-events:none;
-      font-family:-apple-system,'Segoe UI',sans-serif;text-align:center;
-      padding:56px 22px calc(26px + env(safe-area-inset-bottom));
-      background:linear-gradient(to top,rgba(0,0,0,.92) 45%,rgba(0,0,0,0));
-      display:flex;flex-direction:column;align-items:center;gap:10px;}
-  #ui>p,#hint{width:100%;max-width:640px;}
+  html,body{height:100%;overflow:hidden;background:#000;color:var(--ink);font-family:var(--font);
+    touch-action:none;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;}
+  body{display:grid;grid-template-rows:auto minmax(0,1fr) auto;height:100vh;height:100dvh;}
+
+  header{display:flex;justify-content:space-between;align-items:center;
+    padding:calc(18px + env(safe-area-inset-top)) 22px 0;font-size:.7rem;font-weight:600;letter-spacing:.22em;color:var(--mute);}
+  .brand{display:flex;align-items:center;gap:10px;}
+  .mark{height:20px;width:auto;display:block;}
+  header .ar{letter-spacing:0;font-size:.85rem;font-weight:500;}
+
+  #stage{position:relative;min-height:0;}
+  canvas{position:fixed;inset:0;width:100%;height:100%;display:block;z-index:0;}
+  header,#ui{position:relative;z-index:1;}
+  .nogl #stage{background:radial-gradient(circle at 50% 50%,#67C9FA 0,#0a18d8 18%,#020a50 30%,#000 44%);}
+
+  #ui{display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:12px;
+    min-height:9.5rem;padding:4px 24px calc(30px + env(safe-area-inset-bottom));text-align:center;}
+  #ui>p,#hint{width:100%;max-width:44rem;}
   #ui p:empty{display:none;}
-  #state{display:none;align-items:center;gap:8px;padding:6px 14px;border-radius:999px;
-         border:1px solid rgba(103,201,250,.35);background:rgba(103,201,250,.08);
-         color:#67C9FA;font-size:.8rem;font-weight:600;letter-spacing:.08em;}
+
+  #state{display:none;align-items:center;gap:9px;padding:6px 14px 6px 12px;border-radius:999px;
+    border:1px solid var(--line);background:rgba(103,201,250,.07);color:var(--sky);font-size:.76rem;font-weight:600;}
   body:not([data-state=idle]) #state{display:inline-flex;}
-  .dot{width:8px;height:8px;border-radius:50%;background:#67C9FA;
-       animation:pulse 1.1s ease-in-out infinite;}
-  body[data-state=thinking] .dot{animation-duration:.6s;}
-  @keyframes pulse{50%{opacity:.25;transform:scale(.7);}}
-  #heard{font-size:.95rem;line-height:1.45;color:rgba(103,201,250,.6);}
-  #reply{font-size:clamp(1.1rem,4.4vw,1.45rem);line-height:1.5;font-weight:500;color:#e6f6ff;
-         text-shadow:0 0 12px rgba(103,201,250,.45);}
-  #hint{display:none;flex-direction:column;gap:4px;}
+  #stateTxt{display:flex;align-items:center;gap:8px;}
+  #stateTxt .en{letter-spacing:.14em;}
+  #stateTxt .ar{font-size:.86rem;font-weight:500;}
+  #stateTxt .sep{opacity:.45;}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--sky);transition:transform .2s;}
+  body[data-state=listening] .dot{background:#fff;}
+  body[data-state=thinking] .dot{animation:pulse .7s ease-in-out infinite;}
+  @keyframes pulse{50%{opacity:.25;transform:scale(.6);}}
+
+  #heard{font-size:1rem;line-height:1.45;color:var(--mute);}
+  #reply{font-weight:500;color:var(--ink);line-height:1.42;text-wrap:balance;
+    font-size:clamp(1.2rem,4.8vw,1.95rem);}
+  body[data-len=m] #reply{font-size:clamp(1.1rem,4.3vw,1.6rem);}
+  body[data-len=l] #reply{font-size:clamp(1rem,3.9vw,1.3rem);line-height:1.5;}
+  #reply,#heard{transition:opacity .35s ease;}
+  body[data-state=listening] #reply,body[data-state=thinking] #reply{opacity:.35;}
+
+  #hint{display:none;flex-direction:column;gap:5px;}
   body[data-state=idle] #hint{display:flex;}
-  #hintEn{font-size:1.05rem;font-weight:600;color:#67C9FA;}
-  #hintAr{font-size:1rem;color:rgba(103,201,250,.6);}
-  #start{position:fixed;inset:0;display:flex;flex-direction:column;gap:8px;align-items:center;
-       justify-content:center;background:rgba(0,0,0,.85);color:#67C9FA;border:0;cursor:pointer;
-       font-family:-apple-system,'Segoe UI',sans-serif;font-size:1.3rem;font-weight:600;}
-  #start span{font-size:1rem;font-weight:400;color:rgba(103,201,250,.6);}
-  @media (prefers-reduced-motion:reduce){.dot{animation:none;}}
+  body.has-reply #hint{padding-top:6px;}
+  #hintEn{font-size:1.05rem;font-weight:600;color:var(--sky);}
+  #hintAr{font-size:1rem;color:var(--mute);}
+
+  #start{position:fixed;inset:0;display:flex;flex-direction:column;gap:10px;align-items:center;justify-content:center;
+    background:rgba(0,0,0,.86);color:var(--sky);border:0;cursor:pointer;font:600 1.3rem var(--font);}
+  #start span{font-size:1rem;font-weight:400;color:var(--mute);}
+  #start:focus-visible{outline:2px solid var(--sky);outline-offset:-10px;}
+  @media (min-width:900px){ #ui{padding-bottom:calc(44px + env(safe-area-inset-bottom));} header{padding:26px 34px 0;} }
+  @media (prefers-reduced-motion:reduce){.dot{animation:none!important;} #reply,#heard{transition:none;}}
 </style>
 </head>
 <body data-state="idle">
-<canvas id="c"></canvas>
-<div id="ui">
-  <div id="state" aria-live="polite"><span class="dot"></span><span id="stateTxt"></span></div>
+<header><div class="brand"><img class="mark" src="data:image/png;base64,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" alt="" aria-hidden="true"><span>BARQ RACING</span></div><span>RA'AD <span class="ar" lang="ar">رعد</span></span></header>
+<main id="stage"><canvas id="c"></canvas></main>
+<section id="ui">
+  <div id="state" aria-live="polite"><span class="dot" id="dot"></span><span id="stateTxt"></span></div>
   <p id="heard" dir="auto"></p>
   <p id="reply" dir="auto" aria-live="polite"></p>
   <div id="hint"><span id="hintEn"></span><span id="hintAr" dir="rtl" lang="ar"></span></div>
-</div>
+</section>
 <button id="start">Tap to start<span dir="rtl" lang="ar">اضغطوا للبدء</span></button>
 
 <script id="vert" type="x-shader/x-vertex">
@@ -54,9 +81,11 @@ void main(){ gl_Position = vec4(p,0.0,1.0); }
 </script>
 <script id="frag" type="x-shader/x-fragment">
 precision highp float;
-uniform vec2 u_res;
+uniform vec2 u_c;       // orb centre, px
+uniform float u_r;      // orb radius, px
 uniform float u_time;
-uniform float u_energy;
+uniform float u_lv;     // voice level 0..1
+uniform vec4 u_w;       // state weights: idle, listening, thinking, speaking
 vec4 permute(vec4 x){return mod(((x*34.0)+1.0)*x,289.0);}
 vec4 taylorInvSqrt(vec4 r){return 1.79284291400159-0.85373472095314*r;}
 float snoise(vec3 v){
@@ -86,72 +115,55 @@ float snoise(vec3 v){
   vec4 m=max(0.6-vec4(dot(x0,x0),dot(x1,x1),dot(x2,x2),dot(x3,x3)),0.0); m=m*m;
   return 42.0*dot(m*m,vec4(dot(p0,x0),dot(p1,x1),dot(p2,x2),dot(p3,x3)));
 }
-float fbm(vec3 p){ float v=0.0,a=0.5; for(int i=0;i<5;i++){v+=a*snoise(p);p*=2.0;a*=0.5;} return v; }
+float fbm(vec3 p){ float v=0.0,a=0.5; for(int i=0;i<4;i++){v+=a*snoise(p);p*=2.03;a*=0.5;} return v; }
 void main(){
-  vec2 uv=(gl_FragCoord.xy-vec2(0.5,0.56)*u_res)/min(u_res.x,u_res.y); // orb a little high, captions below
-  float t=u_time*0.12;
-  float energy=u_energy;
-  float radius=0.30*(1.0+0.015*sin(u_time*0.9)+0.05*energy);
+  vec2 uv=(gl_FragCoord.xy-u_c)/u_r;
+  float t=u_time, lv=u_lv;
+  float listen=u_w.y, think=u_w.z, speak=u_w.w;
+  // listening: the orb draws in and tightens; speaking: it swells with every syllable
+  float R=1.0+0.018*sin(t*0.9)*(1.0-speak)-0.06*listen+0.03*listen*lv+0.10*speak*lv;
   float r=length(uv);
-  vec3 blue=vec3(0.02,0.02,0.94);
-  vec3 sky =vec3(0.40,0.79,0.98);
+  vec3 deep =vec3(0.010,0.050,0.40);
+  vec3 blue =vec3(0.010,0.110,0.92);
+  vec3 sky  =vec3(0.21,0.75,0.97);
+  vec3 white=vec3(0.60,0.90,1.0);
   vec3 col=vec3(0.0);
-  float glow=smoothstep(radius+0.30,radius-0.02,r);
-  col+=mix(blue,sky,0.35)*pow(glow,2.2)*(0.35+0.35*energy);
-  if(r<radius){
-    float z=sqrt(max(radius*radius-r*r,0.0));
-    vec3 n=normalize(vec3(uv,z));
-    vec3 q=n*1.7+vec3(0.0,0.0,t);
-    float f=fbm(q+fbm(q*0.5+t)*0.4);
-    f=0.5+0.5*f;
-    vec3 base=mix(blue,sky,smoothstep(0.25,0.95,f+0.15*energy));
-    float core=smoothstep(radius,0.0,r);
-    base+=sky*pow(core,3.0)*(0.45+0.4*energy);
-    float fres=pow(1.0-z/radius,2.6);
-    base+=sky*fres*0.9;
-    float edge=smoothstep(radius,radius-0.03,r);
-    col=mix(col,base,edge);
+  float d=max(r-R,0.0);
+  // a tight halo, not a fog: it only opens up while Ra'ad speaks
+  col+=mix(blue,sky,0.25)*exp(-d*(6.0-3.0*speak*lv))*(0.16+0.30*speak*lv+0.06*think);
+  // listening: a thin ring hovers just outside the surface and breathes with the mic
+  float ring=exp(-pow((r-R*(1.09+0.07*lv))*34.0,2.0));
+  col+=sky*ring*listen*(0.30+0.70*lv);
+  if(r<R){
+    float z=sqrt(max(R*R-r*r,0.0))/R;
+    vec3 n=normalize(vec3(uv/R,z));
+    float sp=0.08+0.22*speak+0.10*think;
+    vec3 q=n*(1.55-0.25*listen)+vec3(0.0,t*0.03,t*sp);
+    float warp=fbm(q*0.5+t*0.04);
+    float f=0.5+0.5*fbm(q+warp*0.55);
+    float vein=pow(1.0-abs(snoise(q*1.3+warp*0.9+vec3(t*sp*0.6))),7.0);   // thin electric filaments
+    float shade=0.5+0.5*dot(n,normalize(vec3(-0.35,0.55,0.75)));
+    vec3 base=mix(deep,blue,smoothstep(0.15,0.62,f))*(0.55+0.6*shade);
+    base+=sky*vein*(0.45+0.25*listen+0.9*speak*lv)*(0.4+0.6*shade);
+    base+=white*pow(z,3.0)*(0.08+0.40*speak*lv+0.10*listen);
+    float fres=pow(1.0-z,3.0);
+    base+=sky*fres*(0.55+0.35*listen);
+    base*=1.0-0.35*think;                                               // thinking: the orb goes quiet
+    float ang=atan(uv.y,uv.x);
+    base+=white*pow(0.5+0.5*cos(ang-t*2.6),16.0)*fres*think*1.6;   // thinking: a highlight circles the rim
+    base+=white*pow(max(dot(n,normalize(vec3(-0.45,0.6,0.66))),0.0),28.0)*0.22;
+    col=mix(col,base,smoothstep(R,R-1.6/u_r,r));
   }
-  col=col/(col+vec3(0.6))*1.35;
+  col=col/(col+vec3(0.55))*1.42;
   gl_FragColor=vec4(col,1.0);
 }
 </script>
-
 <script>
-/* ---------- orb ---------- */
-const cv=document.getElementById('c');
-const gl=cv.getContext('webgl')||cv.getContext('experimental-webgl');
-function sh(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
-  if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))console.error(gl.getShaderInfoLog(s));return s;}
-const prog=gl.createProgram();
-gl.attachShader(prog,sh(gl.VERTEX_SHADER,document.getElementById('vert').textContent));
-gl.attachShader(prog,sh(gl.FRAGMENT_SHADER,document.getElementById('frag').textContent));
-gl.linkProgram(prog);gl.useProgram(prog);
-const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
-gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,3,-1,-1,3]),gl.STATIC_DRAW);
-const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);
-gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
-const uRes=gl.getUniformLocation(prog,'u_res');
-const uTime=gl.getUniformLocation(prog,'u_time');
-const uEnergy=gl.getUniformLocation(prog,'u_energy');
-function resize(){const dpr=Math.min(window.devicePixelRatio||1,2);
-  cv.width=innerWidth*dpr;cv.height=innerHeight*dpr;gl.viewport(0,0,cv.width,cv.height);}
-addEventListener('resize',resize);resize();
-const E={idle:0.0,listening:0.55,thinking:0.25,speaking:1.0};
-let energy=0,target=0;
-function setState(s){target=E[s]??0;}
-const t0=performance.now();
-(function frame(now){
-  energy+=(target-energy)*0.05;
-  gl.uniform2f(uRes,cv.width,cv.height);
-  gl.uniform1f(uTime,(now-t0)/1000);
-  gl.uniform1f(uEnergy,energy);
-  gl.drawArrays(gl.TRIANGLES,0,3);
-  requestAnimationFrame(frame);
-})(t0);
-
-/* ---------- push-to-talk: hold SPACE (or press and hold the screen) -> record -> release -> POST /voice -> play reply ---------- */
+/* ---------- core: same behaviour as voice.html (push-to-talk, POST /voice, 401 -> /login) ---------- */
 const $=id=>document.getElementById(id);
+const Q=new URLSearchParams(location.search);
+const DEMO=Q.has('demo')||!/^https?:$/.test(location.protocol);
+const RM=matchMedia('(prefers-reduced-motion: reduce)').matches;
 const HOLD=matchMedia('(pointer:coarse)').matches
   ?["Press and hold to talk to Ra'ad",'اضغطوا مطولاً وكلّموا رعد']
   :["Hold SPACE to talk to Ra'ad",'اضغطوا مطولاً على زر المسافة وكلّموا رعد'];
@@ -160,19 +172,73 @@ const MISSED=["Didn't catch that. Hold and try again.",'ما سمعناكم زي
 const SHORT=['Keep holding while you talk.','استمروا بالضغط وانتوا تتكلمون'];
 const MIC=['Microphone is blocked. Allow it and reload.','المايك مقفول، اسمحوا له وحدّثوا الصفحة'];
 const STATES={listening:'LISTENING · أسمعكم',thinking:'THINKING · لحظة',speaking:'SPEAKING · رعد يتكلم'};
-/* one place for every screen state: orb energy, status pill, idle prompt */
-function ui(state,hint){
-  document.body.dataset.state=state;setState(state);
-  $('stateTxt').textContent=STATES[state]||'';
-  const h=hint||HOLD;$('hintEn').textContent=h[0];$('hintAr').textContent=h[1];
+let STATE='idle';
+const on={state:[],show:[]};          // visual hooks
+/* status text: same words as voice.html, split so the Arabic half is never letter-spaced */
+function stateText(s){
+  const el=$('stateTxt'),[en,ar]=(STATES[s]||'').split(' · ');
+  el.textContent='';el.setAttribute('aria-label',STATES[s]||'');
+  if(!en)return;
+  const a=document.createElement('span');a.className='en';a.textContent=en;
+  const d=document.createElement('span');d.className='sep';d.textContent='·';d.setAttribute('aria-hidden','true');
+  const b=document.createElement('span');b.className='ar';b.lang='ar';b.dir='rtl';b.textContent=ar;
+  el.append(a,d,b);
 }
-function show(heard,reply){$('heard').textContent=heard||'';$('reply').textContent=reply||'';}
-ui('idle');
-let busy=false;   // true while thinking/speaking — key ignored
+/* one place for every screen state: visual, status, idle prompt */
+function ui(state,hint){
+  document.body.dataset.state=state;STATE=state;stateText(state);
+  const h=hint||HOLD;$('hintEn').textContent=h[0];$('hintAr').textContent=h[1];
+  on.state.forEach(f=>f(state));
+}
+function show(heard,reply){
+  $('heard').textContent=heard||'';$('reply').textContent=reply||'';
+  const n=(reply||'').length;document.body.dataset.len=n>200?'l':n>90?'m':'s';
+  document.body.classList.toggle('has-reply',!!reply);
+  on.show.forEach(f=>f());
+}
+
+/* ---------- audio level: mic while listening, reply audio while speaking ---------- */
+const AU={ctx:null,mic:null,out:null};
+const TD=new Float32Array(1024),FD=new Uint8Array(512);
+function mkAn(){const a=AU.ctx.createAnalyser();a.fftSize=1024;a.smoothingTimeConstant=.7;return a;}
+function audioInit(){   // inside the tap gesture, so the context is allowed to run
+  try{AU.ctx=new(window.AudioContext||window.webkitAudioContext)();AU.ctx.resume();}catch(e){AU.ctx=null;}
+}
+function micTap(stream){
+  if(!AU.ctx)return;
+  try{AU.mic=mkAn();const g=AU.ctx.createGain();g.gain.value=0;
+    AU.ctx.createMediaStreamSource(stream).connect(AU.mic);AU.mic.connect(g);g.connect(AU.ctx.destination);
+  }catch(e){AU.mic=null;}
+}
+function playTap(a){    // route through Web Audio only while it runs, else plain playback
+  if(!AU.ctx||AU.ctx.state!=='running')return;
+  try{if(!AU.out){AU.out=mkAn();AU.out.connect(AU.ctx.destination);}
+    AU.ctx.createMediaElementSource(a).connect(AU.out);}catch(e){}
+}
+function analyser(){return STATE==='listening'?AU.mic:STATE==='speaking'?AU.out:null;}
+function fake(t){       // demo: a speech-like envelope, about 4 syllables a second
+  if(STATE==='speaking'){const syl=Math.pow(Math.max(0,Math.sin(t*26)),.6),phr=.6+.4*Math.sin(t*1.7)*Math.sin(t*.63+1);
+    return Math.max(0,.12+.78*syl*phr+.06*Math.sin(t*63));}
+  if(STATE==='listening'){const syl=Math.pow(Math.max(0,Math.sin(t*22+1)),.8);return .08+.55*syl*(.6+.4*Math.sin(t*2.1));}
+  return 0;
+}
+let LV=0;
+function level(t){      // once per frame, t in seconds; 0..1 smoothed
+  let raw=0;
+  if(DEMO)raw=fake(t);
+  else{const an=analyser();if(an){an.getFloatTimeDomainData(TD);let s=0;for(let i=0;i<TD.length;i++)s+=TD[i]*TD[i];
+    raw=Math.min(1,Math.sqrt(s/TD.length)*4.5);}}
+  LV+=(raw-LV)*(raw>LV?.4:.12);
+  return LV;
+}
+
+show('','');ui('idle');
+let busy=false;   // true while thinking/speaking, key ignored
 
 async function startLoop(){
   const stream=await navigator.mediaDevices.getUserMedia({audio:{
     echoCancellation:true,noiseSuppression:true,autoGainControl:true}});
+  micTap(stream);
   const mime=MediaRecorder.isTypeSupported('audio/webm;codecs=opus')
     ?'audio/webm;codecs=opus':'audio/mp4';
 
@@ -225,9 +291,13 @@ async function startLoop(){
       if(d.error)console.warn(d.error);
       if(!d.woke){ ui('idle',d.error?RETRY:MISSED);busy=false;return; }
       show(d.heard,d.reply);
-      const done=()=>{ui('idle');busy=false;};
       if(d.audio){
-        const a=new Audio('data:audio/mp3;base64,'+d.audio);
+        const bin=atob(d.audio),u8=new Uint8Array(bin.length);
+        for(let i=0;i<bin.length;i++)u8[i]=bin.charCodeAt(i);
+        const url=URL.createObjectURL(new Blob([u8],{type:'audio/mpeg'}));   // blob: is same-origin, safe for Web Audio
+        const done=()=>{URL.revokeObjectURL(url);ui('idle');busy=false;};
+        const a=new Audio(url);
+        playTap(a);
         ui('speaking');
         a.onended=done;
         a.onerror=done;
@@ -237,10 +307,69 @@ async function startLoop(){
   }
 }
 
-$('start').addEventListener('click',async e=>{
+
+/* ---------- orb ---------- */
+(function(){
+  const cv=$('c'),stage=$('stage');
+  const gl=cv.getContext('webgl',{antialias:false,alpha:false})||cv.getContext('experimental-webgl');
+  if(!gl){document.body.classList.add('nogl');return;}
+  function sh(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
+    if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))console.error(gl.getShaderInfoLog(s));return s;}
+  const prog=gl.createProgram();
+  gl.attachShader(prog,sh(gl.VERTEX_SHADER,$('vert').textContent));
+  gl.attachShader(prog,sh(gl.FRAGMENT_SHADER,$('frag').textContent));
+  gl.linkProgram(prog);gl.useProgram(prog);
+  const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
+  gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,3,-1,-1,3]),gl.STATIC_DRAW);
+  const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);
+  gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
+  const U=n=>gl.getUniformLocation(prog,n);
+  const uC=U('u_c'),uR=U('u_r'),uT=U('u_time'),uLv=U('u_lv'),uW=U('u_w');
+  const dpr=Math.min(window.devicePixelRatio||1,1.5);
+  let R=0;
+  let box={x:0,y:0,w:1,h:1};
+  function resize(){cv.width=Math.max(1,innerWidth*dpr|0);cv.height=Math.max(1,innerHeight*dpr|0);
+    gl.viewport(0,0,cv.width,cv.height);const r=stage.getBoundingClientRect();
+    box={x:(r.left+r.width/2)*dpr,y:cv.height-(r.top+r.height/2)*dpr,w:r.width*dpr,h:r.height*dpr};}
+  new ResizeObserver(resize).observe(stage);addEventListener('resize',resize);resize();
+  const IDX={idle:0,listening:1,thinking:2,speaking:3},w=[1,0,0,0];
+  const t0=performance.now();
+  (function frame(now){
+    const t=(now-t0)/1000,lv=level(t)*(RM?.25:1);
+    const k=IDX[STATE]||0;for(let i=0;i<4;i++)w[i]+=((i===k?1:0)-w[i])*.06;
+    const target=Math.min(box.w*.38,box.h*.36);
+    R=R?R+(target-R)*.08:target;
+    gl.uniform2f(uC,box.x,box.y);gl.uniform1f(uR,R);
+    gl.uniform1f(uT,RM?t*.2:t);gl.uniform1f(uLv,lv);gl.uniform4f(uW,w[0],w[1],w[2],w[3]);
+    gl.drawArrays(gl.TRIANGLES,0,3);
+    $('dot').style.transform=STATE==='listening'||STATE==='speaking'?`scale(${1+lv*.9})`:'';
+    requestAnimationFrame(frame);
+  })(t0);
+})();
+/* ---------- demo: ?demo or opened from disk. No mic, loops the four states.
+   ?demo&state=speaking&ex=1 freezes one state (ex: 0 English, 1 Arabic, 2 long) ---------- */
+const EX=[["How fast is BOLT?","Fast enough to make lightning jealous. Our best run is 0.920 seconds."],
+          ["منو هجين؟","هجين هو تميمة الفريق، جمل سباق أزرق بلون برق."],
+          ["What makes your car different from the other teams, and how did you test it?",
+           "We shaped BOLT around one idea: less drag, same grip. The body went through dozens of CFD runs, then we printed the best three and raced them on the track. The winner was 0.04 seconds quicker every single run, and that is the car you see here."]];
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+async function demo(){
+  const hold=Q.get('state'),ex=EX[+Q.get('ex')||0]||EX[0];
+  if(hold){if(hold==='speaking'||Q.has('text'))show(ex[0],ex[1]);ui(hold);return;}
+  for(let i=0;;i=(i+1)%2){
+    ui('idle');await wait(2800);
+    show('','');ui('listening');await wait(2600);
+    ui('thinking');await wait(1500);
+    show(EX[i][0],EX[i][1]);ui('speaking');await wait(5600);
+  }
+}
+if(DEMO){$('start').remove();demo();}
+else $('start').addEventListener('click',async e=>{
   e.currentTarget.remove();
+  audioInit();
   try{await startLoop();}catch(err){ui('idle',MIC);}
 });
+
 </script>
 </body>
 </html>
